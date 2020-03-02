@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "iOS용 VLC는 iPad와 iPhone, iPod 전용으로 나온 무료/자유 VLC 미디어 플레이어입니다. \n저희는 대부분의 동영상, 방송과 음악 형식을 변환 과정 없이 바로 재생할 수 있습니다.\nDropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, 직접 다운로드와 Wifi 공유를 통한 파일 동기화를 할 수 있고 SMB, FTP, UPnP/DLNA 미디어 서버와 웹으로부터 스트리밍할 수도 있습니다.\nVLC는 SSA 적합성을 만족하고 다중 트랙 오디오, 재생 속도 조절과 같은 고급 자막 기술을 지원합니다.\n\niOS용 VLC은 완전한 오픈소스-자유 소프트웨어입니다.";
+
+"STORE_DESCRIPTION_TV" = "VLC 미디어 플레이어는 오픈소스-자유 소프트웨어인 멀티미디어 재생 프로그램입니다.\n저희는 대부분의 동영상, 방송과 음악 형식을 변환 과정 없이 바로 재생할 수 있습니다.\n클라우드 서비스(Dropbox, OneDrive, Box)를 통한 스트리밍 할 수 있고, 맥이나 PC에서 Web UI를 통해 원격으로 재생할 수 있을 뿐만 아니라 SMB, FTP, UPnP/DLNA 미디어 서버와 웹으로부터 스트리밍도 할 수 있습니다.\nVLC는 SSA 적합성을 만족하고 다중 트랙 오디오, 재생 속도 조절과 같은 고급 자막 기술을 지원합니다.\n\niOS용 VLC은 완전한 오픈소스-자유 소프트웨어입니다.\n\n메타데이터와 이미지는 영화 및 음악 데이터베이스 커뮤니티 TMDb와 Hatchet에서 제공되었습니다.";
+
+"CHOOSE_AUDIO_TRACK" = "음성 트랙 선택하기";
+"CHOOSE_SUBTITLE_TRACK" = "자막 트랙 선택하기";
+"OPEN_TRACK_PANEL" = "트랙 선택 열기";
+"CHOOSE_TITLE" = "타이틀 선택하기";
+"CHOOSE_CHAPTER" = "챕터 선택하기";
+"CHAPTER_SELECTION_TITLE" = "챕터";
+"TITLE" = "제목";
+"CHAPTER" = "챕터";
+"MINIMIZE_PLAYBACK_VIEW" = "재생 최소화";
+"TRACK_SELECTION" = "트랙 선택하기";
+"AUDIO" = "소리";
+"SUBTITLES" = "자막";
+"LANGUAGE" = "언어";
+"MEDIA_INFO" = "미디어 정보";
+"VIDEO_DIMENSIONS" = "비디오 차원";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i 픽셀";
+"FORMAT_AUDIO_TRACKS" = "오디오 트랙 %i 개";
+"ONE_AUDIO_TRACK" = "오디오 트랙 1 개";
+"FORMAT_SPU_TRACKS" = "자막 트랙 %i 개";
+"ONE_SPU_TRACK" = "자막 트랙 1 개";
+"TRACKS" = "%i트랙";
+"TRACK" = "%i트랙";
+
+"PLAYING_EXTERNALLY_TITLE" = "TV 연결됨";
+"PLAYING_EXTERNALLY_DESC" = "이 비디오는 TV에서 재생중입니다";
+"PLAYING_EXTERNALLY_ADDITION" = "\n현재 재생중:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "색조";
+"VFILTER_CONTRAST" = "명암";
+"VFILTER_BRIGHTNESS" = "밝기";
+"VFILTER_SATURATION" = "채도";
+"VFILTER_GAMMA" = "감마";
+
+"PREAMP" = "프리앰프";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "이퀄라이저 프로파일 선택하기";
+
+"PLAYBACK_FAILED" = "재생 실패";
+"PLEASE_WAIT" = "기다려주세요";
+"AR_CHANGED" = "화면 비율: %@";
+"DEFAULT" = "기본";
+"FILL_TO_SCREEN" = "화면에 채워 잘라내기";
+"PLAYBACK_SPEED" = "재생 속도";
+"SPU_DELAY" = "자막 지연";
+"AUDIO_DELAY" = "음성 지연";
+"BUTTON_SLEEP_TIMER" = "취침 타이머";
+"SLEEP_TIMER_UPDATED" = "수면 타이머 업데이트됨";
+"CONTINUE_PLAYBACK" = "이어서 보시겠습니까?";
+"CONTINUE_PLAYBACK_LONG" = "마지막으로 보신 \"%@\"부터 이어서 보시겠습니까?";
+
+"BUTTON_ABOUT" = "정보";
+"BUTTON_BACK" = "이전";
+"BUTTON_DONE" = "완료";
+"BUTTON_CANCEL" = "취소";
+"BUTTON_SAVE" = "저장";
+"BUTTON_DOWNLOAD" = "다운로드";
+"BUTTON_DELETE" = "삭제";
+"BUTTON_OK" = "확인";
+"BUTTON_CONTRIBUTE" = "기부하기";
+"BUTTON_CONNECT" = "연결하기";
+"BUTTON_RENAME" = "이름변경";
+"BUTTON_LEARN_MORE" = "더 보기";
+"BUTTON_LOGOUT" = "로그아웃";
+"BUTTON_CONTINUE" = "이어보기";
+"BUTTON_SET" = "설정";
+"BUTTON_RESET" = "초기화";
+"BUTTON_RESCAN" = "Rescan";
+"PRIVATE_PLAYBACK_TOGGLE" = "Private 재생";
+"SCAN_SUBTITLE_TOGGLE" = "자막 검색 (http만)";
+
+"BUTTON_RENDERER" = "캐스트 기기";
+"BUTTON_RENDERER_HINT" = "이용 가능 캐스트 기기를 표합니다";
+
+"UPGRADING_LIBRARY" = "미디어 라이브러리 업그레이드 중";
+"UNKNOWN" = "알 수 없음";
+
+"OPEN_NETWORK" = "네트워크 스트림 열기";
+"NETWORK_TITLE" = "네트워크 스트림";
+"OPEN_NETWORK_HELP" = "스트림을 직접 열려면 HTTP, RTSP, RTMP, MMS, FTP 나 UDP/RTP 주소를 입력하세요.";
+"HTTP_UPLOAD_SERVER_OFF" = "미활성 서버";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "유효한 WiFi 접속 없음";
+"OPEN_STREAM_OR_DOWNLOAD" = "이 주소를 다운로드하거나 재생할까요?";
+"SHARED_VLC_IOS_LIBRARY" = "공유된 iOS용 VLC 라이브러리";
+"SMB_CIFS_FILE_SERVERS" = "파일 서버(SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "사용자에 의해 다운로드 취소됨";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "파일을 당신의 %@로 다운로드할 주소를 입력하세요.";
+"DOWNLOAD_FROM_HTTP" = "다운로드";
+"ERROR_NUMBER" = "%i 에러 발생";
+"DOWNLOAD_FAILED" = "다운로드 실패";
+"FILE_NOT_SUPPORTED" = "파일 형식을 지원하지 않습니다";
+"FILE_NOT_SUPPORTED_LONG" = "%@에서 사용되는 파일 형식은 현재 버젼의 VLC(iOS용)은 지원하지 않습니다.";
+"SCHEME_NOT_SUPPORTED" = "주소 형식을 지원하지 않습니다";
+"SCHEME_NOT_SUPPORTED_LONG" = "주소 형식(%@)을 지원하지 않습니다. HTTP, HTTPS나 FTP로 시작하는 주소를 사용하세요.";
+"RENAME_MEDIA_TO" = "%@의 새 이름을 입력하세요";
+
+"FOLDER_EMPTY" = "빈 폴더";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "열 파일 선택:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "열기...";
+"SHARING_ERROR_NO_FILES" = "공유할 파일을 찾을 수 없음";
+"SHARING_ERROR_NO_APPLICATIONS" = "이 종류의 파일을 열 어플리케이션을 찾을 수 없음";
+"SHARING_SUCCESS_CAMERA_ROLL" = "파일이 카메라롤에 성공적으로 저장되었습니다";
+
+"STREAMVC_DETAILTEXT" = "다운로드 하지 않고 스트림을 재생하기";
+"DOWNLOADVC_DETAILTEXT" = "파일들을 당신의 기기에 바로 다운로드";
+"HEADER_TITLE_RENDERER" = "캐스트 기기를 선택합니다";
+
+"NETWORK" = "네트워크";
+"LOCAL_NETWORK" = "로컬 네트워크";
+"CONNECT_TO_SERVER" = "서버에 연결하기";
+"FILE_SERVER" = "파일 서버들";
+"USER_LABEL" = "사용자";
+"PASSWORD_LABEL" = "비밀번호";
+"DISABLE_LABEL" = "비활성화";
+"BUTTON_ANONYMOUS_LOGIN" = "익명 로그인";
+
+"LOCAL_SERVER_REFRESH" = "새로고침";
+"LOCAL_SERVER_LAST_UPDATE" = "마지막 업데이트: %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "서버 접속 실패";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "서버 주소와 자격 인증서를 확인해 주세요";
+
+"CLOUD_SERVICES" = "클라우드 서비스";
+"LOGIN" = "로그인";
+"LOGGED_IN" = "로그인 됨";
+"LOGGED_IN_SERVICES" = "%d이 서비스에 로그인 하였습니다";
+"LOGGED_IN_SERVICE" = "로그온한 서비스 1개";
+
+"DROPBOX_DOWNLOAD" = "파일을 다운로드할까요?";
+"DROPBOX_DL_LONG" = "\"%@\" 을 당신의 %@에 다운로드할까요?";
+"DROPBOX_LOGIN" = "로그인";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "파일 가져오는 중 오류 발생";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "파일을 성공적으로 다운로드했습니다";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "성공";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "다운로드 중 오류가 발생했습니다";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "오류";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "선택된 미디어에는 재생할 수 있는 URL이 없습니다";
+
+"DISK_FULL" = "저장 한계에 도달함";
+"DISK_FULL_FORMAT" = "빈 공간이 충분하지 않아서  %@를 %@에 저장할 수 없습니다.";
+
+"NUM_OF_FILES" = "%i 파일";
+"ONE_FILE" = "1 파일";
+"NO_FILES" = "지원되는 파일 없음";
+"DOWNLOADING" = "다운로드중...";
+"REMAINING_TIME" = "남은 시간: %@";
+"BIOMETRIC_UNLOCK" = "미디어 라이브러리 잠금 해제\n비밀번호를 입력하려면 취소하세요";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "비밀번호 시도 실패 %d회";
+"1 Failed Passcode Attempt" = "비밀번호 시도 실패 1회";
+"Change Passcode" = "비밀번호 변경";
+"Enter Passcode" = "비밀번호를 입력하세요";
+"Enter a passcode" = "비밀번호를 입력하세요";
+"Enter your new passcode" = "새 비밀번호를 입력하세요";
+"Enter your old passcode" = "이전 비밀번호를 입력하세요";
+"Enter your passcode" = "비밀번호를 입력하세요";
+"Next" = "다음";
+"Passcodes did not match. Try again." = "비밀번호가 맞지 않습니다. 다시 해 보세요.";
+"Re-enter your new passcode" = "새 비밀번호를 다시 입력하세요";
+"Re-enter your passcode" = "비밀번호를 다시 입력하세요";
+"Set Passcode" = "비밀번호 설정";
+
+"Settings" = "설정"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "켜기";
+"OFF" = "끄기";
+
+"EMPTY_LIBRARY" = "미디어 라이브러리 비우기";
+"EMPTY_LIBRARY_LONG" = "재생하려면 당신의 로컬 네트워크/클라우드에서 미디어를 스트림할 수 있고, 아이튠즈/와이파이 업로드/클라우드 서비스를 이용해 당신의 기기에 미디어를 동기화할 수 있습니다.";
+
+"EMPTY_PLAYLIST" = "Empty playlist";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Add media while editing in the respective categories.";
+
+"PLAYBACK_SCRUB_HELP" = "문지르는 속도를 조절하려면 손가락을 대고 아래로 밀어 보세요.";
+"PLAYBACK_SCRUB_HIGH" = "빠른 속도로 문지르기";
+"PLAYBACK_SCRUB_HALF" = "중간 속도로 문지르기";
+"PLAYBACK_SCRUB_QUARTER" = "1/4 속도로 문지르기";
+"PLAYBACK_SCRUB_FINE" = "미세하기 문지르기";
+"PLAYBACK_POSITION" = "재생 위치";
+"VIDEO_FILTER" = "비디오 필터";
+"VIDEO_FILTER_RESET_BUTTON" = "비디오 필터 초기화";
+"VIDEO_ASPECT_RATIO_BUTTON" = "비디오 화면 비율 전환하기";
+"PLAY_PAUSE_BUTTON" = "재생 / 일시 중지";
+"BWD_BUTTON" = "뒤로 이동하기";
+"FWD_BUTTON" = "앞으로 이동하기";
+"PLAY_BUTTON" = "재생하기";
+"NEXT_BUTTON" = "다음";
+"PREV_BUTTON" = "이전";
+"PLAY_ALL_BUTTON" = "모두 재생하기";
+
+"VERSION_FORMAT" = "버전: %@";
+"BASED_ON_FORMAT" = "사용: <br />%@";
+
+"NEW" = "새로운 기능";
+
+"BUG_REPORT_TITLE" = "버그를 신고합니다";
+"BUG_REPORT_MESSAGE" = "버그 리포트를 생성할까요?";
+"BUG_REPORT_BUTTON" = "사파리 열기";
+
+"VO_VIDEOPLAYER_TITLE" = "비디오 재생기";
+"VO_VIDEOPLAYER_DOUBLETAP" = "재생 컨트롤을 보거나 감추려면 두 번 클릭하세요.";
+
+"FIRST_STEPS_ITUNES" = "iTunes 파일 동기화하기";
+"FIRST_STEPS_ITUNES_TITLE" = "컴퓨터와 싱크하기";
+"FIRST_STEPS_ITUNES_DETAILS" = "iTunes에 기기를 연결하세요. 파일을 전송하기를 위하여 메뉴 왼편에 \"File Sharing\"을 선택하시고 VLC 항목을 찾아보세요.";
+"FIRST_STEPS_WIFI_TITLE" = "와이파이를 통한 공유";
+"FIRST_STEPS_WIFI_DETAILS" = "폰이 연결된 네트워크를 사용하며 발생된 URL을 가장 좋은 웹 브라우저에 넣기";
+"FIRST_STEPS_CLOUDS" = "클라우드";
+"FIRST_STEPS_CLOUD_TITLE" = "클라우드";
+"FIRST_STEPS_CLOUD_DETAILS" = "미디어를 멀리 내려받거나 스트리밍하기를 위하여 구글드라이브나 드랍박스 등 클라우드에 올려내기";
+
+
+"PLEX_CHECK_ACCOUNT" = "설정에서 Plex계정을 확인하세요";
+"PLEX_ERROR_ACCOUNT" = "Plex 로그인 오류";
+
+"UNAUTHORIZED" = "인증 안됨";
+
+"SERVER" = "서버";
+"SERVER_PORT" = "포트";
+"NO_SERVER_FOUND" = "서버를 찾지 못했습니다";
+"NO_RECENT_STREAMS" = "최근에 재생한 스트림이 없습니다";
+
+"WEBINTF_TITLE" = "WiFi를 통해 공유";
+"WEBINTF_DROPFILES" = "파일 놓기";
+"WEBINTF_DROPFILES_LONG" = " \"+\" 버튼을 클릭하여 %@에 추가하기 위한 파일을 선택합니다.<br>또는 창에 직접 파일을 끌어 놓으세요.";
+"WEBINTF_DOWNLOADFILES" = "파일 다운로드";
+"WEBINTF_DOWNLOADFILES_LONG" = "%@에서 다운로드할 파일을 클릭하세요.";
+"WEBINTF_TITLE_ATV" = "원격 재생";
+"WEBINTF_DROPFILES_LONG_ATV" = "%@에서 재생하기 위해서는 창에 파일을 드래그하세요.<br>아니면 \"+\" 버튼을 눌러 파일 선택기를 이용하세요.";
+"WEBINTF_URL_SENT" = "URL 보내기 완료";
+"WEBINTF_URL_EMPTY" = "URL이 반드시 있어야 합니다.";
+"WEBINTF_URL_INVALID" = "유효한 URL이 아닙니다.";
+
+
+
+"DURATION" = "재생시간";
+"TITLE" = "제목";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "재생을 정지하려면 길게 누르세요";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "오디오 정보";
+"CLOUD_LOGIN_LONG" = "클라우드 서비스를 이용하기 위해서는, 이 Apple TV와 다른 한 iOS 기기를 같은 Apple ID를 사용해 iCloud에 로그인 한 뒤, 시스템 설정에서 키체인 공유 설정을 활성화해야 합니다.";
+"ENTER_URL" = "재생하기 위해서는 URL을 입력하세요";
+"HTTP_SERVER_ON" = "원격 재생 비활성화하기";
+"HTTP_SERVER_OFF" = "원격 재생 활성화하기";
+"CACHED_MEDIA" = "캐시된 미디어";
+"CACHED_MEDIA_LONG" = "이곳에 보여지는 미디어는 당신의 Apple TV에 저장되어 있습니다. VLC가 실행되지 않는 때에도 기기 용량이 부족할 경우 운영체제가 사용자의 동의 없이 콘텐츠를 지울 수 있습니다.";
+"DOWNLOAD_SUBS_FROM_OSO" = "OpenSubtitles.org에서 자막을 다운받으세요...";
+"FOUND_SUBS" = "자막을 찾았습니다";
+"USE_SPDIF" = "(S/PDIF)를 통하여 사용";
+
+"PLAYBACK" = "재생";
+"REPEAT_MODE" = "반복";
+"REPEAT_DISABLED" = "사용하지 않음";
+"REPEAT_SINGLE" = "하나";
+"REPEAT_FOLDER" = "폴더";
+
+// Local Network Service Names
+"UPNP_LONG" = "유니버셜 플러그 앤 플래이(UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "(Bonjour를 사용한) Plex 미디어 서버";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "파일 전송 프로토콜(FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR 파일 서버";
+"DSM_WORKGROUP" = "작업 그룹";
+
+"URL_NOT_SUPPORTED" = "URL을 열 수 없습니다";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "지우려면 %@를 누르세요"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Confirm the deletion of the selection";
+"DELETE_MESSAGE_PLAYLIST" = "Are you sure to delete the selected playlist?\nAssociated media files won't be deleted.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Delete Selection";
+
+//Drag and Drop
+"THIS_FILE" = "이 파일";
+"NOT_SUPPORTED_FILETYPE" = "%@은 VLC에서 지원하는 파일유형이 아닙니다.";
+"FILE_EXISTS" = "%@이 이미 존재합니다";
+
+"PROTOCOL_NOT_SELECTED" = "프로토콜이 선택되지 않았습니다";
+"Settings" = "설정";
+
+"ERROR" = "오류";
+"OK" = "확인";
+"SORT" = "나열";
+"SORT_BY" = "다음 순으로 나열";
+"SEARCH" = "Search";
+"VIDEO" = "비디오";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "음반";
+"ARTISTS" = "예술가";
+"EPISODES" = "에피소드";
+"GENRES" = "장르";
+"MOVIES" = "영화";
+"SONGS" = "노래";
+"PLAYLISTS" = "재생목록";
+"VIDEO_GROUPS" = "Video groups";
+
+"MODIFIED_DATE" = "마지막 변경 날짜";
+"NAME" = "이름";
+
+//EDIT
+
+"BUTTON_EDIT" = "Edit";
+"BUTTON_EDIT_HINT" = "Edit mode";
+
+"ADD_TO_PLAYLIST" = "재생목록에 추가하기";
+"ADD_TO_PLAYLIST_HINT" = "\"재생목록에 추가\" 메뉴를 열기";
+
+"PLAYLIST_PLACEHOLDER" = "재생목록 제목";
+"PLAYLIST_DESCRIPTION" = "새 재생목록 제목을 선택하세요";
+"PLAYLIST_CREATION" = "새 재생목록을 만들기";
+"PLAYLIST_CREATION_HINT" = "새 재생목록을 만들기를 위하여 상호적인 행동을 표시하기";
+"ERROR_PLAYLIST_CREATION" = "재생목록 창작 실패";
+"ERROR_PLAYLIST_TRACKS" = "트랙 회수 실패";
+
+"ERROR_RENAME_FAILED" = "이름 변경 실패";
+"ERROR_EMPTY_NAME" = "제목이 반드시 있어야 합니다";
+
+"SHARE_LABEL" = "공유";
+"SHARE_HINT" = "선택된 파일 공유";
+"RENAME_HINT" = "선택된 파일의 이름 변경";
+"DELETE_HINT" = "선택된 파일 삭제";
+
+// Sort
+
+"BUTTON_SORT" = "Sort";
+"BUTTON_SORT_HINT" = "Display sort action sheet";
+"HEADER_TITLE_SORT" = "다음 순으로 나열";
+"DESCENDING_LABEL" = "Descending Order";
+"DESCENDING_SWITCH_LABEL" = "Ascending or descending order";
+"DESCENDING_SWITCH_HINT" = "Sort context in ascending or descending order";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "알파벳숫자순으로";
+"DURATION" = "재생시간";
+"INSERTION_DATE" = "삽입 날짜";
+"LAST_MODIFICATION_DATE" = "마지막 변경 날짜";
+"RELEASE_DATE" = "출시 날짜";
+"FILE_SIZE" = "파일 크기";
+"ARTIST" = "아티스트";
+"PLAY_COUNT" = "재생 카운트";
+"ALBUM" = "음반";
+"FILENAME" = "파일명";
+"TRACK_NUMBER" = "트랙 번호";
+"NB_AUDIO" = "Number of audio";
+"NB_MEDIA" = "Number of media";
+"NB_VIDEO" = "Number of video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "아무거 찾지 못하였습니다";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "알 수 없는 아티스트";
+"VARIOUS_ARTIST" = "여러 아티스트";
+"UNKNOWN_ALBUM" = "알 수 없는 음반";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Lock interface";
+"INTERFACE_LOCK_HINT" = "Disable interface controls";
+"MORE_OPTIONS_BUTTON" = "More";
+"MORE_OPTIONS_HINT" = "View more option controls";
+"REPEAT_MODE_HINT" = "Change repeat mode of current item";
+"VIDEO_ASPECT_RATIO_HINT" = "Change the aspect ratio of the current video";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Video Options";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Force media library rescan";
+"FORCE_RESCAN_MESSAGE" = "Do you want to force VLC to rescan your media library?\nIt could take some time.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";

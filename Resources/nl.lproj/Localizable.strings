@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "VLC voor iOS is een port van de gratis VLC media player naar iPad, iPhone en iPod touch.\nHet kan al uw films, series en muziek in de meeste formaten direct afspelen, zonder conversie.\nHet laat bestandssynchronisatie toe met Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, directe downloads, via WiFi-delen en ook streamen vanaf SMB, FTP, UPnP /DLNA mediaservers en het web. VLC biedt ondersteuning voor geavanceerde ondertitels inclusief volledige SSA-compatibiliteit, multi-track audio en regeling van afspeelsnelheid.\n\nVLC voor iOS is helemaal gratis en opensource.";
+
+"STORE_DESCRIPTION_TV" = "VLC media player is een gratis en opensource platform-overschrijdende multimediaspeler.\nHet kan al uw films, series en muziek in de meeste formaten direct afspelen zonder conversie.\nHet laat streaming toe van cloud-diensten (Dropbox, OneDrive, Box), Remote Playback vanaf uw Mac of pc via een web-UI en ook streamen van SMB, FTP, UPnP/DLNA mediaservers en het web.\nVLC biedt ondersteuning voor geavanceerde ondertitels inclusief volledige SSA-compatibiliteit, multi-track audio, en regeling van afspeelsnelheid.\n\nVLC voor iOS is volledig vrij en opensource.\n\nMetadata en albumhoezen worden voorzien door TMDb en Hatchet, die film- en muziekdatabases zijn die door de gemeenschap beheerd worden.";
+
+"CHOOSE_AUDIO_TRACK" = "Audiospoor kiezen";
+"CHOOSE_SUBTITLE_TRACK" = "Ondertitelspoor kiezen";
+"OPEN_TRACK_PANEL" = "Spoorselectie openen";
+"CHOOSE_TITLE" = "Titel kiezen";
+"CHOOSE_CHAPTER" = "Hoofdstuk kiezen";
+"CHAPTER_SELECTION_TITLE" = "Hoofdstukken";
+"TITLE" = "Titel";
+"CHAPTER" = "Hoofdstuk";
+"MINIMIZE_PLAYBACK_VIEW" = "Afspelen minimaliseren";
+"TRACK_SELECTION" = "Spoorselectie";
+"AUDIO" = "Audio";
+"SUBTITLES" = "Ondertitels";
+"LANGUAGE" = "Taal";
+"MEDIA_INFO" = "Media-informatie";
+"VIDEO_DIMENSIONS" = "Video-afmetingen";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i pixel";
+"FORMAT_AUDIO_TRACKS" = "%i audiosporen";
+"ONE_AUDIO_TRACK" = "Een audiospoor";
+"FORMAT_SPU_TRACKS" = "%i ondertitelsporen";
+"ONE_SPU_TRACK" = "Een ondertitelspoor";
+"TRACKS" = "%i tracks";
+"TRACK" = "%i track";
+
+"PLAYING_EXTERNALLY_TITLE" = "Tv verbonden";
+"PLAYING_EXTERNALLY_DESC" = "Deze video wordt afgespeeld op de tv";
+"PLAYING_EXTERNALLY_ADDITION" = "\n Speelt nu af op:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "Tint";
+"VFILTER_CONTRAST" = "Contrast";
+"VFILTER_BRIGHTNESS" = "Helderheid";
+"VFILTER_SATURATION" = "Verzadiging";
+"VFILTER_GAMMA" = "Gamma";
+
+"PREAMP" = "Voorversterking";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Equalizer-profiel kiezen";
+
+"PLAYBACK_FAILED" = "Afspelen mislukt";
+"PLEASE_WAIT" = "Even geduld";
+"AR_CHANGED" = "Beeldverhouding: %@";
+"DEFAULT" = "Standaard";
+"FILL_TO_SCREEN" = "Bijsnijden om scherm te vullen";
+"PLAYBACK_SPEED" = "Afspeelsnelheid";
+"SPU_DELAY" = "Ondertitelvertraging";
+"AUDIO_DELAY" = "Audiovertraging";
+"BUTTON_SLEEP_TIMER" = "Slaap-timer";
+"SLEEP_TIMER_UPDATED" = "Slaap-timer bijgewerkt";
+"CONTINUE_PLAYBACK" = "Afspelen hervatten?";
+"CONTINUE_PLAYBACK_LONG" = "Wilt u het afspelen van \"%@\" hervatten vanaf het laatste punt?";
+
+"BUTTON_ABOUT" = "Over";
+"BUTTON_BACK" = "Terug";
+"BUTTON_DONE" = "Klaar";
+"BUTTON_CANCEL" = "Annuleren";
+"BUTTON_SAVE" = "Opslaan";
+"BUTTON_DOWNLOAD" = "Downloaden";
+"BUTTON_DELETE" = "Verwijderen";
+"BUTTON_OK" = "OK";
+"BUTTON_CONTRIBUTE" = "Bijdragen";
+"BUTTON_CONNECT" = "Verbinden";
+"BUTTON_RENAME" = "Hernoemen";
+"BUTTON_LEARN_MORE" = "Meer informatie";
+"BUTTON_LOGOUT" = "Afmelden";
+"BUTTON_CONTINUE" = "Hervatten";
+"BUTTON_SET" = "Instellen";
+"BUTTON_RESET" = "Herstellen";
+"BUTTON_RESCAN" = "Opnieuw scannen";
+"PRIVATE_PLAYBACK_TOGGLE" = "Privé-afspelen";
+"SCAN_SUBTITLE_TOGGLE" = "Scannen voor ondertitels (alleen http)";
+
+"BUTTON_RENDERER" = "Casting-apparaten";
+"BUTTON_RENDERER_HINT" = "Een menu met beschikbare casting-apparaten weergeven";
+
+"UPGRADING_LIBRARY" = "Mediabiblitoheek bijwerken";
+"UNKNOWN" = "Onbekend";
+
+"OPEN_NETWORK" = "Netwerkstream openen";
+"NETWORK_TITLE" = "Netwerkstream";
+"OPEN_NETWORK_HELP" = "Geef een HTTP, RTSP, RTMP, MMS, FTP of UDP/RTP adres op om de stream direct te openen.";
+"HTTP_UPLOAD_SERVER_OFF" = "Inactieve server";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "Geen actieve WiFi-verbinding";
+"OPEN_STREAM_OR_DOWNLOAD" = "Wilt u deze url downloaden of afspelen?";
+"SHARED_VLC_IOS_LIBRARY" = "Gedeelde bibliotheek van VLC for iOS";
+"SMB_CIFS_FILE_SERVERS" = "Bestandsservers (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "Download geannuleerd door gebruiker";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "Geef een adres op om het bestand naar uw %@ te downloaden.";
+"DOWNLOAD_FROM_HTTP" = "Downloads";
+"ERROR_NUMBER" = "Fout %i opgetreden";
+"DOWNLOAD_FAILED" = "Downloaden mislukt";
+"FILE_NOT_SUPPORTED" = "Bestandsformaat niet ondersteund";
+"FILE_NOT_SUPPORTED_LONG" = "Het bestandsformaat dat gebruikt wordt door %@ wordt niet ondersteund door deze versie van VLC voor iOS.";
+"SCHEME_NOT_SUPPORTED" = "Adresformaat niet ondersteund";
+"SCHEME_NOT_SUPPORTED_LONG" = "Het adresformaat (%@) wordt niet ondersteund. Gebruik een adres dat begint met HTTP, HTTPS of FTP.";
+"RENAME_MEDIA_TO" = "Voer een nieuwe naam in voor %@";
+
+"FOLDER_EMPTY" = "Lege map";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Kies een bestand om te openen:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Openen in...";
+"SHARING_ERROR_NO_FILES" = "Kon geen bestanden vinden om te delen";
+"SHARING_ERROR_NO_APPLICATIONS" = "Kon geen toepassingen vinden om dit type bestand te openen";
+"SHARING_SUCCESS_CAMERA_ROLL" = "Bestand is succesvol opgeslagen in de camera roll";
+
+"STREAMVC_DETAILTEXT" = "Streams direct zonder downloaden afspelen";
+"DOWNLOADVC_DETAILTEXT" = "Bestanden direct naar uw apparaat downloaden";
+"HEADER_TITLE_RENDERER" = "Selecteer een casting-apparaat";
+
+"NETWORK" = "Netwerk";
+"LOCAL_NETWORK" = "Lokaal netwerk";
+"CONNECT_TO_SERVER" = "Verbinden met server";
+"FILE_SERVER" = "Bestandsservers";
+"USER_LABEL" = "Gebruiker";
+"PASSWORD_LABEL" = "Wachtwoord";
+"DISABLE_LABEL" = "Uitschakelen";
+"BUTTON_ANONYMOUS_LOGIN" = "Anonieme login";
+
+"LOCAL_SERVER_REFRESH" = "Vernieuwen";
+"LOCAL_SERVER_LAST_UPDATE" = "Laatst bijgewerkt op %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "VERBINDING MET SERVER MISLUKT";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "Controleer uw server-adres en inloggegevens";
+
+"CLOUD_SERVICES" = "Cloud-diensten";
+"LOGIN" = "Aanmelden";
+"LOGGED_IN" = "Aangemeld";
+"LOGGED_IN_SERVICES" = "%d aangemelde diensten";
+"LOGGED_IN_SERVICE" = "1 aangemelde dienst";
+
+"DROPBOX_DOWNLOAD" = "Bestand downloaden?";
+"DROPBOX_DL_LONG" = "Wilt u \"%@\" downloaden naar uw  %@?";
+"DROPBOX_LOGIN" = "Inloggen";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "Fout bij ophalen bestanden";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "Uw bestand werd succesvol gedownload";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "GELUKT";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "Er trad een fout op bij het downloaden";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "FOUT";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "Het geselecteerde medium heeft geen afspeelbare url";
+
+"DISK_FULL" = "Opslaglimiet bereikt";
+"DISK_FULL_FORMAT" = "%@ kan niet opgeslagen worden op uw %@, omdat u niet genoeg vrije ruime over hebt.";
+
+"NUM_OF_FILES" = "%i bestanden";
+"ONE_FILE" = "1 bestand";
+"NO_FILES" = "Geen ondersteunde bestanden";
+"DOWNLOADING" = "Downloaden...";
+"REMAINING_TIME" = "Resterende tijd: %@";
+"BIOMETRIC_UNLOCK" = "Mediabibliotheek ontgrendelen\nAnnuleren om paswoord in te geven";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d mislukte wachtwoordpogingen";
+"1 Failed Passcode Attempt" = "1 mislukte wachtwoordpoging";
+"Change Passcode" = "Wachtwoord wijzigen";
+"Enter Passcode" = "Wachtwoord ingeven";
+"Enter a passcode" = "Een wachtwoord ingeven";
+"Enter your new passcode" = "Nieuw wachtwoord ingeven";
+"Enter your old passcode" = "Oud wachtwoord ingeven";
+"Enter your passcode" = "Wachtwoord ingeven";
+"Next" = "Volgende";
+"Passcodes did not match. Try again." = "Wachtwoorden kwamen niet overeen. Probeer opnieuw.";
+"Re-enter your new passcode" = "Nieuw  wachtwoord opnieuw ingeven";
+"Re-enter your passcode" = "Wachtwoord opnieuw ingeven";
+"Set Passcode" = "Wachtwoord instellen";
+
+"Settings" = "Instellingen"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "Aan";
+"OFF" = "Uit";
+
+"EMPTY_LIBRARY" = "Mediabibliotheek leeg";
+"EMPTY_LIBRARY_LONG" = "Voor het afspelen kunt u media streamen vanaf een server op uw lokale netwerk of van de cloud, of u kunt media met uw apparaat synchroniseren met behulp van iTunes, Wifi-upload of clouddiensten.";
+
+"EMPTY_PLAYLIST" = "Afspeellijst leegmaken";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Media toevoegen tijdens het bewerken in de respectievelijke categorieën";
+
+"PLAYBACK_SCRUB_HELP" = "Beweeg uw vinger naar beneden om de scrubbing-ratio te wijzigen.";
+"PLAYBACK_SCRUB_HIGH" = "Hoge snelheid scrubben";
+"PLAYBACK_SCRUB_HALF" = "Halve snelheid scrubben";
+"PLAYBACK_SCRUB_QUARTER" = "Kwart-snelheid scrubben";
+"PLAYBACK_SCRUB_FINE" = "Fijn scrubben";
+"PLAYBACK_POSITION" = "Afspeelpositie";
+"VIDEO_FILTER" = "Videofilters";
+"VIDEO_FILTER_RESET_BUTTON" = "Videofilters herstellen";
+"VIDEO_ASPECT_RATIO_BUTTON" = "Beeldverhouding wisselen";
+"PLAY_PAUSE_BUTTON" = "Afspelen starten of pauzeren";
+"BWD_BUTTON" = "Achteruit springen";
+"FWD_BUTTON" = "Vooruit springen";
+"PLAY_BUTTON" = "Afspelen";
+"NEXT_BUTTON" = "Volgende";
+"PREV_BUTTON" = "Vorige";
+"PLAY_ALL_BUTTON" = "Alles afspelen";
+
+"VERSION_FORMAT" = "Versie: %@";
+"BASED_ON_FORMAT" = "Gebaseerd op:<br />%@";
+
+"NEW" = "NIEUW";
+
+"BUG_REPORT_TITLE" = "Een bug rapporteren";
+"BUG_REPORT_MESSAGE" = "Wilt u een bugrapport aanmaken?";
+"BUG_REPORT_BUTTON" = "Safari openen";
+
+"VO_VIDEOPLAYER_TITLE" = "Videospeler";
+"VO_VIDEOPLAYER_DOUBLETAP" = "Dubbel tikken om afspeelbediening weer te geven of te verbergen";
+
+"FIRST_STEPS_ITUNES" = "iTunes bestandssynchronisatie";
+"FIRST_STEPS_ITUNES_TITLE" = "Synchroniseren met uw computer";
+"FIRST_STEPS_ITUNES_DETAILS" = "Verbind uw apparaat met iTunes en selecteer uw apparaat. Selecteer \"bestandsdeling\" in het menu links in iTunes en zoek VLC om bestanden over te zetten";
+"FIRST_STEPS_WIFI_TITLE" = "Delen via wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Voer de gegenereerde URL in uw favoriete webbrowser in terwijl u verbonden bent met hetzelfde netwerk als uw telefoon";
+"FIRST_STEPS_CLOUDS" = "Clouds";
+"FIRST_STEPS_CLOUD_TITLE" = "Cloud";
+"FIRST_STEPS_CLOUD_DETAILS" = "Upload uw media naar een cloudservice zoals Google Drive of Dropbox om ze op afstand te downloaden of te streamen.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Controleer uw Plex-account in de instellingen";
+"PLEX_ERROR_ACCOUNT" = "Plex-aanmeldfout";
+
+"UNAUTHORIZED" = "Niet toegestaan";
+
+"SERVER" = "Server";
+"SERVER_PORT" = "Poort";
+"NO_SERVER_FOUND" = "Geen server gevonden";
+"NO_RECENT_STREAMS" = "Er is recent geen stream afgespeeld";
+
+"WEBINTF_TITLE" = "Delen via WiFi";
+"WEBINTF_DROPFILES" = "Bestanden neerzetten";
+"WEBINTF_DROPFILES_LONG" = "Zet bestanden in het venster om ze toe te voegen aan uw %@.<br>Of klik op de \"+\"-knop om het bestandskeuzevenster te gebruiken.";
+"WEBINTF_DOWNLOADFILES" = "Bestanden downloaden";
+"WEBINTF_DOWNLOADFILES_LONG" = "Klik op het bestand dat u wil downloaden van uw %@.";
+"WEBINTF_TITLE_ATV" = "Remote Playback";
+"WEBINTF_DROPFILES_LONG_ATV" = "Zet bestanden in het venster om ze af te spelen op uw %@.<br>Of klik op de \"+\"-knop om het bestandskeuzevenster te gebruiken.";
+"WEBINTF_URL_SENT" = "URL succesvol verzonden.";
+"WEBINTF_URL_EMPTY" = "URL mag niet leeg zijn.";
+"WEBINTF_URL_INVALID" = "Geen geldige URL";
+
+
+
+"DURATION" = "Duur";
+"TITLE" = "Titel";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Lang drukken om afspelen te stoppen.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Audio-info";
+"CLOUD_LOGIN_LONG" = "Om toegang te krijgen tot Cloud Services, meldt u zich aan op iCloud op deze Apple TV en een iOS-apparaat met dezelfde Apple ID en schakelt u Keychain Sharing in bij Systeeminstellingen.\nMeld u daarna aan bij de cloud provider die u wenst met de VLC app op uw iOS-apparaat. Als laatste, selecteer het op dit scherm.";
+"ENTER_URL" = "URL opgeven om af te spelen";
+"HTTP_SERVER_ON" = "Remote Playback uitschakelen";
+"HTTP_SERVER_OFF" = "Remote Playback inschakelen";
+"CACHED_MEDIA" = "Media in cache";
+"CACHED_MEDIA_LONG" = "De hier weergegeven media is lokaal opgeslagen op uw Apple TV. Merk op dat inhoud op elk moment verwijderd kan worden door het besturingssysteem zonder voorafgaande melding wanneer VLC niet draait en als uw toestel te weinig opslagruimte heeft.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Ondertitels downloaden van OpenSubttles.org...";
+"FOUND_SUBS" = "Ondertitels teruggevonden";
+"USE_SPDIF" = "Pass-through (S/PDIF) gebruiken";
+
+"PLAYBACK" = "Afspelen";
+"REPEAT_MODE" = "Herhalen";
+"REPEAT_DISABLED" = "Uitgeschakeld";
+"REPEAT_SINGLE" = "Een herhalen";
+"REPEAT_FOLDER" = "Map";
+
+// Local Network Service Names
+"UPNP_LONG" = "Universele Plug'n'Play (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex-mediaserver (via Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "File Transfer Protocol (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR bestandsserver";
+"DSM_WORKGROUP" = "Werkgroep";
+
+"URL_NOT_SUPPORTED" = "De url kan niet geopend worden";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Druk op %@ om te verwijderen"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Bevestig het wissen van de selectie";
+"DELETE_MESSAGE_PLAYLIST" = "Weet u zeker dat u de geselecteerde afspeellijst wilt verwijderen?\nBijbehorende mediabestanden worden niet verwijderd.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Weet u zeker dat u de geselecteerde media uit de afspeellijst verwijdert?\nZe worden niet van de schijf verwijderd.";
+"DELETE_TITLE" = "Selectie verwijderen";
+
+//Drag and Drop
+"THIS_FILE" = "Dit bestand";
+"NOT_SUPPORTED_FILETYPE" = "%@ is geen door VLC ondersteund bestandsformaat";
+"FILE_EXISTS" = "%@ bestaat al";
+
+"PROTOCOL_NOT_SELECTED" = "Protocol niet geselecteerd";
+"Settings" = "Instellingen";
+
+"ERROR" = "Fout";
+"OK" = "Ok";
+"SORT" = "Sorteren";
+"SORT_BY" = "Sorteren op";
+"SEARCH" = "Zoeken";
+"VIDEO" = "Video";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Albums";
+"ARTISTS" = "Artiesten";
+"EPISODES" = "Afleveringen";
+"GENRES" = "Genres";
+"MOVIES" = "Films";
+"SONGS" = "Nummers";
+"PLAYLISTS" = "Afspeellijsten";
+"VIDEO_GROUPS" = "Videogroepen";
+
+"MODIFIED_DATE" = "Datum gewijzigd";
+"NAME" = "Naam";
+
+//EDIT
+
+"BUTTON_EDIT" = "Bewerken";
+"BUTTON_EDIT_HINT" = "Bewerkingsmodus";
+
+"ADD_TO_PLAYLIST" = "Aan afspeellijst toevoegen";
+"ADD_TO_PLAYLIST_HINT" = "Menu 'aan afspeellijst toevoegen' openen";
+
+"PLAYLIST_PLACEHOLDER" = "Titel afspeellijst";
+"PLAYLIST_DESCRIPTION" = "Kies een titel voor uw nieuwe afspeellijst";
+"PLAYLIST_CREATION" = "Een nieuwe afspeellijst maken";
+"PLAYLIST_CREATION_HINT" = "Een interactieve actie weergeven om een afspeellijst te maken";
+"ERROR_PLAYLIST_CREATION" = "Kon geen afspeellijst aanmaken";
+"ERROR_PLAYLIST_TRACKS" = "Kon tracks niet ophalen";
+
+"ERROR_RENAME_FAILED" = "Naam wijzigen mislukt";
+"ERROR_EMPTY_NAME" = "De titel mag niet leeg zijn";
+
+"SHARE_LABEL" = "Delen";
+"SHARE_HINT" = "Geselecteerde bestanden delen";
+"RENAME_HINT" = "Naam van geselecteerde bestanden wijzigen";
+"DELETE_HINT" = "Geselecteerde bestanden verwijderen";
+
+// Sort
+
+"BUTTON_SORT" = "Sorteren";
+"BUTTON_SORT_HINT" = "Sorteerhandeling-blad weergeven";
+"HEADER_TITLE_SORT" = "Sorteren op";
+"DESCENDING_LABEL" = "Aflopende volgorde";
+"DESCENDING_SWITCH_LABEL" = "Oplopende of aflopende volgorde";
+"DESCENDING_SWITCH_HINT" = "Context sorteren in oplopende of aflopende volgorde";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alfanumeriek";
+"DURATION" = "Duur";
+"INSERTION_DATE" = "Datum ingevoegd";
+"LAST_MODIFICATION_DATE" = "Laatst gewijzigd";
+"RELEASE_DATE" = "Verschijningsdatum";
+"FILE_SIZE" = "Bestandsgrootte";
+"ARTIST" = "Artiest";
+"PLAY_COUNT" = "Aantal keer afgespeeld";
+"ALBUM" = "Album";
+"FILENAME" = "Bestandsnaam";
+"TRACK_NUMBER" = "Tracknummer";
+"NB_AUDIO" = "Audio-aantal";
+"NB_MEDIA" = "Media-aantal";
+"NB_VIDEO" = "Video-aantal";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Niets teruggevonden";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Onbekende artiest";
+"VARIOUS_ARTIST" = "Diverse artiesten";
+"UNKNOWN_ALBUM" = "Onbekend album";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Interface vergrendelen";
+"INTERFACE_LOCK_HINT" = "Interfacebedieningen uitschakelen";
+"MORE_OPTIONS_BUTTON" = "Meer";
+"MORE_OPTIONS_HINT" = "Meer optiebedieningen weergeven";
+"REPEAT_MODE_HINT" = "Herhaalmodus van huidig item veranderen";
+"VIDEO_ASPECT_RATIO_HINT" = "Beelverhouding van de huidige video veranderen";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Video-opties";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Opnieuw scannen van mediabibliotheek forceren";
+"FORCE_RESCAN_MESSAGE" = "Wilt u VLC dwingen om uw mediabibliotheek opnieuw te scannen?\nHet kan enige tijd duren.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1-verbindingswaarschuwing";
+"SMBV1_WARN_DESCRIPTION" = "We hebben een oud protocol (SMBv1) ontdekt.\nWeet u echt zeker dat u doorgaat met SMBv1?\nWij adviseren u om uw serverinstellingen te upgraden of te wijzigen.";
+"SMBV1_CONTINUE" = "Doorgaan met SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "SMBv2/v3 proberen";

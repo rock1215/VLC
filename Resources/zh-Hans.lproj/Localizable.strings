@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "VLC for iOS 是自由软件 VLC media player 的 iPad、iPhone 及 iPod touch 移植版本。\n它能够直接播放绝大多数* 格式的影片、节目及音乐，无需转换。\n它支持通过 Dropbox、GDrive、OneDrive、Box、iCloud Drive、iTunes、直接下载链接、WiFi 共享 同步文件，还可以直接播放 SMB、FTP、UPnP/DLNA 媒体服务器以及网络上的流媒体。\nVLC 还支持高级字幕格式（包括对 SSA 的完全兼容）、多轨道音频以及回放速度控制。\n\nVLC for iOS 完全免费及开源。\n\n* 译者注：由于杜比实验室不同意其专利格式被开源软件实现，VLC for iOS 自 2.4.1 版本起，不再支持下述音频格式：Dolby Digital (AC-3)、Dolby Digital Plus (E-AC-3)、Dolby TrueHD (MLP)。敬请谅解，并耐心等待专利过期。";
+
+"STORE_DESCRIPTION_TV" = "VLC media player 是一款免费、自由且开源的跨平台多媒体播放器。\n它可以直接播放大多数格式的影片、节目及音乐，无需转换。\n它允许从云服务 (Dropbox、OneDrive、Box) 串流播放，可以通过 Web 界面从 Mac 或 PC 远程回放，以及直接播放 SMB、FTP、UPnP/DLNA 媒体服务器及网络上的流媒体。\nVLC 支持高级字幕格式（包括对 SSA 的完全兼容），多轨道音频以及回放速度控制。\n\nVLC for iOS 完全免费及开源。\n\n元数据及专辑封面由 TMDb 与 Hatchet 提供，它们均为社区维护的影片及音乐数据库。";
+
+"CHOOSE_AUDIO_TRACK" = "选择音频轨道";
+"CHOOSE_SUBTITLE_TRACK" = "选择字幕轨道";
+"OPEN_TRACK_PANEL" = "打开轨道选择面板";
+"CHOOSE_TITLE" = "选择标题";
+"CHOOSE_CHAPTER" = "选择章节";
+"CHAPTER_SELECTION_TITLE" = "章节";
+"TITLE" = "标题";
+"CHAPTER" = "章节";
+"MINIMIZE_PLAYBACK_VIEW" = "最小化回放";
+"TRACK_SELECTION" = "轨道选择";
+"AUDIO" = "音频";
+"SUBTITLES" = "字幕";
+"LANGUAGE" = "语言";
+"MEDIA_INFO" = "媒体信息";
+"VIDEO_DIMENSIONS" = "视频分辨率";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i 像素";
+"FORMAT_AUDIO_TRACKS" = "%i 条音频轨道";
+"ONE_AUDIO_TRACK" = "一条音频轨道";
+"FORMAT_SPU_TRACKS" = "%i 条字幕轨道";
+"ONE_SPU_TRACK" = "一条字幕轨道";
+"TRACKS" = "%i 条轨道";
+"TRACK" = "%i 条轨道";
+
+"PLAYING_EXTERNALLY_TITLE" = "TV 已连接";
+"PLAYING_EXTERNALLY_DESC" = "该视频正在电视上播放";
+"PLAYING_EXTERNALLY_ADDITION" = "\n 正投屏的设备:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "色调";
+"VFILTER_CONTRAST" = "对比度";
+"VFILTER_BRIGHTNESS" = "亮度";
+"VFILTER_SATURATION" = "饱和度";
+"VFILTER_GAMMA" = "伽玛";
+
+"PREAMP" = "放大器";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "选择均衡器配置文件";
+
+"PLAYBACK_FAILED" = "回放失败";
+"PLEASE_WAIT" = "请稍候";
+"AR_CHANGED" = "宽高比: %@";
+"DEFAULT" = "默认";
+"FILL_TO_SCREEN" = "裁剪到填满屏幕";
+"PLAYBACK_SPEED" = "回放速度";
+"SPU_DELAY" = "字幕延迟";
+"AUDIO_DELAY" = "音频延迟";
+"BUTTON_SLEEP_TIMER" = "睡眠计时器";
+"SLEEP_TIMER_UPDATED" = "睡眠计时器已更新";
+"CONTINUE_PLAYBACK" = "继续回放?";
+"CONTINUE_PLAYBACK_LONG" = "是否从上次离开的地方继续播放“%@”?";
+
+"BUTTON_ABOUT" = "关于";
+"BUTTON_BACK" = "返回";
+"BUTTON_DONE" = "完成";
+"BUTTON_CANCEL" = "取消";
+"BUTTON_SAVE" = "保存";
+"BUTTON_DOWNLOAD" = "下载";
+"BUTTON_DELETE" = "删除";
+"BUTTON_OK" = "确定";
+"BUTTON_CONTRIBUTE" = "贡献";
+"BUTTON_CONNECT" = "连接";
+"BUTTON_RENAME" = "重命名";
+"BUTTON_LEARN_MORE" = "了解更多";
+"BUTTON_LOGOUT" = "退出";
+"BUTTON_CONTINUE" = "继续";
+"BUTTON_SET" = "设置";
+"BUTTON_RESET" = "重置";
+"BUTTON_RESCAN" = "Rescan";
+"PRIVATE_PLAYBACK_TOGGLE" = "私密回放";
+"SCAN_SUBTITLE_TOGGLE" = "扫描字幕文件 (仅限 http)";
+
+"BUTTON_RENDERER" = "投屏设备";
+"BUTTON_RENDERER_HINT" = "显示可用投屏设备菜单";
+
+"UPGRADING_LIBRARY" = "正在升级媒体库";
+"UNKNOWN" = "未知";
+
+"OPEN_NETWORK" = "打开网络串流";
+"NETWORK_TITLE" = "网络串流";
+"OPEN_NETWORK_HELP" = "请输入任意 HTTP、RTSP、RTMP、MMS、FTP 或 UDP/RTP 地址，以便直接打开串流。";
+"HTTP_UPLOAD_SERVER_OFF" = "非活动服务器";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "无活动的 WiFi 连接";
+"OPEN_STREAM_OR_DOWNLOAD" = "您是否希望下载或打开该 URL?";
+"SHARED_VLC_IOS_LIBRARY" = "共享 VLC for iOS 库";
+"SMB_CIFS_FILE_SERVERS" = "文件服务器 (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "下载已被用户取消";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "请输入文件的地址，以便将其下载到您的 %@。";
+"DOWNLOAD_FROM_HTTP" = "下载内容";
+"ERROR_NUMBER" = "发生错误 %i";
+"DOWNLOAD_FAILED" = "下载失败";
+"FILE_NOT_SUPPORTED" = "文件格式不支持";
+"FILE_NOT_SUPPORTED_LONG" = "当前版本的 VLC for iOS 尚不支持 %@ 所使用的文件格式。";
+"SCHEME_NOT_SUPPORTED" = "地址协议不支持";
+"SCHEME_NOT_SUPPORTED_LONG" = "不支持此地址协议 (%@)。请使用以 HTTP、HTTPS 或 FTP 开头的地址。";
+"RENAME_MEDIA_TO" = "请为 %@ 输入新名称";
+
+"FOLDER_EMPTY" = "空文件夹";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "选择要打开的文件:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "打开方式...";
+"SHARING_ERROR_NO_FILES" = "没有可分享的文件";
+"SHARING_ERROR_NO_APPLICATIONS" = "找不到可以打开该类型文件的应用程序";
+"SHARING_SUCCESS_CAMERA_ROLL" = "文件已成功存入相机胶卷";
+
+"STREAMVC_DETAILTEXT" = "直接播放串流，不必下载";
+"DOWNLOADVC_DETAILTEXT" = "将文件直接下载到设备";
+"HEADER_TITLE_RENDERER" = "选择投屏设备";
+
+"NETWORK" = "网络";
+"LOCAL_NETWORK" = "本地网络";
+"CONNECT_TO_SERVER" = "连接到服务器";
+"FILE_SERVER" = "文件服务器";
+"USER_LABEL" = "用户";
+"PASSWORD_LABEL" = "密码";
+"DISABLE_LABEL" = "禁用";
+"BUTTON_ANONYMOUS_LOGIN" = "匿名登录";
+
+"LOCAL_SERVER_REFRESH" = "刷新";
+"LOCAL_SERVER_LAST_UPDATE" = "上次更新于 %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "*服务器连接失败*";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "请检查您服务器的地址及登录凭据";
+
+"CLOUD_SERVICES" = "云服务";
+"LOGIN" = "登录";
+"LOGGED_IN" = "已登录";
+"LOGGED_IN_SERVICES" = "%d 个服务已登录";
+"LOGGED_IN_SERVICE" = "一个服务已登录";
+
+"DROPBOX_DOWNLOAD" = "下载文件?";
+"DROPBOX_DL_LONG" = "是否希望将“%@”下载到您的 %@?";
+"DROPBOX_LOGIN" = "登录";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "装取文件时发生错误";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "您的文件已成功下载";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "*成功*";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "下载时发生了一个错误";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "*错误*";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "选中的媒体没有可播放的 url";
+
+"DISK_FULL" = "超出存储限制";
+"DISK_FULL_FORMAT" = "由于剩余空间不足，%@ 无法存储到您的 %@。";
+
+"NUM_OF_FILES" = "%i 个文件";
+"ONE_FILE" = "1 个文件";
+"NO_FILES" = "无媒体文件";
+"DOWNLOADING" = "正在下载...";
+"REMAINING_TIME" = "剩余时间: %@";
+"BIOMETRIC_UNLOCK" = "解锁媒体库\n按「取消」可输入密码解锁";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "口令验证失败 %d 次";
+"1 Failed Passcode Attempt" = "口令验证失败 1 次";
+"Change Passcode" = "更改锁定口令";
+"Enter Passcode" = "输入锁定口令";
+"Enter a passcode" = "请输入锁定口令";
+"Enter your new passcode" = "请输入新口令";
+"Enter your old passcode" = "请输入旧口令";
+"Enter your passcode" = "请输入您的锁定口令";
+"Next" = "下一步";
+"Passcodes did not match. Try again." = "口令不匹配。请再试一次。";
+"Re-enter your new passcode" = "请再次输入新口令";
+"Re-enter your passcode" = "请再次输入口令";
+"Set Passcode" = "设置锁定口令";
+
+"Settings" = "设置"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "开";
+"OFF" = "关";
+
+"EMPTY_LIBRARY" = "媒体库为空";
+"EMPTY_LIBRARY_LONG" = "要开始使用回放功能，您可以在线播放云端媒体，或本地网络中服务器上的媒体文件，或通过 iTunes、WiFi 上传或云存储服务将媒体文件同步到您的设备中。";
+
+"EMPTY_PLAYLIST" = "Empty playlist";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Add media while editing in the respective categories.";
+
+"PLAYBACK_SCRUB_HELP" = "向下滑动手指可调整步进间隔。";
+"PLAYBACK_SCRUB_HIGH" = "高速步进";
+"PLAYBACK_SCRUB_HALF" = "半速步进";
+"PLAYBACK_SCRUB_QUARTER" = "¼速步进";
+"PLAYBACK_SCRUB_FINE" = "常速步进";
+"PLAYBACK_POSITION" = "回放位置";
+"VIDEO_FILTER" = "视频滤镜";
+"VIDEO_FILTER_RESET_BUTTON" = "重置视频滤镜";
+"VIDEO_ASPECT_RATIO_BUTTON" = "切换视频宽高比";
+"PLAY_PAUSE_BUTTON" = "播放或暂停当前内容";
+"BWD_BUTTON" = "快进";
+"FWD_BUTTON" = "快退";
+"PLAY_BUTTON" = "播放";
+"NEXT_BUTTON" = "下一曲";
+"PREV_BUTTON" = "上一曲";
+"PLAY_ALL_BUTTON" = "全部播放";
+
+"VERSION_FORMAT" = "版本: %@";
+"BASED_ON_FORMAT" = "基于:<br />%@";
+
+"NEW" = "NEW";
+
+"BUG_REPORT_TITLE" = "报告 bug";
+"BUG_REPORT_MESSAGE" = "是否希望创建错误报告?";
+"BUG_REPORT_BUTTON" = "打开 Safari";
+
+"VO_VIDEOPLAYER_TITLE" = "视频播放器";
+"VO_VIDEOPLAYER_DOUBLETAP" = "轻按两次可显示或隐藏回放控件";
+
+"FIRST_STEPS_ITUNES" = "iTunes 文件同步";
+"FIRST_STEPS_ITUNES_TITLE" = "与计算机同步";
+"FIRST_STEPS_ITUNES_DETAILS" = "将设备连接到 iTunes 并选择该设备。在 iTunes 左侧菜单中选择「文件共享」，找到「VLC」，即可开始传输文件";
+"FIRST_STEPS_WIFI_TITLE" = "通过 wifi 共享";
+"FIRST_STEPS_WIFI_DETAILS" = "连接到手机所处的网络，并在您偏好的 web 浏览器中输入生成的 URL";
+"FIRST_STEPS_CLOUDS" = "云存储";
+"FIRST_STEPS_CLOUD_TITLE" = "云";
+"FIRST_STEPS_CLOUD_DETAILS" = "将媒体上传到云服务，例如 Google Drive 或 Dropbox，即可远程下载/串流播放。";
+
+
+"PLEX_CHECK_ACCOUNT" = "在设置中检查您的 Plex 账号";
+"PLEX_ERROR_ACCOUNT" = "Plex 登录错误";
+
+"UNAUTHORIZED" = "未经授权";
+
+"SERVER" = "服务器";
+"SERVER_PORT" = "端口";
+"NO_SERVER_FOUND" = "未找到服务器";
+"NO_RECENT_STREAMS" = "最近没有播放流";
+
+"WEBINTF_TITLE" = "通过 WiFi 分享";
+"WEBINTF_DROPFILES" = "拖放文件";
+"WEBINTF_DROPFILES_LONG" = "请将打算添加到 %@ 的文件拖入本窗口。<br>也可以点击“+”按钮，打开文件选择对话框。";
+"WEBINTF_DOWNLOADFILES" = "下载文件";
+"WEBINTF_DOWNLOADFILES_LONG" = "点击希望从 %@ 下载的文件。";
+"WEBINTF_TITLE_ATV" = "远程回放";
+"WEBINTF_DROPFILES_LONG_ATV" = "请将文件拖放到本窗口，以在您的 %@ 上播放。<br>或者点击“+”按钮打开文件选择对话框。";
+"WEBINTF_URL_SENT" = "URL 已成功发送。";
+"WEBINTF_URL_EMPTY" = "URL 不能为空。";
+"WEBINTF_URL_INVALID" = "不是有效的 URL。";
+
+
+
+"DURATION" = "时长";
+"TITLE" = "标题";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "长按可停止回放。";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "音频信息";
+"CLOUD_LOGIN_LONG" = "要访问云服务，请使用相同的 Apple ID 在本 Apple TV 与一款 iOS 设备上登录 iCloud，并在系统设置中启用钥匙环共享。\n使用 iOS 设备上的 VLC，登录任意云服务商。最后在本屏幕上选择该服务商。";
+"ENTER_URL" = "输入要播放的 URL";
+"HTTP_SERVER_ON" = "禁用远程回放";
+"HTTP_SERVER_OFF" = "启用远程回放";
+"CACHED_MEDIA" = "已缓存的媒体";
+"CACHED_MEDIA_LONG" = "这里显示的是您 Apple TV 本地存储的媒体。请注意，当 VLC 没有运行时，操作系统可能会为了腾出更多存储空间，而将这些内容移除，并且不会事先通知。";
+"DOWNLOAD_SUBS_FROM_OSO" = "正在从 OpenSubtitles.org 下载字幕...";
+"FOUND_SUBS" = "已找到字幕";
+"USE_SPDIF" = "使用呈递 (S/PDIF)";
+
+"PLAYBACK" = "回放";
+"REPEAT_MODE" = "重复";
+"REPEAT_DISABLED" = "已禁用";
+"REPEAT_SINGLE" = "单曲";
+"REPEAT_FOLDER" = "文件夹";
+
+// Local Network Service Names
+"UPNP_LONG" = "通用即插即用 (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex 媒体服务器 (通过 Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "文件传输协议 (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "bonjour 文件服务器";
+"DSM_WORKGROUP" = "工作组";
+
+"URL_NOT_SUPPORTED" = "该 URL 无法打开";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "按住 %@ 可删除"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Confirm the deletion of the selection";
+"DELETE_MESSAGE_PLAYLIST" = "Are you sure to delete the selected playlist?\nAssociated media files won't be deleted.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Delete Selection";
+
+//Drag and Drop
+"THIS_FILE" = "此文件";
+"NOT_SUPPORTED_FILETYPE" = "VLC 不支持 %@ 文件类型";
+"FILE_EXISTS" = "%@ 已存在";
+
+"PROTOCOL_NOT_SELECTED" = "未选择协议";
+"Settings" = "设置";
+
+"ERROR" = "错误";
+"OK" = "确定";
+"SORT" = "排序";
+"SORT_BY" = "排序条件";
+"SEARCH" = "搜索";
+"VIDEO" = "视频";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "专辑";
+"ARTISTS" = "艺术家";
+"EPISODES" = "剧集";
+"GENRES" = "流派";
+"MOVIES" = "影片";
+"SONGS" = "歌曲";
+"PLAYLISTS" = "播放列表";
+"VIDEO_GROUPS" = "Video groups";
+
+"MODIFIED_DATE" = "修改日期";
+"NAME" = "名称";
+
+//EDIT
+
+"BUTTON_EDIT" = "编辑";
+"BUTTON_EDIT_HINT" = "编辑模式";
+
+"ADD_TO_PLAYLIST" = "添加到播放列表";
+"ADD_TO_PLAYLIST_HINT" = "打开「添加到播放列表」菜单";
+
+"PLAYLIST_PLACEHOLDER" = "播放列表标题";
+"PLAYLIST_DESCRIPTION" = "为新播放列表选择标题";
+"PLAYLIST_CREATION" = "新建播放列表";
+"PLAYLIST_CREATION_HINT" = "显示用于创建播放列表的交互操作";
+"ERROR_PLAYLIST_CREATION" = "无法创建播放列表";
+"ERROR_PLAYLIST_TRACKS" = "无法获取轨道信息";
+
+"ERROR_RENAME_FAILED" = "重命名失败";
+"ERROR_EMPTY_NAME" = "标题不能为空";
+
+"SHARE_LABEL" = "分享";
+"SHARE_HINT" = "分享选中文件";
+"RENAME_HINT" = "重命名选中文件";
+"DELETE_HINT" = "删除选中文件";
+
+// Sort
+
+"BUTTON_SORT" = "排序";
+"BUTTON_SORT_HINT" = "显示排序方式菜单";
+"HEADER_TITLE_SORT" = "排序条件";
+"DESCENDING_LABEL" = "降序";
+"DESCENDING_SWITCH_LABEL" = "升序或降序";
+"DESCENDING_SWITCH_HINT" = "以升序或降序排列上下文";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "字母顺序";
+"DURATION" = "时长";
+"INSERTION_DATE" = "插入日期";
+"LAST_MODIFICATION_DATE" = "最后修改日期";
+"RELEASE_DATE" = "发布日期";
+"FILE_SIZE" = "文件大小";
+"ARTIST" = "艺术家";
+"PLAY_COUNT" = "播放次数";
+"ALBUM" = "专辑";
+"FILENAME" = "文件名";
+"TRACK_NUMBER" = "轨道号";
+"NB_AUDIO" = "Number of audio";
+"NB_MEDIA" = "Number of media";
+"NB_VIDEO" = "Number of video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "未发现任何内容";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "未知艺术家";
+"VARIOUS_ARTIST" = "群星";
+"UNKNOWN_ALBUM" = "未知专辑";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "锁定界面";
+"INTERFACE_LOCK_HINT" = "禁用界面控件";
+"MORE_OPTIONS_BUTTON" = "更多";
+"MORE_OPTIONS_HINT" = "查看更多选项控件";
+"REPEAT_MODE_HINT" = "更改当前项目的重复模式";
+"VIDEO_ASPECT_RATIO_HINT" = "更改当前视频的宽高比";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Video Options";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Force media library rescan";
+"FORCE_RESCAN_MESSAGE" = "Do you want to force VLC to rescan your media library?\nIt could take some time.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";

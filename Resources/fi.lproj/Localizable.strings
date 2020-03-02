@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "VLC for iOS on VLC-mediatoistimen versio, joka toimii iPadilla, iPhonella ja iPod touchilla.\nOhjelman avulla voit katsella elokuvia ja tv-ohjelmia sekä kuunnella musiikkia useimmissa eri tiedostomuodoissa muuntamatta niitä ensin.\nVLC for iOSin avulla voit myös synkronoida tiedostoja Dropboxista, Google Drivestä, OneDrivestä, Boxista, iCloud Drivestä ja iTunesista. Lisäksi voit ladata suoraan osoitteen perusteella tai Wi-Fi-jaon avulla. Voit myös suoratoistaa mediaa SMB-, FTP- ja UPnP-/DLNA-mediapalvelimilta ja verkosta.\nVLC tarjoaa tuen kehittyneille tekstityksille, sisältäen täyden SSA-yhteensopivuuden, monikanavaäänet ja nopeuden säädön.\nVLC for iOS on täysin ilmainen ja vapaata lähdekoodia.";
+
+"STORE_DESCRIPTION_TV" = "VLC on ilmainen ja vapaan lähdekoodin mediatoistin, joka toimii eri järjestelmissä.\nOhjelman avulla voit katsella elokuvia ja tv-ohjelmia sekä kuunnella musiikkia useimmissa eri tiedostomuodoissa muuntamatta niitä ensin.\nVLC:n avulla voit suoratoistaa mediaa pilvipalveluista (Dropbox, OneDrive, Box), toistaa etänä Macilta tai PC:ltäsi verkkokäyttöliittymän avulla. Voit myös suoratoistaa mediaa SMB-, FTP- ja UPnP-/DLNA-mediapalvelimilta ja verkosta.\nVLC tarjoaa tuen kehittyneille tekstityksille, sisältäen täyden SSA-yhteensopivuuden, monikanavaäänet ja nopeuden säädön.\nVLC for iOS on täysin ilmainen ja vapaata lähdekoodia.\nMetatiedot ja kansikuvat ovat peräisin TMDb:stä ja Hatchetistä, jotka ovat yhteisön ylläpitämiä elokuva- ja musiikkitietokantoja.";
+
+"CHOOSE_AUDIO_TRACK" = "Valitse ääniraita";
+"CHOOSE_SUBTITLE_TRACK" = "Valitse tekstitysraita";
+"OPEN_TRACK_PANEL" = "Avaa raitavalinta";
+"CHOOSE_TITLE" = "Valitse nimike";
+"CHOOSE_CHAPTER" = "Valitse luku";
+"CHAPTER_SELECTION_TITLE" = "Kohtaukset";
+"TITLE" = "Nimi";
+"CHAPTER" = "Kohtaus";
+"MINIMIZE_PLAYBACK_VIEW" = "Pienennä toisto";
+"TRACK_SELECTION" = "Raidan valinta";
+"AUDIO" = "Ääni";
+"SUBTITLES" = "Tekstitykset";
+"LANGUAGE" = "Kieli";
+"MEDIA_INFO" = "Median tiedot";
+"VIDEO_DIMENSIONS" = "Videon mitat";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i pikseli";
+"FORMAT_AUDIO_TRACKS" = "%i ääniraitaa";
+"ONE_AUDIO_TRACK" = "Yksi ääniraita";
+"FORMAT_SPU_TRACKS" = "%i tekstitysraitaa";
+"ONE_SPU_TRACK" = "Yksi tekstitysraita";
+"TRACKS" = "%i Tracks";
+"TRACK" = "%i Track";
+
+"PLAYING_EXTERNALLY_TITLE" = "TV yhdistetty";
+"PLAYING_EXTERNALLY_DESC" = "Tätä videota toistetaan TV:ssä";
+"PLAYING_EXTERNALLY_ADDITION" = "\n Now playing on:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "Sävy";
+"VFILTER_CONTRAST" = "Kontrasti";
+"VFILTER_BRIGHTNESS" = "Kirkkaus";
+"VFILTER_SATURATION" = "Värikylläisyys";
+"VFILTER_GAMMA" = "Gamma";
+
+"PREAMP" = "Esivahvistus";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Valitse taajuuskorjaimen profiili";
+
+"PLAYBACK_FAILED" = "Toisto epäonnistui";
+"PLEASE_WAIT" = "Odota";
+"AR_CHANGED" = "Kuvasuhde: %@";
+"DEFAULT" = "Oletus";
+"FILL_TO_SCREEN" = "Rajaa täyttämään ruutu";
+"PLAYBACK_SPEED" = "Toiston nopeus";
+"SPU_DELAY" = "Tekstitysten viive";
+"AUDIO_DELAY" = "Äänen viive";
+"BUTTON_SLEEP_TIMER" = "Uniajastin";
+"SLEEP_TIMER_UPDATED" = "Sleep Timer Updated";
+"CONTINUE_PLAYBACK" = "Jatketaanko toistoa?";
+"CONTINUE_PLAYBACK_LONG" = "Haluatko jatkaa kohteen \"%@\" toistoa siitä, mihin jäit?";
+
+"BUTTON_ABOUT" = "About";
+"BUTTON_BACK" = "Takaisin";
+"BUTTON_DONE" = "Valmis";
+"BUTTON_CANCEL" = "Peruuta";
+"BUTTON_SAVE" = "Tallenna";
+"BUTTON_DOWNLOAD" = "Lataa";
+"BUTTON_DELETE" = "Poista";
+"BUTTON_OK" = "OK";
+"BUTTON_CONTRIBUTE" = "Osallistu";
+"BUTTON_CONNECT" = "Yhdistä";
+"BUTTON_RENAME" = "Nimeä uudelleen";
+"BUTTON_LEARN_MORE" = "Lisätietoja";
+"BUTTON_LOGOUT" = "Kirjaudu ulos";
+"BUTTON_CONTINUE" = "Jatka";
+"BUTTON_SET" = "Set";
+"BUTTON_RESET" = "Reset";
+"BUTTON_RESCAN" = "Rescan";
+"PRIVATE_PLAYBACK_TOGGLE" = "Älä tallenna historiaa";
+"SCAN_SUBTITLE_TOGGLE" = "Etsi tekstityksiä (vain http-yhteydellä)";
+
+"BUTTON_RENDERER" = "Casting devices";
+"BUTTON_RENDERER_HINT" = "Show a menu of available casting devices";
+
+"UPGRADING_LIBRARY" = "Päivitetään mediakirjastoa";
+"UNKNOWN" = "Tuntematon";
+
+"OPEN_NETWORK" = "Avaa suoratoisto verkosta";
+"NETWORK_TITLE" = "Verkkosuoratoisto";
+"OPEN_NETWORK_HELP" = "Syötä mikä tahansa HTTP-, RTSP-, RTMP-, MMS, FTP- tai UDP-/RTP-osoite avataksesi suoratoiston.";
+"HTTP_UPLOAD_SERVER_OFF" = "Palvelin ei ole aktiivinen";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "Ei Wi-Fi-yhteyttä";
+"OPEN_STREAM_OR_DOWNLOAD" = "Haluaisitko ladata tämän osoitteen tiedoston vai toistaa sen?";
+"SHARED_VLC_IOS_LIBRARY" = "Jaettu VLC for iOS -kirjasto";
+"SMB_CIFS_FILE_SERVERS" = "Tiedostopalvelimet (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "Käyttäjä peruutti latauksen";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "Syötä osoite ladataksesi tiedoston laitteeseen %@.";
+"DOWNLOAD_FROM_HTTP" = "Lataukset";
+"ERROR_NUMBER" = "Virhe %i ilmaantui";
+"DOWNLOAD_FAILED" = "Lataus epäonnistui";
+"FILE_NOT_SUPPORTED" = "Tiedostomuotoa ei tueta";
+"FILE_NOT_SUPPORTED_LONG" = "The file format used by %@ is not supported by this version of VLC for iOS.";
+"SCHEME_NOT_SUPPORTED" = "Osoitetyyppi ei ole tuettu";
+"SCHEME_NOT_SUPPORTED_LONG" = "Osoitetyyppi (%@) ei ole tuettu. Ole hyvä ja käytä HTTP-, HTTPS- tai FTP-alkuista osoitetta.";
+"RENAME_MEDIA_TO" = "Syötä uusi nimi tiedostolle %@";
+
+"FOLDER_EMPTY" = "Empty folder";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Valitse tiedosto, jonka haluat avata:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Avaa...";
+"SHARING_ERROR_NO_FILES" = "Jaettavia tiedostoja ei löytynyt";
+"SHARING_ERROR_NO_APPLICATIONS" = "Tälle tiedostotyypille sopivia ohjelmia ei löytynyt";
+"SHARING_SUCCESS_CAMERA_ROLL" = "Tiedosto tallennettiin Kameran rullaan";
+
+"STREAMVC_DETAILTEXT" = "Play streams directly without downloading";
+"DOWNLOADVC_DETAILTEXT" = "Download files directly to your device";
+"HEADER_TITLE_RENDERER" = "Select a casting device";
+
+"NETWORK" = "Network";
+"LOCAL_NETWORK" = "Lähiverkko";
+"CONNECT_TO_SERVER" = "Yhdistä palvelimeen";
+"FILE_SERVER" = "File Servers";
+"USER_LABEL" = "Käyttäjä";
+"PASSWORD_LABEL" = "Salasana";
+"DISABLE_LABEL" = "Poista käytöstä";
+"BUTTON_ANONYMOUS_LOGIN" = "Nimetön kirjautuminen";
+
+"LOCAL_SERVER_REFRESH" = "Päivitä";
+"LOCAL_SERVER_LAST_UPDATE" = "Viimeksi päivitetty %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "PALVELIMEEN YHDISTÄMINEN EPÄONNISTUI";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "Tarkista palvelimen osoite ja kirjautumistiedot";
+
+"CLOUD_SERVICES" = "Pilvipalvelut";
+"LOGIN" = "Kirjaudu";
+"LOGGED_IN" = "Kirjautunut";
+"LOGGED_IN_SERVICES" = "%d logged in services";
+"LOGGED_IN_SERVICE" = "1 logged in service";
+
+"DROPBOX_DOWNLOAD" = "Ladataanko tiedosto?";
+"DROPBOX_DL_LONG" = "Haluatko ladata tiedoston \"%@\" laitteelle %@?";
+"DROPBOX_LOGIN" = "Kirjaudu";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "Virhe haettaessa tiedostoja";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "Tiedoston lataus onnistui";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "VALMIS";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "Ladattaessa ilmaantui virhe";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "VIRHE";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "The selected Media doesn't have a playable url";
+
+"DISK_FULL" = "Tallennustilaa ei ole jäljellä";
+"DISK_FULL_FORMAT" = "Tiedostoa %@ ei voida tallentaa laitteeseen %@, koska siinä ei ole riittävästi vapaata tilaa.";
+
+"NUM_OF_FILES" = "%i tiedostoa";
+"ONE_FILE" = "1 tiedosto";
+"NO_FILES" = "Ei tuettuja tiedostoja";
+"DOWNLOADING" = "Ladataan...";
+"REMAINING_TIME" = "Aikaa jäljellä: %@";
+"BIOMETRIC_UNLOCK" = "Unlock Media Library\nCancel to enter Passcode";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d Failed Passcode Attempts";
+"1 Failed Passcode Attempt" = "1 Failed Passcode Attempt";
+"Change Passcode" = "Change Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Enter a passcode" = "Enter a passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your passcode" = "Enter your passcode";
+"Next" = "Next";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Re-enter your new passcode" = "Re-enter your new passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Set Passcode" = "Set Passcode";
+
+"Settings" = "Asetukset"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "Päällä";
+"OFF" = "Pois";
+
+"EMPTY_LIBRARY" = "Mediakirjasto on tyhjä";
+"EMPTY_LIBRARY_LONG" = "Voit suoratoistaa mediaa lähiverkossa olevalta palvelimelta tai pilvipalvelusta. Voit myös synkronoida mediaa laitteeseesi iTunesin, WiFi-latauksen tai pilvipalvelujen kautta.";
+
+"EMPTY_PLAYLIST" = "Empty playlist";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Add media while editing in the respective categories.";
+
+"PLAYBACK_SCRUB_HELP" = "Säädä raahausnopeutta vetämällä sormea alas.";
+"PLAYBACK_SCRUB_HIGH" = "Nopea raahaus";
+"PLAYBACK_SCRUB_HALF" = "Puolinopea raahaus";
+"PLAYBACK_SCRUB_QUARTER" = "Raahaus neljäsosanopeudella";
+"PLAYBACK_SCRUB_FINE" = "Tarkka raahaus";
+"PLAYBACK_POSITION" = "Toistosijainti";
+"VIDEO_FILTER" = "Videosuodattimet";
+"VIDEO_FILTER_RESET_BUTTON" = "Nollaa videosuodattimet";
+"VIDEO_ASPECT_RATIO_BUTTON" = "Vaihda videon kuvasuhdetta";
+"PLAY_PAUSE_BUTTON" = "Toista tai keskeytä nykyinen toisto";
+"BWD_BUTTON" = "Siirry taaksepäin";
+"FWD_BUTTON" = "Siirry eteenpäin";
+"PLAY_BUTTON" = "Toista";
+"NEXT_BUTTON" = "Next";
+"PREV_BUTTON" = "Previous";
+"PLAY_ALL_BUTTON" = "Toista kaikki";
+
+"VERSION_FORMAT" = "Versio: %@";
+"BASED_ON_FORMAT" = "Pohjautuu:<br />%@";
+
+"NEW" = "UUSI";
+
+"BUG_REPORT_TITLE" = "Ilmoita ohjelmavirheestä";
+"BUG_REPORT_MESSAGE" = "Haluaisitko tehdä ilmoituksen ohjelmavirheestä?";
+"BUG_REPORT_BUTTON" = "Avaa Safari";
+
+"VO_VIDEOPLAYER_TITLE" = "Videosoitin";
+"VO_VIDEOPLAYER_DOUBLETAP" = "Näytä tai piilota toistotyökalut napauttamalla kahdesti";
+
+"FIRST_STEPS_ITUNES" = "iTunes-tiedostosynkronointi";
+"FIRST_STEPS_ITUNES_TITLE" = "Sync With Your Computer";
+"FIRST_STEPS_ITUNES_DETAILS" = "Connect your device to iTunes and select your device. Select \"File Sharing\" on the left side menu of iTunes and look for VLC to transfer files";
+"FIRST_STEPS_WIFI_TITLE" = "Share via Wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Enter the generated URL in your favorite web browser while connected to the same network as your phone";
+"FIRST_STEPS_CLOUDS" = "Pilvipalvelut";
+"FIRST_STEPS_CLOUD_TITLE" = "Cloud";
+"FIRST_STEPS_CLOUD_DETAILS" = "Upload your media to a cloud service like Google Drive or Dropbox to remotely download or stream them.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Tarkista Plex-tilisi asetuksissa";
+"PLEX_ERROR_ACCOUNT" = "Plex-kirjautumisvirhe";
+
+"UNAUTHORIZED" = "Ei pääsyä";
+
+"SERVER" = "Palvelin";
+"SERVER_PORT" = "Portti";
+"NO_SERVER_FOUND" = "Palvelinta ei löytynyt";
+"NO_RECENT_STREAMS" = "Ei äskettäisiä suoratoistoja";
+
+"WEBINTF_TITLE" = "Wi-Fi-jako";
+"WEBINTF_DROPFILES" = "Pudota tiedostoja";
+"WEBINTF_DROPFILES_LONG" = "Lisää tiedostoja laitteeseen %@ vetämällä ja pudottamalla ne tähän ikkunaan. <br>Voit myös napsauttaa \"+\"-painiketta tiedostojen lisäämiseksi.";
+"WEBINTF_DOWNLOADFILES" = "Lataa tiedostoja";
+"WEBINTF_DOWNLOADFILES_LONG" = "Napsauta tiedostoa, jonka haluat ladata laitteelta %@.";
+"WEBINTF_TITLE_ATV" = "Etätoisto";
+"WEBINTF_DROPFILES_LONG_ATV" = "Pudota tiedostoja ikkunaan, jotta voit toistaa niitä laitteella %@.<br>Voit myös napsauttaa painiketta \"+\" valitaksesi tiedostot ikkunan avulla.";
+"WEBINTF_URL_SENT" = "Osoite lähetetty onnistuneesti.";
+"WEBINTF_URL_EMPTY" = "Osoite ei voi olla tyhjä.";
+"WEBINTF_URL_INVALID" = "Osoite ei kelpaa.";
+
+
+
+"DURATION" = "Kesto";
+"TITLE" = "Nimi";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Pysäytä toisto painamalla pitkään.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Audio Info";
+"CLOUD_LOGIN_LONG" = "Jos haluat käyttää pilvipalveluita, kirjaudu iCloudiin samalla Apple ID:llä sekä tällä Apple TV:llä että iOS-laitteella ja ota Avainnipun jakaminen käyttöön järjestelmäasetuksissa.\nTämän jälkeen kirjaudu haluamaasi pilvipalveluun VLC-ohjelmassa iOS-laitteellasi. Sitten valitse palvelu tässä ruudussa.";
+"ENTER_URL" = "Syötä toistettava osoite";
+"HTTP_SERVER_ON" = "Poista etätoisto käytöstä";
+"HTTP_SERVER_OFF" = "Ota etätoisto käyttöön";
+"CACHED_MEDIA" = "Media välimuistissa";
+"CACHED_MEDIA_LONG" = "Tässä näytetään mediat, jotka on tallennettu Apple TV:n muistiin. Huomaa, että käyttöjärjestelmä voi poistaa medioita ennakkoon ilmoittamatta silloin kun VLC ei ole käytössä, jos laitteen tila loppuu kesken.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Lataa tekstitykset OpenSubtitles.orgista...";
+"FOUND_SUBS" = "Tekstityksiä löytyi";
+"USE_SPDIF" = "Käytä läpivientiä (S/PDIF)";
+
+"PLAYBACK" = "Toisto";
+"REPEAT_MODE" = "Toista";
+"REPEAT_DISABLED" = "Pois käytöstä";
+"REPEAT_SINGLE" = "Yksittäinen";
+"REPEAT_FOLDER" = "Kansio";
+
+// Local Network Service Names
+"UPNP_LONG" = "Universal Plug'n'Play (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex-mediapalvelin (Bonjourin kautta)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "File Transfer Protocol (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR File Server";
+"DSM_WORKGROUP" = "Workgroup";
+
+"URL_NOT_SUPPORTED" = "The URL can't be opened";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Poista painamalla %@"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Confirm the deletion of the selection";
+"DELETE_MESSAGE_PLAYLIST" = "Are you sure to delete the selected playlist?\nAssociated media files won't be deleted.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Delete Selection";
+
+//Drag and Drop
+"THIS_FILE" = "This file";
+"NOT_SUPPORTED_FILETYPE" = "%@ is not a supported filetype by VLC";
+"FILE_EXISTS" = "%@ already exists";
+
+"PROTOCOL_NOT_SELECTED" = "Protocol not selected";
+"Settings" = "Asetukset";
+
+"ERROR" = "Error";
+"OK" = "Ok";
+"SORT" = "Sort";
+"SORT_BY" = "Sort by";
+"SEARCH" = "Search";
+"VIDEO" = "Video";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Albums";
+"ARTISTS" = "Artists";
+"EPISODES" = "Episodes";
+"GENRES" = "Genres";
+"MOVIES" = "Movies";
+"SONGS" = "Songs";
+"PLAYLISTS" = "Playlists";
+"VIDEO_GROUPS" = "Video groups";
+
+"MODIFIED_DATE" = "Modified date";
+"NAME" = "Name";
+
+//EDIT
+
+"BUTTON_EDIT" = "Edit";
+"BUTTON_EDIT_HINT" = "Edit mode";
+
+"ADD_TO_PLAYLIST" = "Add to Playlist";
+"ADD_TO_PLAYLIST_HINT" = "Open the add to playlist menu";
+
+"PLAYLIST_PLACEHOLDER" = "Playlist title";
+"PLAYLIST_DESCRIPTION" = "Choose a title for your new playlist";
+"PLAYLIST_CREATION" = "Create a new playlist";
+"PLAYLIST_CREATION_HINT" = "Show an interactive action to create a playlist";
+"ERROR_PLAYLIST_CREATION" = "Failed to create a playlist";
+"ERROR_PLAYLIST_TRACKS" = "Failed to retrieve tracks";
+
+"ERROR_RENAME_FAILED" = "Renaming failed";
+"ERROR_EMPTY_NAME" = "The title can't be empty";
+
+"SHARE_LABEL" = "Share";
+"SHARE_HINT" = "Share selected files";
+"RENAME_HINT" = "Rename selected files";
+"DELETE_HINT" = "Delete selected files";
+
+// Sort
+
+"BUTTON_SORT" = "Sort";
+"BUTTON_SORT_HINT" = "Display sort action sheet";
+"HEADER_TITLE_SORT" = "Sort by";
+"DESCENDING_LABEL" = "Descending Order";
+"DESCENDING_SWITCH_LABEL" = "Ascending or descending order";
+"DESCENDING_SWITCH_HINT" = "Sort context in ascending or descending order";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alphanumerically";
+"DURATION" = "Kesto";
+"INSERTION_DATE" = "Insertion date";
+"LAST_MODIFICATION_DATE" = "Last modification date";
+"RELEASE_DATE" = "Release date";
+"FILE_SIZE" = "File size";
+"ARTIST" = "Artist";
+"PLAY_COUNT" = "Play count";
+"ALBUM" = "Album";
+"FILENAME" = "Filename";
+"TRACK_NUMBER" = "Track number";
+"NB_AUDIO" = "Number of audio";
+"NB_MEDIA" = "Number of media";
+"NB_VIDEO" = "Number of video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Nothing found";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Unknown Artist";
+"VARIOUS_ARTIST" = "Various Artists";
+"UNKNOWN_ALBUM" = "Unknown Album";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Lock interface";
+"INTERFACE_LOCK_HINT" = "Disable interface controls";
+"MORE_OPTIONS_BUTTON" = "More";
+"MORE_OPTIONS_HINT" = "View more option controls";
+"REPEAT_MODE_HINT" = "Change repeat mode of current item";
+"VIDEO_ASPECT_RATIO_HINT" = "Change the aspect ratio of the current video";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Video Options";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Force media library rescan";
+"FORCE_RESCAN_MESSAGE" = "Do you want to force VLC to rescan your media library?\nIt could take some time.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";

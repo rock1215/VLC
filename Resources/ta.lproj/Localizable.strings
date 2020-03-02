@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "VLC for iOS is a port of the free VLC media player to iPad, iPhone and iPod touch.\nIt can play all your movies, shows and music in most formats directly without conversion.\nIt allows file synchronization with Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, direct downloads and through WiFi sharing as well as streaming from SMB, FTP, UPnP/DLNA media servers and the web.\nVLC offers support for advanced subtitles including full SSA compatibility, multi-track audio, and playback speed control.\n\nVLC for iOS is completely free and open source.";
+
+"STORE_DESCRIPTION_TV" = "VLC media player is a free and open source cross-platform multimedia player.\nIt can play all your movies, shows and music in most formats directly without conversion.\nIt allows streaming from cloud services (Dropbox, OneDrive, Box), Remote Playback from your Mac or PC via a Web UI as well as streaming from SMB, FTP, UPnP/DLNA media servers and the web.\nVLC offers support for advanced subtitles including full SSA compatibility, multi-track audio, and playback speed control.\n\nVLC for iOS is completely free and open source.\n\nMetadata and artwork are provided by TMDb and Hatchet, which are community maintained movie and music databases.";
+
+"CHOOSE_AUDIO_TRACK" = "ஒலித் தடத்தை தேர்வுச்செய்";
+"CHOOSE_SUBTITLE_TRACK" = "துணைத்தலைப்பு தடத்தைத் தேர்வுச்செய்";
+"OPEN_TRACK_PANEL" = "தடம் தெரிவைத் திற";
+"CHOOSE_TITLE" = "தலைப்பு தேர்வுசெய்";
+"CHOOSE_CHAPTER" = "அத்தியாயம் தேர்வுசெய்";
+"CHAPTER_SELECTION_TITLE" = "அத்தியாயங்கள்";
+"TITLE" = "தலைப்பு";
+"CHAPTER" = "அத்தியாயம்";
+"MINIMIZE_PLAYBACK_VIEW" = "பின்னணி சிறியதாக்கு";
+"TRACK_SELECTION" = "சுவடு அமைப்புகள்";
+"AUDIO" = "ஆடியோ";
+"SUBTITLES" = "துணைஉரைகள்";
+"LANGUAGE" = "மொழி";
+"MEDIA_INFO" = "ஊடக தகவல்கள்";
+"VIDEO_DIMENSIONS" = "நிகழ்பட அளவு";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i படப்புள்ளி";
+"FORMAT_AUDIO_TRACKS" = "%i ஒலி தடம்";
+"ONE_AUDIO_TRACK" = "ஒலி தடம்";
+"FORMAT_SPU_TRACKS" = "%i வசன சுவடு";
+"ONE_SPU_TRACK" = "வசன சுவடு";
+"TRACKS" = "%i Tracks";
+"TRACK" = "%i Track";
+
+"PLAYING_EXTERNALLY_TITLE" = "தொலைகாட்சி இணைக்கப்பட்டது";
+"PLAYING_EXTERNALLY_DESC" = "இக்காணொளி தொலைக்காட்சியில் இயக்கப்படுகிறது";
+"PLAYING_EXTERNALLY_ADDITION" = "\n Now playing on:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "சாயல்";
+"VFILTER_CONTRAST" = "பேதம்காட்டு";
+"VFILTER_BRIGHTNESS" = "பிரகாசம்";
+"VFILTER_SATURATION" = "தெவிட்டு";
+"VFILTER_GAMMA" = "காமா";
+
+"PREAMP" = "Preamp";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "சமநிலைக்கு முகக்குறிப்பு தேர்வுசெய்";
+
+"PLAYBACK_FAILED" = "பின்னணி இயக்கம் தோல்வியுற்றது";
+"PLEASE_WAIT" = "காத்திருக்கவும்…";
+"AR_CHANGED" = "தோற்ற விகிதம்: %@";
+"DEFAULT" = "முன்னிருப்பு";
+"FILL_TO_SCREEN" = "திரையை நிரப்ப வெட்டு";
+"PLAYBACK_SPEED" = "பின்னணி இயக்க வேகம்";
+"SPU_DELAY" = "துணைத்தலைப்புகள் தாமதம்";
+"AUDIO_DELAY" = "ஒலித் தாமதம்";
+"BUTTON_SLEEP_TIMER" = "தூங்கு கடிகாரம்";
+"SLEEP_TIMER_UPDATED" = "தூங்கு கடிகாரம புதுப்பிக்கப்பட்டது";
+"CONTINUE_PLAYBACK" = "பின்னணியை தொடர் ?";
+"CONTINUE_PLAYBACK_LONG" = "Would you like to continue playback of \"%@\" where you left off?";
+
+"BUTTON_ABOUT" = "About";
+"BUTTON_BACK" = "பின்னே";
+"BUTTON_DONE" = "முடிந்தது";
+"BUTTON_CANCEL" = "இரத்து";
+"BUTTON_SAVE" = "சேமி";
+"BUTTON_DOWNLOAD" = "பதிவிறக்கு";
+"BUTTON_DELETE" = "அழி";
+"BUTTON_OK" = "சரி";
+"BUTTON_CONTRIBUTE" = "பங்களி";
+"BUTTON_CONNECT" = "இணை";
+"BUTTON_RENAME" = "மறுபெயரிடு";
+"BUTTON_LEARN_MORE" = "மேலும் அறிய";
+"BUTTON_LOGOUT" = "வெளியேறு";
+"BUTTON_CONTINUE" = "தொடர்க";
+"BUTTON_SET" = "Set";
+"BUTTON_RESET" = "Reset";
+"BUTTON_RESCAN" = "Rescan";
+"PRIVATE_PLAYBACK_TOGGLE" = "தனிப்பட்ட பின்னணி இயக்கம்";
+"SCAN_SUBTITLE_TOGGLE" = "துணைத்தலைப்புகளுக்காக தேடிப் பார் (http மட்டும்)";
+
+"BUTTON_RENDERER" = "Casting devices";
+"BUTTON_RENDERER_HINT" = "Show a menu of available casting devices";
+
+"UPGRADING_LIBRARY" = "பல்லூடக நூலகத்தைப் புதுப்பிக்கிறது";
+"UNKNOWN" = "அறியாத";
+
+"OPEN_NETWORK" = "பிணைய ஓடையை திற";
+"NETWORK_TITLE" = "பிணைய ஓடம்";
+"OPEN_NETWORK_HELP" = "ஓடைய நேரடியாகத் திறக்க பின்வரும் ஒரு முகவரியை HTTP, RTSP, RTMP, MMS, FTP அல்லது UDP/RTP உள்ளிடு.";
+"HTTP_UPLOAD_SERVER_OFF" = "செயலிலந்த சேவகன்";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "செயலிலுள்ள வை-பை பிணையம் ஏதுமில்லை";
+"OPEN_STREAM_OR_DOWNLOAD" = "இந்த URL ஐ இயக்க அல்லது பதிவிறக்க விருப்பமா?";
+"SHARED_VLC_IOS_LIBRARY" = "VLC பகிரப்பட்ட IOS தொகுப்பு";
+"SMB_CIFS_FILE_SERVERS" = "கோப்பு சேவகன்கள் (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "பயனர் பதிவிறக்கத்தை இரத்து செய்தார்";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "உங்கள் %@ இடத்திற்கு கோப்பை பதிவிறக்க ஒரு முகவரியை உள்ளிடு.";
+"DOWNLOAD_FROM_HTTP" = "பதிவிறக்கங்கள்";
+"ERROR_NUMBER" = "%i பிழை நேர்ந்தது";
+"DOWNLOAD_FAILED" = "பதிவிறக்கம் தோல்வியுற்றது";
+"FILE_NOT_SUPPORTED" = "கோப்பு வகை ஆதரவற்றது";
+"FILE_NOT_SUPPORTED_LONG" = "The file format used by %@ is not supported by this version of VLC for iOS.";
+"SCHEME_NOT_SUPPORTED" = "முகவரி திட்டம் ஆதரவற்றது";
+"SCHEME_NOT_SUPPORTED_LONG" = "முகவரி திட்டம்(%@) ஆதரவற்றது. HTTP, HTTPS அல்லது FTP போன்வற்றை கொண்டு தொடங்கும் முகவரியைப் பயன்படுத்தவும்.";
+"RENAME_MEDIA_TO" = "%@ இற்கு புதிய பெயரை உள்ளிடு";
+
+"FOLDER_EMPTY" = "Empty folder";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "திறக்க ஒரு கோப்பைத் தேர்:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "இல் திற...";
+"SHARING_ERROR_NO_FILES" = "பகிர கோப்புகளை காண முடியவில்லை";
+"SHARING_ERROR_NO_APPLICATIONS" = "இந்த மாதிரியான கோப்பு வகையைத் திறக்க பயனபாடுகள் ஏதுமில்லை";
+"SHARING_SUCCESS_CAMERA_ROLL" = "கோப்பானது படச்சுருளில் வெற்றிகரமாகச் சேமிக்கப்பட்டது";
+
+"STREAMVC_DETAILTEXT" = "Play streams directly without downloading";
+"DOWNLOADVC_DETAILTEXT" = "Download files directly to your device";
+"HEADER_TITLE_RENDERER" = "Select a casting device";
+
+"NETWORK" = "Network";
+"LOCAL_NETWORK" = "உள்ளூர் பிணையம்";
+"CONNECT_TO_SERVER" = "சேவனுடன் இணை";
+"FILE_SERVER" = "File Servers";
+"USER_LABEL" = "பயனர்";
+"PASSWORD_LABEL" = "கடவுச்சொல்";
+"DISABLE_LABEL" = "முடக்கு";
+"BUTTON_ANONYMOUS_LOGIN" = "அறியாத நுழைவு";
+
+"LOCAL_SERVER_REFRESH" = "புதுப்பி";
+"LOCAL_SERVER_LAST_UPDATE" = "கடைசி பதுப்பிப்பு %@ அன்று";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "சேவகன் இணைப்பு தோல்வியுற்றது";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "தயவுச்செய்து உங்கள் சேவகனின் முகவரியையும் நற்ச்சான்றுகளையும் சரிபார்க்கவும்";
+
+"CLOUD_SERVICES" = "கிளவுட் சேவைகள்";
+"LOGIN" = "நுழை";
+"LOGGED_IN" = "நுழைந்தது";
+"LOGGED_IN_SERVICES" = "%d logged in services";
+"LOGGED_IN_SERVICE" = "1 logged in service";
+
+"DROPBOX_DOWNLOAD" = "கோப்பை பதிவிறக்கவா?";
+"DROPBOX_DL_LONG" = "நீங்கள் \"%@\" என்பதை %@ இவ்விடத்திற்கு பதிவிறக்க விரும்புகிறீர்களா?";
+"DROPBOX_LOGIN" = "நுழை";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "கோப்புகளை பெறும்போது பிழை நேர்ந்தது";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "உங்கள் கோப்பானது வெற்றிகரமாக பதிவிறக்கப்பட்டது";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "வெற்றி";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "பதிவிறக்கத்தின்போது பிழை நேர்ந்தது";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "பிழை";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "The selected Media doesn't have a playable url";
+
+"DISK_FULL" = "சேமிப்பகம் அளவை அடைந்தது";
+"DISK_FULL_FORMAT" = "உங்களிடம் தேவையான காலியிடம் இல்லாததால் %@ என்பதில் %@ ஐச் சேமிக்க முடியாது.";
+
+"NUM_OF_FILES" = "%i கோப்புகள்";
+"ONE_FILE" = "1 கோப்பு";
+"NO_FILES" = "ஆதரவற்ற கோப்புகள் ஏதுமில்லை";
+"DOWNLOADING" = "பதிவிறக்குகிறது...";
+"REMAINING_TIME" = "மீதியுள்ள நேரம்: %@";
+"BIOMETRIC_UNLOCK" = "Unlock Media Library\nCancel to enter Passcode";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d Failed Passcode Attempts";
+"1 Failed Passcode Attempt" = "1 Failed Passcode Attempt";
+"Change Passcode" = "Change Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Enter a passcode" = "Enter a passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your passcode" = "Enter your passcode";
+"Next" = "Next";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Re-enter your new passcode" = "Re-enter your new passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Set Passcode" = "Set Passcode";
+
+"Settings" = "அமைவுகள்"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "செயலில்";
+"OFF" = "அணை";
+
+"EMPTY_LIBRARY" = "காலியான ஊடக நூலகம்";
+"EMPTY_LIBRARY_LONG" = "பின்னணி இயக்கத்திற்கு, உங்கள் உள்ளூர் பிணையத்தில் உள்ள சேவகனிலிருந்து காணொளியை ஓடையிடலாம், கிளவுட்ல இருந்தோ அல்லது சாதனத்திலிருந்தோ ஐடியூனைப் பயன்படுத்தி ஒத்திசைக்கலாம், வை-பை மூலம் பதிவேற்றலாம் அல்லது கிளவுட் சேவைகள் மூலமும் முடியும்.";
+
+"EMPTY_PLAYLIST" = "Empty playlist";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Add media while editing in the respective categories.";
+
+"PLAYBACK_SCRUB_HELP" = "தேய்க்கும் விகிதத்தைச் சரிசெய்ய உங்கள் விரலை கீழே இழுக்கவும்.";
+"PLAYBACK_SCRUB_HIGH" = "அதிவேகத்தில்";
+"PLAYBACK_SCRUB_HALF" = "பாதி வேகத்தில்";
+"PLAYBACK_SCRUB_QUARTER" = "கால் வேகத்தில்";
+"PLAYBACK_SCRUB_FINE" = "பொருத்தமான வேகத்தில்";
+"PLAYBACK_POSITION" = "பின்னணி இயக்க நிலை";
+"VIDEO_FILTER" = "காணொளி வடிப்பிகள்";
+"VIDEO_FILTER_RESET_BUTTON" = "காணொளி வடிப்பிகளை மீட்டமை";
+"VIDEO_ASPECT_RATIO_BUTTON" = "காணொளி தோற்ற விகிதத்திற்கு மாறு";
+"PLAY_PAUSE_BUTTON" = "தற்போதைய பின்னணி இயக்கத்தை இடைநிறுத்து அல்லது இயக்கு";
+"BWD_BUTTON" = "பின்னால் நகரவும்";
+"FWD_BUTTON" = "முன்னால் நகரவும்";
+"PLAY_BUTTON" = "இயக்கு";
+"NEXT_BUTTON" = "Next";
+"PREV_BUTTON" = "Previous";
+"PLAY_ALL_BUTTON" = "அனைத்தையும் இயக்கு";
+
+"VERSION_FORMAT" = "பதிப்பு: %@";
+"BASED_ON_FORMAT" = "சார்ந்தது:<br />%@";
+
+"NEW" = "புதிய";
+
+"BUG_REPORT_TITLE" = "வழுவைத் தெறிவிக்கவும்";
+"BUG_REPORT_MESSAGE" = "நீங்கள் வழு அறிக்கையை உருவாக்க விரும்புகிறீர்களா?";
+"BUG_REPORT_BUTTON" = "சஃபாரியை திறக்கவும்";
+
+"VO_VIDEOPLAYER_TITLE" = "காணொளி இயக்கி";
+"VO_VIDEOPLAYER_DOUBLETAP" = "இரட்டை தட்டலில் பின்னணி இயக்கக் கட்டுப்பாடுகளைக் காண்பி/மறை";
+
+"FIRST_STEPS_ITUNES" = "ஐடியூன்ஸ் கோப்பு ஒத்திசைவு";
+"FIRST_STEPS_ITUNES_TITLE" = "Sync With Your Computer";
+"FIRST_STEPS_ITUNES_DETAILS" = "Connect your device to iTunes and select your device. Select \"File Sharing\" on the left side menu of iTunes and look for VLC to transfer files";
+"FIRST_STEPS_WIFI_TITLE" = "Share via Wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Enter the generated URL in your favorite web browser while connected to the same network as your phone";
+"FIRST_STEPS_CLOUDS" = "கிளவுட்ஸ்";
+"FIRST_STEPS_CLOUD_TITLE" = "Cloud";
+"FIRST_STEPS_CLOUD_DETAILS" = "Upload your media to a cloud service like Google Drive or Dropbox to remotely download or stream them.";
+
+
+"PLEX_CHECK_ACCOUNT" = "அமைப்புகளில் உங்கள் Plex கணக்கை சரிபார்க்க";
+"PLEX_ERROR_ACCOUNT" = "Plex புகுபதிகை பிழை";
+
+"UNAUTHORIZED" = "அத்துமீறிய";
+
+"SERVER" = "வழங்கி";
+"SERVER_PORT" = "முனையம்";
+"NO_SERVER_FOUND" = "சேவகன் கிடைக்கவில்லை";
+"NO_RECENT_STREAMS" = "கடைசியாக இயங்கிய ஓடம் ஏதுமில்லை";
+
+"WEBINTF_TITLE" = "வை-பை வாயிலாக பகிரப்படுகிறது";
+"WEBINTF_DROPFILES" = "கோப்புகளை விடு";
+"WEBINTF_DROPFILES_LONG" = "உங்கள் %@ இல் கோப்புகளைச் சேர்க்க அவைகளை சாளரத்தினுள் விடு.<br> அல்லது \"+\" குறியைச் சொடுக்கி கோப்பு தேர்வியைப பயன்படுத்தவும்.";
+"WEBINTF_DOWNLOADFILES" = "கோப்புகளை பதிவிறக்கவும்";
+"WEBINTF_DOWNLOADFILES_LONG" = "நீங்கள் பதிவிறக்க நினைக்கும் கோப்பை உங்கள் %@ இல் சொடுக்கவும்.";
+"WEBINTF_TITLE_ATV" = "Remote Playback";
+"WEBINTF_DROPFILES_LONG_ATV" = "Drop files in the window to play them on your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_URL_SENT" = "URL sent successfully.";
+"WEBINTF_URL_EMPTY" = "URL cannot be empty.";
+"WEBINTF_URL_INVALID" = "Not a valid URL.";
+
+
+
+"DURATION" = "காலம்";
+"TITLE" = "தலைப்பு";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "நீண்ட நேரம் அழுத்தவும் பின்னணி நிறுத்த.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "பாடல் விவரம்";
+"CLOUD_LOGIN_LONG" = "To access Cloud Services, sign-in to iCloud on both this Apple TV and an iOS device with the same Apple ID and enable Keychain Sharing in System Settings.\nAfterwards, login to the cloud provider of your choice using the VLC app on your iOS device. Finally, select it on this screen.";
+"ENTER_URL" = "Enter URL to play";
+"HTTP_SERVER_ON" = "Disable Remote Playback";
+"HTTP_SERVER_OFF" = "Enable Remote Playback";
+"CACHED_MEDIA" = "Cached Media";
+"CACHED_MEDIA_LONG" = "Media shown here is stored locally on your Apple TV. Note that contents can be removed by the operating system without prior notice anytime when VLC is not running in case your device runs out of storage.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Download subtitles from OpenSubtitles.org...";
+"FOUND_SUBS" = "Found subtitles";
+"USE_SPDIF" = "Use Pass-through (S/PDIF)";
+
+"PLAYBACK" = "Playback";
+"REPEAT_MODE" = "Repeat";
+"REPEAT_DISABLED" = "Disabled";
+"REPEAT_SINGLE" = "Single";
+"REPEAT_FOLDER" = "Folder";
+
+// Local Network Service Names
+"UPNP_LONG" = "Universal Plug'n'Play (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex Media Server (via Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "File Transfer Protocol (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR File Server";
+"DSM_WORKGROUP" = "Workgroup";
+
+"URL_NOT_SUPPORTED" = "The URL can't be opened";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Press %@ to Delete"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Confirm the deletion of the selection";
+"DELETE_MESSAGE_PLAYLIST" = "Are you sure to delete the selected playlist?\nAssociated media files won't be deleted.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Delete Selection";
+
+//Drag and Drop
+"THIS_FILE" = "This file";
+"NOT_SUPPORTED_FILETYPE" = "%@ is not a supported filetype by VLC";
+"FILE_EXISTS" = "%@ already exists";
+
+"PROTOCOL_NOT_SELECTED" = "Protocol not selected";
+"Settings" = "அமைவுகள்";
+
+"ERROR" = "Error";
+"OK" = "Ok";
+"SORT" = "Sort";
+"SORT_BY" = "Sort by";
+"SEARCH" = "Search";
+"VIDEO" = "Video";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Albums";
+"ARTISTS" = "Artists";
+"EPISODES" = "Episodes";
+"GENRES" = "Genres";
+"MOVIES" = "Movies";
+"SONGS" = "Songs";
+"PLAYLISTS" = "Playlists";
+"VIDEO_GROUPS" = "Video groups";
+
+"MODIFIED_DATE" = "Modified date";
+"NAME" = "Name";
+
+//EDIT
+
+"BUTTON_EDIT" = "Edit";
+"BUTTON_EDIT_HINT" = "Edit mode";
+
+"ADD_TO_PLAYLIST" = "Add to Playlist";
+"ADD_TO_PLAYLIST_HINT" = "Open the add to playlist menu";
+
+"PLAYLIST_PLACEHOLDER" = "Playlist title";
+"PLAYLIST_DESCRIPTION" = "Choose a title for your new playlist";
+"PLAYLIST_CREATION" = "Create a new playlist";
+"PLAYLIST_CREATION_HINT" = "Show an interactive action to create a playlist";
+"ERROR_PLAYLIST_CREATION" = "Failed to create a playlist";
+"ERROR_PLAYLIST_TRACKS" = "Failed to retrieve tracks";
+
+"ERROR_RENAME_FAILED" = "Renaming failed";
+"ERROR_EMPTY_NAME" = "The title can't be empty";
+
+"SHARE_LABEL" = "Share";
+"SHARE_HINT" = "Share selected files";
+"RENAME_HINT" = "Rename selected files";
+"DELETE_HINT" = "Delete selected files";
+
+// Sort
+
+"BUTTON_SORT" = "Sort";
+"BUTTON_SORT_HINT" = "Display sort action sheet";
+"HEADER_TITLE_SORT" = "Sort by";
+"DESCENDING_LABEL" = "Descending Order";
+"DESCENDING_SWITCH_LABEL" = "Ascending or descending order";
+"DESCENDING_SWITCH_HINT" = "Sort context in ascending or descending order";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alphanumerically";
+"DURATION" = "காலம்";
+"INSERTION_DATE" = "Insertion date";
+"LAST_MODIFICATION_DATE" = "Last modification date";
+"RELEASE_DATE" = "Release date";
+"FILE_SIZE" = "File size";
+"ARTIST" = "Artist";
+"PLAY_COUNT" = "Play count";
+"ALBUM" = "Album";
+"FILENAME" = "Filename";
+"TRACK_NUMBER" = "Track number";
+"NB_AUDIO" = "Number of audio";
+"NB_MEDIA" = "Number of media";
+"NB_VIDEO" = "Number of video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Nothing found";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Unknown Artist";
+"VARIOUS_ARTIST" = "Various Artists";
+"UNKNOWN_ALBUM" = "Unknown Album";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Lock interface";
+"INTERFACE_LOCK_HINT" = "Disable interface controls";
+"MORE_OPTIONS_BUTTON" = "More";
+"MORE_OPTIONS_HINT" = "View more option controls";
+"REPEAT_MODE_HINT" = "Change repeat mode of current item";
+"VIDEO_ASPECT_RATIO_HINT" = "Change the aspect ratio of the current video";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Video Options";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Force media library rescan";
+"FORCE_RESCAN_MESSAGE" = "Do you want to force VLC to rescan your media library?\nIt could take some time.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";

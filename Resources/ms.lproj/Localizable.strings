@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "VLC untuk iOS merupakan port pemain media VLC percuma untuk iPad, iPhone dan iPod touch.\nIa dapat memainkan semua cereka, rancangan tv dan muzik anda dalam kebanyakan format secara terus tanpa penukaran.\nIa membenarkan penyegerakan fail dengan Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, muat turun terus dan juga menerusi perkongsian WiFi serta penstriman dari pelayan media UPnP, SMB, FTP dan sesawang.\n\nVLC untuk iOS sepenuhnya percuma dan bersumber terbuka.";
+
+"STORE_DESCRIPTION_TV" = "Pemain media VLC adalah pemain multimedia platform-silang bersumber terbuka dan percuma.\nIa dapat memainkan semua cereka, rancangan tv dan muzik anda dalam kebanyakan format secara terus tanpa penukaran.\nIa membenarkan penstriman dari perkhidmatan awan (Dropbox, OneDrive, Box), Main Balik Jauh dari Mac atau PC anda melalui Web UI dan juga penstriman dari pelayan media UPnP, SMB, FTP dan sesawang.\n\nVLC untuk iOS sepenuhnya percuma dan bersumber terbuka.\n\nData meta dan kerja seni disediakan oleh TMDb dan Hatchet, yang menyelenggara pangkalan data cereka dan muzik oleh komuniti.";
+
+"CHOOSE_AUDIO_TRACK" = "Pilih Trek Audio";
+"CHOOSE_SUBTITLE_TRACK" = "Pilih Trek Sarikata";
+"OPEN_TRACK_PANEL" = "Buka pemilihan trek";
+"CHOOSE_TITLE" = "Pilih Tajuk";
+"CHOOSE_CHAPTER" = "Pilih Bab";
+"CHAPTER_SELECTION_TITLE" = "Bab";
+"TITLE" = "Tajuk";
+"CHAPTER" = "Bab";
+"MINIMIZE_PLAYBACK_VIEW" = "Minimumkan main balik";
+"TRACK_SELECTION" = "Pemilihan Trek";
+"AUDIO" = "Audio";
+"SUBTITLES" = "Sarikata";
+"LANGUAGE" = "Bahasa";
+"MEDIA_INFO" = "Maklumat Media";
+"VIDEO_DIMENSIONS" = "Dimensi video";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i piksel";
+"FORMAT_AUDIO_TRACKS" = "%i trek audio";
+"ONE_AUDIO_TRACK" = "Satu trek audio";
+"FORMAT_SPU_TRACKS" = "%i trek sarikata";
+"ONE_SPU_TRACK" = "Satu trek sarikata";
+"TRACKS" = "%i Trek";
+"TRACK" = "%i Trek";
+
+"PLAYING_EXTERNALLY_TITLE" = "TV Bersambung";
+"PLAYING_EXTERNALLY_DESC" = "Video ini dimainkan di TV";
+"PLAYING_EXTERNALLY_ADDITION" = "\nKini dimainkan pada:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "Rona";
+"VFILTER_CONTRAST" = "Beza Jelas";
+"VFILTER_BRIGHTNESS" = "Kecerahan";
+"VFILTER_SATURATION" = "Ketepuan";
+"VFILTER_GAMMA" = "Gama";
+
+"PREAMP" = "Praamp";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Pilih Profil Penyama";
+
+"PLAYBACK_FAILED" = "Main balik gagal";
+"PLEASE_WAIT" = "Tunggu sebentar";
+"AR_CHANGED" = "Nisbah Bidang: %@";
+"DEFAULT" = "Lalai";
+"FILL_TO_SCREEN" = "Kerat untuk mengisi skrin";
+"PLAYBACK_SPEED" = "Kelajuan main balik";
+"SPU_DELAY" = "Lengah sarikata";
+"AUDIO_DELAY" = "Lengah audio";
+"BUTTON_SLEEP_TIMER" = "Pemasa Tidur";
+"SLEEP_TIMER_UPDATED" = "Pemasa Tidur Dikemaskini";
+"CONTINUE_PLAYBACK" = "Teruskan main balik?";
+"CONTINUE_PLAYBACK_LONG" = "Anda mahu teruskan main balik \"%@\" pada lokasi terakhir anda tinggalkan?";
+
+"BUTTON_ABOUT" = "Perihal";
+"BUTTON_BACK" = "Undur";
+"BUTTON_DONE" = "Selesai";
+"BUTTON_CANCEL" = "Batal";
+"BUTTON_SAVE" = "Simpan";
+"BUTTON_DOWNLOAD" = "Muat turun";
+"BUTTON_DELETE" = "Padam";
+"BUTTON_OK" = "OK";
+"BUTTON_CONTRIBUTE" = "Sumbangan";
+"BUTTON_CONNECT" = "Sambung";
+"BUTTON_RENAME" = "Nama Semula";
+"BUTTON_LEARN_MORE" = "Pelajari Lagi";
+"BUTTON_LOGOUT" = "Daftar Keluar";
+"BUTTON_CONTINUE" = "Teruskan";
+"BUTTON_SET" = "Tetap";
+"BUTTON_RESET" = "Tetap Semula";
+"BUTTON_RESCAN" = "Imbas Semula";
+"PRIVATE_PLAYBACK_TOGGLE" = "Main Balik Persendirian";
+"SCAN_SUBTITLE_TOGGLE" = "Imbas untuk Sarikata (http-sahaja)";
+
+"BUTTON_RENDERER" = "Peranti casting";
+"BUTTON_RENDERER_HINT" = "Tunjuk menu peranti casting yang tersedia";
+
+"UPGRADING_LIBRARY" = "Menatar Pustaka Media";
+"UNKNOWN" = "Tidak diketahui";
+
+"OPEN_NETWORK" = "Buka Strim Rangkaian";
+"NETWORK_TITLE" = "Strim Rangkaian";
+"OPEN_NETWORK_HELP" = "Masukkan mana-mana alamat HTTP, RTSP, RTMP, MMS, FTP atau UDP/RTP untuk membuka strim secara langsung.";
+"HTTP_UPLOAD_SERVER_OFF" = "Pelayan Tidak Aktif";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "Tiada sambungan WiFi aktif";
+"OPEN_STREAM_OR_DOWNLOAD" = "Adakah anda ingin memuat turun atau memainkan URL ini?";
+"SHARED_VLC_IOS_LIBRARY" = "VLC Terkongsi untuk Pustaka iOS";
+"SMB_CIFS_FILE_SERVERS" = "Pelayan Fail (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "Muat turun dibatal oleh pengguna";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "Masukkan alamat untuk muat turun fail ke dalam %@ anda.";
+"DOWNLOAD_FROM_HTTP" = "Muat turun";
+"ERROR_NUMBER" = "Ralat %i berlaku";
+"DOWNLOAD_FAILED" = "Muat turun gagal";
+"FILE_NOT_SUPPORTED" = "Format fail tidak disokong";
+"FILE_NOT_SUPPORTED_LONG" = "Format fail yang diguna oleh %@ tidak disokong oleh versi VLC ini untuk iOS.";
+"SCHEME_NOT_SUPPORTED" = "Skema alamat tidak disokong";
+"SCHEME_NOT_SUPPORTED_LONG" = "Skema alamat (%@) tidak disokong. Sila guna alamat bermula dengan HTTP, HTTPS atau FTP.";
+"RENAME_MEDIA_TO" = "Masukkan nama untuk %@";
+
+"FOLDER_EMPTY" = "Folder kosong";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Pilih fail untuk dibuka:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Buka Dalam...";
+"SHARING_ERROR_NO_FILES" = "Tidak dapat cari mana-mana fail untuk dikongsi";
+"SHARING_ERROR_NO_APPLICATIONS" = "Tidak dapat cari mana-mana aplikasi untuk membuka jenis fail ini";
+"SHARING_SUCCESS_CAMERA_ROLL" = "Fail berjaya disimpan ke Camera Roll";
+
+"STREAMVC_DETAILTEXT" = "Main strim secara terus tanpa memuat turun";
+"DOWNLOADVC_DETAILTEXT" = "Muat turun fail terus ke dalam peranti anda";
+"HEADER_TITLE_RENDERER" = "Pilih satu peranti casting";
+
+"NETWORK" = "Rangkaian";
+"LOCAL_NETWORK" = "Rangkaian Setempat";
+"CONNECT_TO_SERVER" = "Sambung ke Pelayan";
+"FILE_SERVER" = "Pelayan Fail";
+"USER_LABEL" = "Pengguna";
+"PASSWORD_LABEL" = "Kata Laluan";
+"DISABLE_LABEL" = "Dilumpuhkan";
+"BUTTON_ANONYMOUS_LOGIN" = "Daftar Masuk Awanama";
+
+"LOCAL_SERVER_REFRESH" = "Segar Semula";
+"LOCAL_SERVER_LAST_UPDATE" = "Terakhir Dikemaskini pada %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "SAMBUNGAN PELAYAN GAGAL";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "Sila semak alamat pelayan dan kelayakan anda";
+
+"CLOUD_SERVICES" = "Perkhidmatan Awan";
+"LOGIN" = "Daftar Masuk";
+"LOGGED_IN" = "Didaftar masuk";
+"LOGGED_IN_SERVICES" = "%d mendaftar masuk ke perkhidmatan";
+"LOGGED_IN_SERVICE" = "1 mendaftar masuk ke perkhidmatan";
+
+"DROPBOX_DOWNLOAD" = "Muat turun fail?";
+"DROPBOX_DL_LONG" = "Anda mahu muat turun \"%@\" ke %@ anda?";
+"DROPBOX_LOGIN" = "Daftar Masuk";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "Ralat semasa mendapatkan fail";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "Fail anda berjaya dimuat turun";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "BERJAYA";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "Ralat berlaku ketika memuat turun";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "RALAT";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "Media terpilih tidak mempunyai url boleh main";
+
+"DISK_FULL" = "Had storan dicapai";
+"DISK_FULL_FORMAT" = "%@ tidak dapat disimpan dalam %@ anda, kerana anda tidak mempunyai ruang bebas yang mencukupi.";
+
+"NUM_OF_FILES" = "%i fail";
+"ONE_FILE" = "1 fail";
+"NO_FILES" = "Tiada fail disokong";
+"DOWNLOADING" = "Memuat turun...";
+"REMAINING_TIME" = "Masa berbaki: %@";
+"BIOMETRIC_UNLOCK" = "Buka Pustaka Media\nBatal untuk masukkan Kod Laluan";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d Pecubaan Kod Laluan Gagal";
+"1 Failed Passcode Attempt" = "1 Percubaan Kod Laluan Gagal";
+"Change Passcode" = "Ubah Kod Laluan";
+"Enter Passcode" = "Masukkan Kod Laluan";
+"Enter a passcode" = "Masukkan Kod Laluan";
+"Enter your new passcode" = "Masukkan kod laluan baharu anda";
+"Enter your old passcode" = "Masukkan kod laluan lama anda";
+"Enter your passcode" = "Masukkan kod laluan baharu anda";
+"Next" = "Maju";
+"Passcodes did not match. Try again." = "Kod laluan tidak sepadan. Cuba lagi.";
+"Re-enter your new passcode" = "Masukkan semula kod laluan baharu anda";
+"Re-enter your passcode" = "Masukkan semula kod laluan anda";
+"Set Passcode" = "Tetapkan Kod Laluan";
+
+"Settings" = "Tetapan"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "Hidup";
+"OFF" = "Mati";
+
+"EMPTY_LIBRARY" = "Pustaka Media Kosong";
+"EMPTY_LIBRARY_LONG" = "Untuk main balik, anda boleh strimkan media dari pelayan pada rangkaian setempat anda, dari awan atau segerakkan media ke peranti anda menggunakan iTunes, Muat Naik WiFi atau perkhidmatan Awam.";
+
+"EMPTY_PLAYLIST" = "Senarai main kosong";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Tambah media ketika menyunting dalam kategori masing-masing.";
+
+"PLAYBACK_SCRUB_HELP" = "Leret jari anda untuk melaras kadar penggerakan.";
+"PLAYBACK_SCRUB_HIGH" = "Penggerakan Berkelajuan-Tinggi";
+"PLAYBACK_SCRUB_HALF" = "Penggerakan Berkelajuan-Separa";
+"PLAYBACK_SCRUB_QUARTER" = "Penggerakan Berkelajuan-Suku";
+"PLAYBACK_SCRUB_FINE" = "Penggerakan Halus";
+"PLAYBACK_POSITION" = "Kedudukan Main Balik";
+"VIDEO_FILTER" = "Penapis Video";
+"VIDEO_FILTER_RESET_BUTTON" = "Tetap Semula Penapis Video";
+"VIDEO_ASPECT_RATIO_BUTTON" = "Tukar Nisbah Bidang Video";
+"PLAY_PAUSE_BUTTON" = "Main atau Jeda main balik semasa";
+"BWD_BUTTON" = "Lompat Mengundur";
+"FWD_BUTTON" = "Lompat Ke Hadapan";
+"PLAY_BUTTON" = "Main";
+"NEXT_BUTTON" = "Berikutnya";
+"PREV_BUTTON" = "Terdahulu";
+"PLAY_ALL_BUTTON" = "Main semua";
+
+"VERSION_FORMAT" = "Versi: %@";
+"BASED_ON_FORMAT" = "Berdasarkan pada:<br />%@";
+
+"NEW" = "BAHARU";
+
+"BUG_REPORT_TITLE" = "Lapor pepijat";
+"BUG_REPORT_MESSAGE" = "Anda mahu cipta laporan pepijat?";
+"BUG_REPORT_BUTTON" = "Buka Safari";
+
+"VO_VIDEOPLAYER_TITLE" = "Pemain Video";
+"VO_VIDEOPLAYER_DOUBLETAP" = "Dwi-ketuk untuk tunjuk atau sembunyikan kawalan main balik";
+
+"FIRST_STEPS_ITUNES" = "Segerak Fail iTunes";
+"FIRST_STEPS_ITUNES_TITLE" = "Segerak Dengan Komputer Anda";
+"FIRST_STEPS_ITUNES_DETAILS" = "Sambung peranti anda ke iTunes dan pilih peranti anda. Pilih \"Perkongsian Fail\", di sebelah kiri menu iTunes kemudian cari VLC untuk memindahkan fail anda.";
+"FIRST_STEPS_WIFI_TITLE" = "Kongsi melalui Wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Masukkan URL terjana dalam pelayar sesawang kegemaran anda ketika bersambung dengan rangkaian yang sama sebagai telefon anda.";
+"FIRST_STEPS_CLOUDS" = "Awan";
+"FIRST_STEPS_CLOUD_TITLE" = "Awan";
+"FIRST_STEPS_CLOUD_DETAILS" = "Muat naik media anda ke perkhidmatan awan seperti Google Drive atau Dropbox untuk memuat turun atau strimkannya secara jauh.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Semak akaun Plex anda di dalam tetapan";
+"PLEX_ERROR_ACCOUNT" = "Ralat daftar masuk Plex";
+
+"UNAUTHORIZED" = "Tidak disahihkan";
+
+"SERVER" = "Pelayan";
+"SERVER_PORT" = "Port";
+"NO_SERVER_FOUND" = "Tiada pelayan ditemui";
+"NO_RECENT_STREAMS" = "Tiada strim telah dimainkan baru-baru ini";
+
+"WEBINTF_TITLE" = "Perkongsian melalui WiFi";
+"WEBINTF_DROPFILES" = "Lepas Fail";
+"WEBINTF_DROPFILES_LONG" = "Lepas fail ke tetingkap untuk menambahnya ke dalam %@ anda.<br>Atau klik pada butang \"+\" untuk guna dialog pengambil fail.";
+"WEBINTF_DOWNLOADFILES" = "Muat Turun Fail";
+"WEBINTF_DOWNLOADFILES_LONG" = "Hanya klik fail yang anda mahu muat turun dari %@ anda.";
+"WEBINTF_TITLE_ATV" = "Main Balik Jauh";
+"WEBINTF_DROPFILES_LONG_ATV" = "Lepas fail dalam tetingkap untuk menambah %@ anda.<br>Atau klik pada butang \"+\" untuk guna dialog pengambil fail.";
+"WEBINTF_URL_SENT" = "Penghantaran URL berjaya.";
+"WEBINTF_URL_EMPTY" = "URL tidak boleh kosong.";
+"WEBINTF_URL_INVALID" = "Bukan URL yang sah.";
+
+
+
+"DURATION" = "Tempoh";
+"TITLE" = "Tajuk";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Tahan untuk hentikan main balik.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Maklumat Audio";
+"CLOUD_LOGIN_LONG" = "Untuk mencapai Perkhidmatan Awan, daftar masuk ke iCloud bagi kedua-dua peranti iOS dan Apple TV dengan ID Apple yang sama dan benarkan Sharing Keychain dalam Tetapan Sistem.\nSelepas itu, daftar masuk ke penyedia awan pilihan anda menggunakan apl VLC pada peranti iOS anda. Akhir sekali, pilih ia pada skrin ini.";
+"ENTER_URL" = "Masukkan URL untuk main";
+"HTTP_SERVER_ON" = "Lumpuhkan Main Balik Jauh";
+"HTTP_SERVER_OFF" = "Benarkan Main Balik Jauh";
+"CACHED_MEDIA" = "Media Bercache";
+"CACHED_MEDIA_LONG" = "Media yang ditunjukkan di sini tersimpan secara setempat dalam TV Apple anda. Perhatian kandungan boleh dibuang oleh sistem pengoperasian tanpa makluman bila VLC tidak berjalan jika peranti anda kekurangan storan.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Muat turun sarikata dari OpenSubtitles.org...";
+"FOUND_SUBS" = "Temui sarikata";
+"USE_SPDIF" = "Guna Pass-through (S/PDIF)";
+
+"PLAYBACK" = "Main Balik";
+"REPEAT_MODE" = "Ulang";
+"REPEAT_DISABLED" = "Dilumpuhkan";
+"REPEAT_SINGLE" = "Tunggal";
+"REPEAT_FOLDER" = "Folder";
+
+// Local Network Service Names
+"UPNP_LONG" = "Plug'n'Play Universal (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Pelayan Meida Plex (melalui Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "Protokol Pemindahan Fail (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "Pelayang Fail BONJOUR";
+"DSM_WORKGROUP" = "KumpulanKerja";
+
+"URL_NOT_SUPPORTED" = "URL tidak dapat dibuka";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Tekan %@ untuk Padam"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Sahkan pemadaman pemilihan";
+"DELETE_MESSAGE_PLAYLIST" = "Are you sure to delete the selected playlist?\nAssociated media files won't be deleted.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Padam Pemilihan";
+
+//Drag and Drop
+"THIS_FILE" = "Fail ini";
+"NOT_SUPPORTED_FILETYPE" = "%@ ialah jenis fail yang tidak disokong oleh VLC";
+"FILE_EXISTS" = "%@ sudah wujud";
+
+"PROTOCOL_NOT_SELECTED" = "Protokol tidak terpilih";
+"Settings" = "Tetapan";
+
+"ERROR" = "Ralat";
+"OK" = "Ok";
+"SORT" = "Isih";
+"SORT_BY" = "Isih mengikut";
+"SEARCH" = "Gelintar";
+"VIDEO" = "Video";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Album";
+"ARTISTS" = "Artis";
+"EPISODES" = "Episod";
+"GENRES" = "Genre";
+"MOVIES" = "Cereka";
+"SONGS" = "Lagu";
+"PLAYLISTS" = "Senarai Main";
+"VIDEO_GROUPS" = "Kumpulan video";
+
+"MODIFIED_DATE" = "Tarikh ubah suai";
+"NAME" = "Nama";
+
+//EDIT
+
+"BUTTON_EDIT" = "Sunting";
+"BUTTON_EDIT_HINT" = "Mod sunting";
+
+"ADD_TO_PLAYLIST" = "Tambah ke dalam Senarai Main";
+"ADD_TO_PLAYLIST_HINT" = "Buka untuk tambah ke dalam menu senarai main";
+
+"PLAYLIST_PLACEHOLDER" = "Tajuk senarai nama";
+"PLAYLIST_DESCRIPTION" = "Pilih satu tajuk untuk senarai main baharu anda";
+"PLAYLIST_CREATION" = "Cipta satu senarai main baharu";
+"PLAYLIST_CREATION_HINT" = "Tunjuk satu tindakan interaktif untuk mencipta satu senarai main";
+"ERROR_PLAYLIST_CREATION" = "Gagal mencipta satu senarai main";
+"ERROR_PLAYLIST_TRACKS" = "Gagal memperoleh trek";
+
+"ERROR_RENAME_FAILED" = "Penamaan semula gagal";
+"ERROR_EMPTY_NAME" = "Tajuk tidak boleh kosong";
+
+"SHARE_LABEL" = "Kongsi";
+"SHARE_HINT" = "Kongsi fail terpilih";
+"RENAME_HINT" = "Namakan semula fail terpilih";
+"DELETE_HINT" = "Padam fail terpilih";
+
+// Sort
+
+"BUTTON_SORT" = "Isih";
+"BUTTON_SORT_HINT" = "Papar lembar tindakan isih";
+"HEADER_TITLE_SORT" = "Isih mengikut";
+"DESCENDING_LABEL" = "Tertib Menurun";
+"DESCENDING_SWITCH_LABEL" = "Tertib menaik atau menurun";
+"DESCENDING_SWITCH_HINT" = "Isih konteks dalam tertib menaik atau menurun";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "secara Abjad Angka";
+"DURATION" = "Tempoh";
+"INSERTION_DATE" = "Tarikh disisip";
+"LAST_MODIFICATION_DATE" = "Tarikh pengubahsuaian terakhir";
+"RELEASE_DATE" = "Tarikh pelepasan";
+"FILE_SIZE" = "Saiz fail";
+"ARTIST" = "Artis";
+"PLAY_COUNT" = "Kiraan main";
+"ALBUM" = "Album";
+"FILENAME" = "Nama fail";
+"TRACK_NUMBER" = "Nombor trek";
+"NB_AUDIO" = "Bilangan audio";
+"NB_MEDIA" = "Bilangan media";
+"NB_VIDEO" = "Bilangan video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Tiada apa-apa ditemui";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Artis Tidak Diketahui";
+"VARIOUS_ARTIST" = "Pelbagai Artis";
+"UNKNOWN_ALBUM" = "Album Tidak Diketahui";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Kunci antaramuka";
+"INTERFACE_LOCK_HINT" = "Lumpuhkan kawalan antaramuka";
+"MORE_OPTIONS_BUTTON" = "Lagi";
+"MORE_OPTIONS_HINT" = "Lihat lebih banyak kawalan pilihan";
+"REPEAT_MODE_HINT" = "Ubah mod ulang bagi item semasa";
+"VIDEO_ASPECT_RATIO_HINT" = "Ubah nisbah bidang video semasa";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Penyama";
+"MORE_OPTIONS_HEADER_TITLE" = "Pilihan Video";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Paksa imbas semula pustaka media";
+"FORCE_RESCAN_MESSAGE" = "Anda mahu paksa VLC mengimbas semula pustaka media anda?\nIa mengambil masa.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";

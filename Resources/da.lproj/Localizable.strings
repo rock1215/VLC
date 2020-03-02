@@ -1,0 +1,412 @@
+"STORE_DESCRIPTION" = "VLC til iOS er en portering af den frie medieafspiller VLC til iPad, iPhone og iPod touch.\nDen kan afspille alle dine film, shows og musik i de fleste formater direkte uden konvertering.\nDen tilbyder filsynkronisering med Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, direkte downloads og deling via Wi-Fi, såvel som streaming fra SMB, FTP, UPnP/DLNA-medieservere og fra nettet.\n\nVLC har understøttelse af advancerede undertekster, herunder fuld SSA-kompatiblitet, multi-spor lyd, og justerbar afspilningshastighed.\n\nVLC til iOS er fuldstændig fri og open source.";
+
+"STORE_DESCRIPTION_TV" = "VLC media player er en fri og open source medieafspiller som virker på flere platforme.\nDen kan afspille alle dine film, shows og musik i de fleste formater direkte uden konvertering.\nDen tilbyder streaming fra cloud-tjenester (Dropbox, OneDrive, Box), fjern-afspilning fra din Mac eller PC via en web-brugerflade, såvel som streaming fra SMB, FTP, UPnP/DLNA-medieservere og fra nettet.\n\nVLC har understøttelse af advancerede undertekster, herunder fuld SSA-kompatiblitet, multi-spor lyd, og justerbar afspilningshastighed.\n\nVLC til iOS er fuldstændig fri og open source.\n\nMetadata og billeder leveres af TMDb og Hatchet, som er film- og musikdatabaser vedligeholdt af et fællesskab.";
+
+"CHOOSE_AUDIO_TRACK" = "Vælg lydspor";
+"CHOOSE_SUBTITLE_TRACK" = "Vælg undertekstspor";
+"OPEN_TRACK_PANEL" = "Åbn spor samling";
+"CHOOSE_TITLE" = "Vælg titel";
+"CHOOSE_CHAPTER" = "Vælg kapitel";
+"CHAPTER_SELECTION_TITLE" = "Kapitler";
+"TITLE" = "Titel";
+"CHAPTER" = "Kapitel";
+"MINIMIZE_PLAYBACK_VIEW" = "Minimér afspilning";
+"TRACK_SELECTION" = "Valg af spor";
+"AUDIO" = "Lyd";
+"SUBTITLES" = "Undertekster";
+"LANGUAGE" = "Sprog";
+"MEDIA_INFO" = "Medieinformation";
+"VIDEO_DIMENSIONS" = "Videodimensioner";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i pixel";
+"FORMAT_AUDIO_TRACKS" = "%i lydspor";
+"ONE_AUDIO_TRACK" = "Et lydspor";
+"FORMAT_SPU_TRACKS" = "%i underteksterspor";
+"ONE_SPU_TRACK" = "Et underteksterspor";
+"TRACKS" = "%i spor";
+"TRACK" = "%i spor";
+
+"PLAYING_EXTERNALLY_TITLE" = "TV tilsluttet";
+"PLAYING_EXTERNALLY_DESC" = "Denne video afspilles på TV'et";
+"PLAYING_EXTERNALLY_ADDITION" = "\n Afspiller nu på:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "Farvetone";
+"VFILTER_CONTRAST" = "Kontrast";
+"VFILTER_BRIGHTNESS" = "Lysstyrke";
+"VFILTER_SATURATION" = "Mætning";
+"VFILTER_GAMMA" = "Gamma";
+
+"PREAMP" = "Forforstærker";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Vælg equalizerprofil";
+
+"PLAYBACK_FAILED" = "Afspilning mislykkedes";
+"PLEASE_WAIT" = "Vent venligst";
+"AR_CHANGED" = "Højde-bredde-forhold: %@";
+"DEFAULT" = "Standard";
+"FILL_TO_SCREEN" = "Beskær til at udfylde skærmen";
+"PLAYBACK_SPEED" = "Afspilningshastighed";
+"SPU_DELAY" = "Undertekstforsinkelse";
+"AUDIO_DELAY" = "Lydforsinkelse";
+"BUTTON_SLEEP_TIMER" = "Sleep-timer";
+"SLEEP_TIMER_UPDATED" = "Sleep-timer opdateret";
+"CONTINUE_PLAYBACK" = "Fortsæt afspilning?";
+"CONTINUE_PLAYBACK_LONG" = "Vil du fortsætte afspilningen af \"%@\" der, hvor du nåede til?";
+
+"BUTTON_ABOUT" = "Om";
+"BUTTON_BACK" = "Tilbage";
+"BUTTON_DONE" = "Færdig";
+"BUTTON_CANCEL" = "Annuller";
+"BUTTON_SAVE" = "Gem";
+"BUTTON_DOWNLOAD" = "Download";
+"BUTTON_DELETE" = "Fjern";
+"BUTTON_OK" = "OK";
+"BUTTON_CONTRIBUTE" = "Bidrag";
+"BUTTON_CONNECT" = "Forbind";
+"BUTTON_RENAME" = "Omdøb";
+"BUTTON_LEARN_MORE" = "Få mere at vide";
+"BUTTON_LOGOUT" = "Log ud";
+"BUTTON_CONTINUE" = "Fortsæt";
+"BUTTON_SET" = "Indstil";
+"BUTTON_RESET" = "Nulstil";
+"BUTTON_RESCAN" = "Genskan";
+"PRIVATE_PLAYBACK_TOGGLE" = "Privat afspilning";
+"SCAN_SUBTITLE_TOGGLE" = "Søg efter undertekster (kun http)";
+
+"BUTTON_RENDERER" = "Transmitteringsenheder";
+"BUTTON_RENDERER_HINT" = "Vis en menu over tilgængelige transmitteringsenheder";
+
+"UPGRADING_LIBRARY" = "Opgraderer mediebibliotek";
+"UNKNOWN" = "Ukendt";
+
+"OPEN_NETWORK" = "Åbn netværksstream";
+"NETWORK_TITLE" = "Netværksstream";
+"OPEN_NETWORK_HELP" = "Indtast en HTTP-, RTSP-, RTMP-, MMS-, FTP- eller UDP/RTP-adresse for at åbne en stream direkte.";
+"HTTP_UPLOAD_SERVER_OFF" = "Inaktiv server";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "Ingen aktiv WiFi-forbindelse";
+"OPEN_STREAM_OR_DOWNLOAD" = "Vil du downloade eller afspille denne URL?";
+"SHARED_VLC_IOS_LIBRARY" = "Delt VLC for iOS-bibliotek";
+"SMB_CIFS_FILE_SERVERS" = "Filservere (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "Download annulleret af bruger";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "Indtast en adresse for at downloade filen til din %@.";
+"DOWNLOAD_FROM_HTTP" = "Downloads";
+"ERROR_NUMBER" = "Fejl %i";
+"DOWNLOAD_FAILED" = "Overførsel mislykkedes";
+"FILE_NOT_SUPPORTED" = "Filformat ikke understøttet";
+"FILE_NOT_SUPPORTED_LONG" = "Filformatet som bruges af %@ understøttes ikke i denne version af VLC for iOS.";
+"SCHEME_NOT_SUPPORTED" = "Adresseprotokol ikke understøttet";
+"SCHEME_NOT_SUPPORTED_LONG" = "Adressens protokol (%@) er ikke understøttet. Brug en adresse, der begynder med HTTP, HTTPS eller FTP.";
+"RENAME_MEDIA_TO" = "Angiv nyt navn for %@";
+
+"FOLDER_EMPTY" = "Tom mappe";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Vælg en fil at åbne:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Åbn i...";
+"SHARING_ERROR_NO_FILES" = "Kunne ikke finde nogen filer at dele";
+"SHARING_ERROR_NO_APPLICATIONS" = "Kunne ikke finde nogen apps, der kan åbne denne filtype";
+"SHARING_SUCCESS_CAMERA_ROLL" = "Filen blev gemt i kamerarullen";
+
+"STREAMVC_DETAILTEXT" = "Afspil streams direkte uden at downloade";
+"DOWNLOADVC_DETAILTEXT" = "Download filer direkte til din enhed";
+"HEADER_TITLE_RENDERER" = "Vælg en transmitteringsenhed";
+
+"NETWORK" = "Netværk";
+"LOCAL_NETWORK" = "Lokalt netværk";
+"CONNECT_TO_SERVER" = "Forbind til server";
+"FILE_SERVER" = "Filservere";
+"USER_LABEL" = "Bruger";
+"PASSWORD_LABEL" = "Adgangskode";
+"DISABLE_LABEL" = "Deaktivér";
+"BUTTON_ANONYMOUS_LOGIN" = "Anonymt login";
+
+"LOCAL_SERVER_REFRESH" = "Genopfrisk";
+"LOCAL_SERVER_LAST_UPDATE" = "Sidst opdateret %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "FEJL MED SERVER-FORBINDELSE";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "Tjek venligst din serveradresse og loginoplysninger";
+
+"CLOUD_SERVICES" = "Cloud-tjenester";
+"LOGIN" = "Log ind";
+"LOGGED_IN" = "Logget ind";
+"LOGGED_IN_SERVICES" = "%d logget i tjenester";
+"LOGGED_IN_SERVICE" = "1 logget i tjeneste";
+
+"DROPBOX_DOWNLOAD" = "Download fil?";
+"DROPBOX_DL_LONG" = "Vil du downloade \"%@\" til din %@?";
+"DROPBOX_LOGIN" = "Log ind";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "Fejl under overførsel af filer";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "Din fil er blevet downloadet";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "SUCCESS";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "Der opstod en fejl under overførslen";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "FEJL";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "Det valgte medie har ikke en url som kan afspilles";
+
+"DISK_FULL" = "Lagergrænse nået";
+"DISK_FULL_FORMAT" = "%@ kan ikke lagres på din %@, fordi du ikke har nok ledig plads.";
+
+"NUM_OF_FILES" = "%i filer";
+"ONE_FILE" = "1 fil";
+"NO_FILES" = "Ingen understøttede filer";
+"DOWNLOADING" = "Downloader...";
+"REMAINING_TIME" = "Resterende tid: %@";
+"BIOMETRIC_UNLOCK" = "Lås mediebibliotek op\nAnnuller for at indtaste adgangskode";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d fejlslagne adgangskode forsøg";
+"1 Failed Passcode Attempt" = "1 fejlslagent adgangskode forsøg";
+"Change Passcode" = "Skift adgangskode";
+"Enter Passcode" = "Indtast adgangskode";
+"Enter a passcode" = "Indtast en adgangskode";
+"Enter your new passcode" = "Indtast din nye adgangskode";
+"Enter your old passcode" = "Indtast din gamle adgangskode";
+"Enter your passcode" = "Indtast din adgangskode";
+"Next" = "Næste";
+"Passcodes did not match. Try again." = "Adgangskoderne er ikke ens. Prøv igen.";
+"Re-enter your new passcode" = "Indtast din nye adgangskode igen";
+"Re-enter your passcode" = "Indtast din adgangskode igen";
+"Set Passcode" = "Indstil adgangskode";
+
+"Settings" = "Indstillinger"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "Til";
+"OFF" = "Fra";
+
+"EMPTY_LIBRARY" = "Tomt mediebibliotek";
+"EMPTY_LIBRARY_LONG" = "Du kan afspille medier ved at streame dem fra en server på dit lokale netværk eller fra skyen, eller ved at synkronisere medier til din enhed vha. iTunes, WiFi-overførsel eller sky-tjenester.";
+
+"EMPTY_PLAYLIST" = "Tom afspilningsliste";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Tilføj medier når de respektive kategorier redigeres.";
+
+"PLAYBACK_SCRUB_HELP" = "Stryg din finger nedad for at justere spolinghastigheden.";
+"PLAYBACK_SCRUB_HIGH" = "Spoling med høj hastighed";
+"PLAYBACK_SCRUB_HALF" = "Spoling med halv hastighed";
+"PLAYBACK_SCRUB_QUARTER" = "Spoling med kvart hastighed";
+"PLAYBACK_SCRUB_FINE" = "Præcisionsspoling";
+"PLAYBACK_POSITION" = "Afspilningsposition";
+"VIDEO_FILTER" = "Videofiltre";
+"VIDEO_FILTER_RESET_BUTTON" = "Nulstil videofiltre";
+"VIDEO_ASPECT_RATIO_BUTTON" = "Skift video højde-bredde-forhold";
+"PLAY_PAUSE_BUTTON" = "Afspil eller pause nuværende afspilning";
+"BWD_BUTTON" = "Hop tilbage";
+"FWD_BUTTON" = "Hop fremad";
+"PLAY_BUTTON" = "Afspil";
+"NEXT_BUTTON" = "Næste";
+"PREV_BUTTON" = "Forrige";
+"PLAY_ALL_BUTTON" = "Afspil alle";
+
+"VERSION_FORMAT" = "Version: %@";
+"BASED_ON_FORMAT" = "Baseret på:<br />%@";
+
+"NEW" = "NY";
+
+"BUG_REPORT_TITLE" = "Rapportér en fejl";
+"BUG_REPORT_MESSAGE" = "Vil du oprette en fejlrapport?";
+"BUG_REPORT_BUTTON" = "Åbn Safari";
+
+"VO_VIDEOPLAYER_TITLE" = "Videoafspiller";
+"VO_VIDEOPLAYER_DOUBLETAP" = "Dobbelttryk for at vise eller skjule betjeningspanel";
+
+"FIRST_STEPS_ITUNES" = "Synkronisering af iTunes-filer";
+"FIRST_STEPS_ITUNES_TITLE" = "Synkroniser med din computer";
+"FIRST_STEPS_ITUNES_DETAILS" = "Tilslut din enhed til iTunes og vælg din enhed. Vælg \"Arkivdeling\" i menuen til venstre i iTunes og kig efter VLC for at overføre filer";
+"FIRST_STEPS_WIFI_TITLE" = "Del via Wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Indtast den genererede URL i din favorit webbrowser mens der er forbindelse til det samme netværk som din telefon";
+"FIRST_STEPS_CLOUDS" = "Skyer";
+"FIRST_STEPS_CLOUD_TITLE" = "Sky";
+"FIRST_STEPS_CLOUD_DETAILS" = "Upload dine medier til en skytjeneste såsom Google Drive eller Dropbox for at downloade eller streame dem fra et fjernsted.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Tjek din Plex-konto under indstillinger.";
+"PLEX_ERROR_ACCOUNT" = "Plex loginfejl";
+
+"UNAUTHORIZED" = "Uautoriseret";
+
+"SERVER" = "Server";
+"SERVER_PORT" = "Port";
+"NO_SERVER_FOUND" = "Ingen server fundet";
+"NO_RECENT_STREAMS" = "Der er ikke afspillet noget stream for nylig";
+
+"WEBINTF_TITLE" = "Deling via WiFi";
+"WEBINTF_DROPFILES" = "Slip filer";
+"WEBINTF_DROPFILES_LONG" = "Slip filer i vinduet for at tilføje dem til din %@.<br>Eller klik på \"+\"-knappen for at bruge filvælgeren.";
+"WEBINTF_DOWNLOADFILES" = "Download filer";
+"WEBINTF_DOWNLOADFILES_LONG" = "Klik blot på den fil du vil downloade fra din %@.";
+"WEBINTF_TITLE_ATV" = "Fjernafspilning";
+"WEBINTF_DROPFILES_LONG_ATV" = "Slip filer i vinduet for at afspille dem på din %@.<br>Eller klik på \"+\"-knappen for at bruge filvælgeren.";
+"WEBINTF_URL_SENT" = "URL sendt";
+"WEBINTF_URL_EMPTY" = "URL må ikke være tom.";
+"WEBINTF_URL_INVALID" = "Ikke en gyldig URL.";
+"WEBINTF_AUTH_REQUIRED" = "Indtast venligst den adgangskode du indstillede i VLC iOS:";
+"WEBINTF_AUTH_WRONG_PASSCODE" = "Forkert adgangskode.<br>Tilbageværende forsøg: ";
+"WEBINTF_AUTH_BANNED" = "Du har indtastet for mange forkerte adgangskoder.<br>Genstart venligst VLC iOS og prøv igen.";
+
+
+
+"DURATION" = "Varighed";
+"TITLE" = "Titel";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Tryk og hold for at stoppe afspilning.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Lydinfo";
+"CLOUD_LOGIN_LONG" = "Log ind på iCloud, for at få adgang til cloud-tjenester på både dette Apple TV og en iOS-enhed med det samme Apple-id og aktivér Keychain Sharing i systemindstillinger.\nLog efterfølgende ind på den ønskede cloud-udbyder med VLC-appen på din iOS-enhed. Vælg det her på skærmen til sidst.";
+"ENTER_URL" = "Indtast URL som skal afspilles";
+"HTTP_SERVER_ON" = "Deaktivér fjernafspilning";
+"HTTP_SERVER_OFF" = "Aktivér fjernafspilning";
+"CACHED_MEDIA" = "Cached medie";
+"CACHED_MEDIA_LONG" = "Medier som vises her er gemt lokalt på dit Apple TV. Bemærk at indhold når som helst kan blive fjernet af styresystemet uden forudgående besked når VLC ikke køre hvis din enhed løber tør for lagerplads.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Downloader undertekster fra OpenSubtitles.org...";
+"FOUND_SUBS" = "Fundne undertekster";
+"USE_SPDIF" = "Brug gennemløb (S/PDIF)";
+
+"PLAYBACK" = "Afspilning";
+"REPEAT_MODE" = "Gentag";
+"REPEAT_DISABLED" = "Deaktiveret";
+"REPEAT_SINGLE" = "En";
+"REPEAT_FOLDER" = "Mappe";
+
+// Local Network Service Names
+"UPNP_LONG" = "Universal Plug'n'Play (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex-medieserver (via Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "File Transfer Protocol (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR-filserver";
+"DSM_WORKGROUP" = "Arbejdsgruppe";
+
+"URL_NOT_SUPPORTED" = "URL'en kan ikke åbnes";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Tryk på %@ for at slette"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Bekræft sletningen af markeringen?";
+"DELETE_MESSAGE_PLAYLIST" = "Er du sikker på, at du vil slette den valgte afspilningsliste?\nTilknyttede mediefiler slettes ikke.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Er du sikker på, at du vil fjerne de valgte medier fra afspilningslisten?\nDe slettes ikke fra disken.";
+"DELETE_TITLE" = "Slet markering";
+
+//Drag and Drop
+"THIS_FILE" = "Denne fil";
+"NOT_SUPPORTED_FILETYPE" = "%@ er ikke er understøttet filtype i VLC";
+"FILE_EXISTS" = "%@ findes allerede";
+
+"PROTOCOL_NOT_SELECTED" = "Protokol ikke valgt";
+"Settings" = "Indstillinger";
+
+"ERROR" = "Fejl";
+"OK" = "Ok";
+"SORT" = "Sortér";
+"SORT_BY" = "Sortér efter";
+"SEARCH" = "Søgning";
+"VIDEO" = "Video";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Album";
+"ARTISTS" = "Kunstnere";
+"EPISODES" = "Episoder";
+"GENRES" = "Genre";
+"MOVIES" = "Film";
+"SONGS" = "Sange";
+"PLAYLISTS" = "Afspilningsliste";
+"VIDEO_GROUPS" = "Videogrupper";
+
+"MODIFIED_DATE" = "Ændringsdato";
+"NAME" = "Navn";
+
+//EDIT
+
+"BUTTON_EDIT" = "Rediger";
+"BUTTON_EDIT_HINT" = "Redigeringstilstand";
+
+"ADD_TO_PLAYLIST" = "Tilføj til afspilningsliste";
+"ADD_TO_PLAYLIST_HINT" = "Åbn tilføj til afspilningsliste-menuen";
+
+"PLAYLIST_PLACEHOLDER" = "Titel for afspilningsliste";
+"PLAYLIST_DESCRIPTION" = "Vælg en titel til din nye afspilningsliste";
+"PLAYLIST_CREATION" = "Opret en ny afspilningsliste";
+"PLAYLIST_CREATION_HINT" = "Vis en interaktiv handling til at oprette en afspilningsliste";
+"ERROR_PLAYLIST_CREATION" = "Kunne ikke oprette en afspilningsliste";
+"ERROR_PLAYLIST_TRACKS" = "Kunne ikke hente spor";
+
+"ERROR_RENAME_FAILED" = "Omdøbning mislykkedes";
+"ERROR_EMPTY_NAME" = "Titlen må ikke være tom";
+
+"SHARE_LABEL" = "Del";
+"SHARE_HINT" = "Del de valgte filer";
+"RENAME_HINT" = "Omdøb de valgte filer";
+"DELETE_HINT" = "Slet de valgte filer";
+
+// Sort
+
+"BUTTON_SORT" = "Sortér";
+"BUTTON_SORT_HINT" = "Vis sorteringshandlingsark";
+"HEADER_TITLE_SORT" = "Sortér efter";
+"DESCENDING_LABEL" = "Faldende rækkefølge";
+"DESCENDING_SWITCH_LABEL" = "Stigende eller faldende rækkefølge";
+"DESCENDING_SWITCH_HINT" = "Sortér indholdet i stigende eller faldende rækkefølge";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alfanumerisk";
+"DURATION" = "Varighed";
+"INSERTION_DATE" = "Indsættelsesdato";
+"LAST_MODIFICATION_DATE" = "Dato for sidste ændring";
+"RELEASE_DATE" = "Udgivelsesdato";
+"FILE_SIZE" = "Filstørrelse";
+"ARTIST" = "Kunstner";
+"PLAY_COUNT" = "Antal afspilninger";
+"ALBUM" = "Album";
+"FILENAME" = "Filnavn";
+"TRACK_NUMBER" = "Spornummer";
+"NB_AUDIO" = "Antal lyd";
+"NB_MEDIA" = "Antal medier";
+"NB_VIDEO" = "Antal video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Intet fundet";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Ukendt kunstner";
+"VARIOUS_ARTIST" = "Diverse kunstnere";
+"UNKNOWN_ALBUM" = "Ukendt album";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Lås brugerflade";
+"INTERFACE_LOCK_HINT" = "Deaktivér brugerfladestyringer";
+"MORE_OPTIONS_BUTTON" = "Mere";
+"MORE_OPTIONS_HINT" = "Vis flere indstillingsstyringer";
+"REPEAT_MODE_HINT" = "Skift gentagelsestilstand for det nuværende element";
+"VIDEO_ASPECT_RATIO_HINT" = "Skift højde-bredde-forholdet for den nuværende video";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Videoindstillinger";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Tving genskanning af mediebibliotek";
+"FORCE_RESCAN_MESSAGE" = "Vil du tvinge VLC til at genskanne dit mediebiblitek?\nDet kan tage en del tid.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "Advarsel om SMBv1-forbindelse";
+"SMBV1_WARN_DESCRIPTION" = "Vi registrerede en gammel protokol (SMBv1).\nEr du sikker på, at du vil fortsætte med SMBv1?\nVi anbefaler at du opgraderer eller ændrer dine serverindstillinger.";
+"SMBV1_CONTINUE" = "Fortsæt med SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Prøv SMBv2/v3";
+
+/* Preview labels */
+
+"ENCODING" = "Kodning";

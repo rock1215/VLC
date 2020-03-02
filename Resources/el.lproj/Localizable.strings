@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "To VLC για το iOS είναι μια μετατροπή του δωρεάν  παίκτη μέσων VLC για τα iPad, iPhone και iPod touch.\nΜπορεί να παίξει όλες σας τις ταινίες, τις σειρές και την μουσική σας, στα περισσότερα φορμάτ και χωρίς μετατροπή.\nΕπιτρέπει το συγχρονισμό με τα Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, απευθείας κατεβάσματα και μοίρασμα μέσω WiFi αλλά και ροές από διακομιστές μέσων SMB, FTP, UPnP/DLNA και το διαδίκτυο.\nΤο VLC υποστηρίζει προχωρημένους υπότιτλους με πλήρη SSA συμβατότητα, πολυκάναλο ήχο, και έλεγχο της ταχύτητας αναπαραγωγής.\n\nΤο VLC για iOS είναι δωρεάν και έχει ανοικτό κώδικα.";
+
+"STORE_DESCRIPTION_TV" = "Ο παίκτης μέσων VLC είναι ένας δωρεάν και ανοικτού κώδικα και πολλαπλών πλατφόρμων παίκτης πολυμέσων.\nΜπορεί να παίξει όλες σας τις ταινίες, τις σειρές και την μουσική σας, στα περισσότερα φορμάτ και χωρίς μετατροπή.\nΕπιτρέπει το συγχρονισμό με τις υπηρεσίες νέφους (Dropbox, OneDrive, Box), απομακρυσμένη αναπαραγωγή από τον Mac ή το PC σας μέσω ενός Web UI αλλά και ροές από διακομιστές μέσων SMB, FTP, UPnP/DLNA και το διαδίκτυο.\nΤο VLC υποστηρίζει προχωρημένους υπότιτλους με πλήρη SSA συμβατότητα, πολυκάναλο ήχο, και έλεγχο της ταχύτητας αναπαραγωγής.\n\nΤο VLC για iOS είναι δωρεάν και έχει ανοικτό κώδικα.\n\nΜεταδεδομένα και τέχνη προσφέρονται από τις TMDb και Hatchet, οι οποίες είναι υποστηριζόμενες από την κοινότητα βάσεις δεδομένων ταινιών και μουσικής.";
+
+"CHOOSE_AUDIO_TRACK" = "Επιλέξτε Κανάλι Ήχου";
+"CHOOSE_SUBTITLE_TRACK" = "Επιλέξτε Κανάλι Υπότιτλων";
+"OPEN_TRACK_PANEL" = "Άνοιγμα επιλογής καναλιού";
+"CHOOSE_TITLE" = "Επιλογή Τίτλου";
+"CHOOSE_CHAPTER" = "Επιλογή Κεφαλαίου";
+"CHAPTER_SELECTION_TITLE" = "Κεφάλαια";
+"TITLE" = "Τίτλος";
+"CHAPTER" = "Κεφάλαιο";
+"MINIMIZE_PLAYBACK_VIEW" = "Ελαχιστοποίηση αναπαραγωγής";
+"TRACK_SELECTION" = "Eπιλογή καναλιού";
+"AUDIO" = "Ήχος";
+"SUBTITLES" = "Υπότιτλοι";
+"LANGUAGE" = "Γλώσσα";
+"MEDIA_INFO" = "Πληροφορίες πολυμέσων";
+"VIDEO_DIMENSIONS" = "Διαστάσεις βίντεο";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i εικονοστοιχείο";
+"FORMAT_AUDIO_TRACKS" = "%i κομμάτια ήχου";
+"ONE_AUDIO_TRACK" = "Ένα κομμάτι ήχου";
+"FORMAT_SPU_TRACKS" = "%i κομμάτια υπότιτλων";
+"ONE_SPU_TRACK" = "Ένα κομμάτι υπότιτλων";
+"TRACKS" = "%i Κομμάτια";
+"TRACK" = "%i Κομμάτι";
+
+"PLAYING_EXTERNALLY_TITLE" = "Η TV είναι συνδεδεμένη";
+"PLAYING_EXTERNALLY_DESC" = "Αυτό το βίντεο παίζει τώρα στην TV";
+"PLAYING_EXTERNALLY_ADDITION" = "\nΑναπαράγεται τώρα στο:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "Απόχρωση";
+"VFILTER_CONTRAST" = "Αντίθεση";
+"VFILTER_BRIGHTNESS" = "Φωτεινότητα";
+"VFILTER_SATURATION" = "Κορεσμός";
+"VFILTER_GAMMA" = "Γάμμα";
+
+"PREAMP" = "Προενίσχυση";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Επιλογή Προφίλ Ισοσταθμιστή";
+
+"PLAYBACK_FAILED" = "Η αναπαραγωγή απέτυχε";
+"PLEASE_WAIT" = "Παρακαλώ περιμένετε";
+"AR_CHANGED" = "Αναλογία: %@";
+"DEFAULT" = "Προεπιλογή";
+"FILL_TO_SCREEN" = "Περικοπή για γέμισμα οθόνης";
+"PLAYBACK_SPEED" = "Ταχύτητα αναπαραγωγής";
+"SPU_DELAY" = "Καθυστέρηση υπότιτλων";
+"AUDIO_DELAY" = "Καθυστέρηση ήχου";
+"BUTTON_SLEEP_TIMER" = "Χρονοδιακόπτης Ύπνου";
+"SLEEP_TIMER_UPDATED" = "Ο Χρονοδιακόπτης Ύπνου Ενημερώθηκε";
+"CONTINUE_PLAYBACK" = "Συνέχιση της αναπαραγωγής;";
+"CONTINUE_PLAYBACK_LONG" = "Θέλετε να συνεχίσετε την αναπαραγωγή του \"%@\" από εκεί που είχατε μείνει;";
+
+"BUTTON_ABOUT" = "Σχετικά";
+"BUTTON_BACK" = "Πίσω";
+"BUTTON_DONE" = "Τέλος";
+"BUTTON_CANCEL" = "Ακύρωση";
+"BUTTON_SAVE" = "Αποθήκευση";
+"BUTTON_DOWNLOAD" = "Λήψη";
+"BUTTON_DELETE" = "Διαγραφή";
+"BUTTON_OK" = "OK";
+"BUTTON_CONTRIBUTE" = "Συνεισφέρετε";
+"BUTTON_CONNECT" = "Σύνδεση";
+"BUTTON_RENAME" = "Μετονομασία";
+"BUTTON_LEARN_MORE" = "Μάθετε περισσότερα";
+"BUTTON_LOGOUT" = "Αποσύνδεση";
+"BUTTON_CONTINUE" = "Συνέχεια";
+"BUTTON_SET" = "Ρύθμιση";
+"BUTTON_RESET" = "Επαναφορά";
+"BUTTON_RESCAN" = "Επανασάρωση";
+"PRIVATE_PLAYBACK_TOGGLE" = "Ιδιωτική Αναπαραγωγή";
+"SCAN_SUBTITLE_TOGGLE" = "Ανίχνευση για Υπότιτλους (μόνο-http)";
+
+"BUTTON_RENDERER" = "Συσκευές μετάδοσης";
+"BUTTON_RENDERER_HINT" = "Show a menu of available casting devices";
+
+"UPGRADING_LIBRARY" = "Αναβάθμιση Βιβλιοθήκης Μέσων";
+"UNKNOWN" = "Άγνωστο";
+
+"OPEN_NETWORK" = "Άνοιγμα Ροής Δικτύου";
+"NETWORK_TITLE" = "Δικτυακή Ροής";
+"OPEN_NETWORK_HELP" = "Εισαγάγετε μία από τις HTTP, RTSP, RTMP, MMS, FTP or UDP/RTP διευθύνσεις για να ανοίξετε τη ροή απευθείας.";
+"HTTP_UPLOAD_SERVER_OFF" = "Ανενεργός Διακομιστής";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "Καμία ενεργή σύνδεση WiFi";
+"OPEN_STREAM_OR_DOWNLOAD" = "Θα θέλατε να κατεβάσετε ή να παίξετε αυτό το URL;";
+"SHARED_VLC_IOS_LIBRARY" = "Κοινόχρηστη Βιβλιοθήκη του VLC για iOS ";
+"SMB_CIFS_FILE_SERVERS" = "Διακομιστές αρχείων (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "Το κατέβασμα ακυρώθηκε από το χρήστη";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "Εισαγάγετε μια διεύθυνση για να κατεβάσετε το αρχείο στο %@.";
+"DOWNLOAD_FROM_HTTP" = "Λήψεις";
+"ERROR_NUMBER" = "Σφάλμα %i συνέβη";
+"DOWNLOAD_FAILED" = "Η λήψη απέτυχε";
+"FILE_NOT_SUPPORTED" = "Ο τύπος αρχείου δεν υποστηρίζεται";
+"FILE_NOT_SUPPORTED_LONG" = "Ο τύπος αρχείου που χρησιμοποιείται από το %@ δεν υποστηρίζεται σε αυτή την έκδοση του VLC για το iOS.";
+"SCHEME_NOT_SUPPORTED" = "Το σύστημα διεύθυνσης δεν υποστηρίζεται";
+"SCHEME_NOT_SUPPORTED_LONG" = "Το σύστημα διεύθυνσης (%@) δεν υποστηρίζεται. Παρακαλώ χρησιμοποιείστε μια διεύθυνση που ξεκινά με HTTP, HTTPS ή FTP.";
+"RENAME_MEDIA_TO" = "Εισάγετε ένα νέο όνομα για το %@";
+
+"FOLDER_EMPTY" = "Άδειος φάκελος";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Επιλέξτε ένα αρχείο για άνοιγμα:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Άνοιγμα σε...";
+"SHARING_ERROR_NO_FILES" = "Δεν βρέθηκε κανένα αρχείο για μοίρασμα";
+"SHARING_ERROR_NO_APPLICATIONS" = "Δεν βρέθηκε καμία εφαρμογή που να ανοίγει αυτόν τον τύπο αρχείου";
+"SHARING_SUCCESS_CAMERA_ROLL" = "Το αρχείο σώθηκε επιτυχώς στο Camera Roll";
+
+"STREAMVC_DETAILTEXT" = "Play streams directly without downloading";
+"DOWNLOADVC_DETAILTEXT" = "Λήψη αρχείων απευθείας στη συσκευή σας";
+"HEADER_TITLE_RENDERER" = "Επιλογή μιας συσκευής μετάδοσης";
+
+"NETWORK" = "Δίκτυο";
+"LOCAL_NETWORK" = "Τοπικό Δίκτυο";
+"CONNECT_TO_SERVER" = "Συνδεθείτε στο διακομιστή";
+"FILE_SERVER" = "Διακομιστές Αρχείων";
+"USER_LABEL" = "Χρήστης";
+"PASSWORD_LABEL" = "Κωδικός";
+"DISABLE_LABEL" = "Απενεργοποίηση";
+"BUTTON_ANONYMOUS_LOGIN" = "Ανώνυμη Σύνδεση";
+
+"LOCAL_SERVER_REFRESH" = "Ανανέωση";
+"LOCAL_SERVER_LAST_UPDATE" = "Τελευταία Ενημέρωση στις %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "Η ΕΠΙΚΟΙΝΩΝΙΑ ΜΕ ΤΟΝ ΔΙΑΚΟΜΙΣΤΗ ΑΠΕΤΥΧΕ";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "Παρακαλώ ελέγξτε τη διεύθυνση του διακομιστή και τα διαπιστευτήρια σας";
+
+"CLOUD_SERVICES" = "Υπηρεσίες Νεφών";
+"LOGIN" = "Σύνδεση";
+"LOGGED_IN" = "Έχετε συνδεθεί";
+"LOGGED_IN_SERVICES" = "%d logged in services";
+"LOGGED_IN_SERVICE" = "1 logged in service";
+
+"DROPBOX_DOWNLOAD" = "Λήψη Αρχείου;";
+"DROPBOX_DL_LONG" = "Θέλετε να κατεβάσετε το \"%@\" στο %@;";
+"DROPBOX_LOGIN" = "Σύνδεση";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "Σφάλμα κατά το κατέβασμα των αρχείων";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "Το αρχείο κατέβηκε επιτυχώς";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "ΕΠΙΤΥΧΙΑ";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "Ένα σφάλμα συνέβη κατά το κατέβασμα";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "ΣΦΑΛΜΑ";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "Το επιλεγμένο μέσο δεν διαθέτει μια διεύθυνση url που μπορεί να αναπαραχθεί";
+
+"DISK_FULL" = "Φτάσατε το όριο αποθήκευσης";
+"DISK_FULL_FORMAT" = "Το %@ δεν μπορεί να αποθηκευτεί στο %@ σας, επειδή δεν έχετε αρκετό ελεύθερο χώρο.";
+
+"NUM_OF_FILES" = "%i αρχεία";
+"ONE_FILE" = "1 αρχείο";
+"NO_FILES" = "Κανένα υποστηριζόμενο αρχείο";
+"DOWNLOADING" = "Λήψη...";
+"REMAINING_TIME" = "Απομένων χρόνος: %@";
+"BIOMETRIC_UNLOCK" = "Ξεκλειδώστε την Βιβλιοθήκη Μέσων\nΑκυρώστε για να εισάγετε Κωδικό";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d Failed Passcode Attempts";
+"1 Failed Passcode Attempt" = "1 Failed Passcode Attempt";
+"Change Passcode" = "Change Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Enter a passcode" = "Enter a passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your passcode" = "Βάλτε τον κωδικό σας";
+"Next" = "Επόμενο";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Re-enter your new passcode" = "Re-enter your new passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Set Passcode" = "Ορίστε τον κωδικό";
+
+"Settings" = "Επιλογές"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "Ενεργό";
+"OFF" = "Ανενεργό";
+
+"EMPTY_LIBRARY" = "Άδεια Βιβλιοθήκη Μέσων";
+"EMPTY_LIBRARY_LONG" = "Για αναπαραγωγή, μπορείτε να κάνετε ροή πολυμέσων από ένα διακομιστή στο τοπικό σας δίκτυο, από τα νέφη ή να συγχρονίσετε τα μέσα ενημέρωσης στη συσκευή σας μέσω του iTunes, WiFi Upload ή τις υπηρεσίες νεφών/cloud.";
+
+"EMPTY_PLAYLIST" = "Empty playlist";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Add media while editing in the respective categories.";
+
+"PLAYBACK_SCRUB_HELP" = "Σύρετε το δάκτυλό σας προς τα κάτω για να ρυθμίσετε το ρυθμό τριψίματος.";
+"PLAYBACK_SCRUB_HIGH" = "Υψηλή ταχύτητα τριψίματος";
+"PLAYBACK_SCRUB_HALF" = "Μισή ταχύτητα τριψίματος";
+"PLAYBACK_SCRUB_QUARTER" = "Ένα τέταρτο ταχύτητας τριψίματος";
+"PLAYBACK_SCRUB_FINE" = "Λεπτό τρίψιμο";
+"PLAYBACK_POSITION" = "Θέση Αναπαραγωγής";
+"VIDEO_FILTER" = "Φίλτρα βίντεο";
+"VIDEO_FILTER_RESET_BUTTON" = "Επαναφορά φίλτρων βίντεο";
+"VIDEO_ASPECT_RATIO_BUTTON" = "Αλλαγή Αναλογίας Βίντεο";
+"PLAY_PAUSE_BUTTON" = "Παίξτε ή Παγώστε την τρέχουσα αναπαραγωγή";
+"BWD_BUTTON" = "Άλμα Πίσω";
+"FWD_BUTTON" = "Άλμα Μπροστά";
+"PLAY_BUTTON" = "Αναπαραγωγή";
+"NEXT_BUTTON" = "Επόμενο";
+"PREV_BUTTON" = "Προηγούμενο";
+"PLAY_ALL_BUTTON" = "Αναπαραγωγή όλων";
+
+"VERSION_FORMAT" = "Έκδοση: %@";
+"BASED_ON_FORMAT" = "Βασισμένο σε:<br />%@";
+
+"NEW" = "ΝΕΟ";
+
+"BUG_REPORT_TITLE" = "Αναφορά προβλήματος";
+"BUG_REPORT_MESSAGE" = "Θέλετε να υποβάλετε μια αναφορά προβλήματος;";
+"BUG_REPORT_BUTTON" = "Άνοιγμα του Safari";
+
+"VO_VIDEOPLAYER_TITLE" = "Πρόγραμμα Αναπαραγωγής Βίντεο";
+"VO_VIDEOPLAYER_DOUBLETAP" = "Κάντε διπλό πάτημα για να εμφανίσετε ή να αποκρύψετε στοιχεία ελέγχου αναπαραγωγής";
+
+"FIRST_STEPS_ITUNES" = "Συγχρονισμός αρχείων iTunes ";
+"FIRST_STEPS_ITUNES_TITLE" = "Συγχρονισμός Με Τον Υπολογιστή Σας";
+"FIRST_STEPS_ITUNES_DETAILS" = "Συνδέστε τη συσκευή σας στο iTunes και επιλέξτε τη συσκευή σας. Επιλέξτε \"Κοινή χρήση αρχείων\" στο αριστερό μενού του iTunes και αναζητήστε το VLC για να μεταφέρετε αρχεία";
+"FIRST_STEPS_WIFI_TITLE" = "Share via Wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Enter the generated URL in your favorite web browser while connected to the same network as your phone";
+"FIRST_STEPS_CLOUDS" = "Νέφη";
+"FIRST_STEPS_CLOUD_TITLE" = "Σύννεφο";
+"FIRST_STEPS_CLOUD_DETAILS" = "Upload your media to a cloud service like Google Drive or Dropbox to remotely download or stream them.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Ελέγξτε τον Plex λογαριασμό σας στις ρυθμίσεις";
+"PLEX_ERROR_ACCOUNT" = "Σφάλμα εισόδου Plex ";
+
+"UNAUTHORIZED" = "Ανεξουσιοδότητος";
+
+"SERVER" = "Διακομιστής";
+"SERVER_PORT" = "Θύρα";
+"NO_SERVER_FOUND" = "Δεν βρέθηκε διακομιστής";
+"NO_RECENT_STREAMS" = "Καμία ροή δεν παίχθηκε πρόσφατα";
+
+"WEBINTF_TITLE" = "Κοινή χρήση μέσω WiFi";
+"WEBINTF_DROPFILES" = "Ρίψη αρχείων";
+"WEBINTF_DROPFILES_LONG" = "Ρίξτε τα αρχεία στο παράθυρο για να τα προσθέσετε στο %@.<br> Ή κάντε κλικ στο κουμπί \"+\" για να χρησιμοποιήσετε το παράθυρο διαλόγου επιλογέα αρχείου.";
+"WEBINTF_DOWNLOADFILES" = "Λήψη Αρχείων";
+"WEBINTF_DOWNLOADFILES_LONG" = "Απλά κάντε κλικ στο αρχείο που θέλετε να κατεβάσετε από το %@.";
+"WEBINTF_TITLE_ATV" = "Απομακρυσμένη Αναπαραγωγή";
+"WEBINTF_DROPFILES_LONG_ATV" = "Ρίξτε τα αρχεία στο παράθυρο για να τα παίξετε στο %@.<br> Ή κάντε κλικ στο κουμπί \"+\" για να χρησιμοποιήσετε το παράθυρο διαλόγου επιλογέα αρχείου.";
+"WEBINTF_URL_SENT" = "Το URL στάλθηκε επιτυχώς.";
+"WEBINTF_URL_EMPTY" = "Το URL δεν μπορεί να είναι άδειο.";
+"WEBINTF_URL_INVALID" = "Μη έγκυρο URL.";
+
+
+
+"DURATION" = "Διάρκεια";
+"TITLE" = "Τίτλος";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Πατήστε για να σταματήσετε την αναπαραγωγή.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Πληροφορίες Ήχου";
+"CLOUD_LOGIN_LONG" = "Για πρόσβαση στα Cloud Services, συνδεθείτε στο iCloud σε αυτό το Apple TV και μια συσκευή iOS με το ίδιο Apple ID και επιτρέψτε το Keychain Sharing στις επιλογές συστήματος.\nΣτη συνέχεια, συνδεθείτε με τον πάροχο νέφους της επιλογής σας χρησιμοποιώντας την εφαρμογή VLC για την iOS συσκευή σας. Τέλος, επιλέξτε την σε αυτή την οθόνη.";
+"ENTER_URL" = "Εισάγετε ένα URL για αναπαραγωγή";
+"HTTP_SERVER_ON" = "Απενεργοποιήστε την Απομακρυσμένη Αναπαραγωγή";
+"HTTP_SERVER_OFF" = "Ενεργοποιείστε την Απομακρυσμένη Αναπαραγωγή";
+"CACHED_MEDIA" = "Προαποθηκευμένα Μέσα";
+"CACHED_MEDIA_LONG" = "Τα μέσα που παρουσιάζονται εδώ είναι αποθηκευμένα τοπικά στο Apple TV σας. Σημειώστε ότι το περιεχόμενο μπορεί να αφαιρεθεί από το λειτουργικό σύστημα χωρίς προειδοποίηση ανά πάσα στιγμή, όταν το VLC δεν λειτουργεί σε περίπτωση που η συσκευή σας ξεμείνει από αποθηκευτικό χώρο.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Κατέβασμα υπότιτλων από το OpenSubtitles.org...";
+"FOUND_SUBS" = "Βρέθηκαν υπότιτλοι";
+"USE_SPDIF" = "Χρήση Pass-through (S/PDIF)";
+
+"PLAYBACK" = "Αναπαραγωγή";
+"REPEAT_MODE" = "Επανάληψη";
+"REPEAT_DISABLED" = "Απενεργοποιημένο";
+"REPEAT_SINGLE" = "Μονή";
+"REPEAT_FOLDER" = "Φάκελος";
+
+// Local Network Service Names
+"UPNP_LONG" = "Οικουμενική Σύνδεση και Χρήση (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Διακομιστής Μέσων Plex (μέσω Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "Πρωτόκολλο Μεταφοράς Αρχείων (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR Διακομιστής Αρχείου";
+"DSM_WORKGROUP" = "Workgroup";
+
+"URL_NOT_SUPPORTED" = "The URL can't be opened";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Πατήστε %@ για Διαγραφή"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Confirm the deletion of the selection";
+"DELETE_MESSAGE_PLAYLIST" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε την επιλεγμένη λίστα αναπαραγωγής;\nΤα συνδεδεμένα αρχεία πολυμέσων δεν θα διαγραφούν.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Διαγραφή επιλογής";
+
+//Drag and Drop
+"THIS_FILE" = "Αυτό το αρχείο";
+"NOT_SUPPORTED_FILETYPE" = "%@ ο τύπος αρχείου δεν υποστηρίζετε από το VLC";
+"FILE_EXISTS" = "%@ υπάρχει ήδη";
+
+"PROTOCOL_NOT_SELECTED" = "Δεν επιλέχθηκε πρωτόκολλο";
+"Settings" = "Επιλογές";
+
+"ERROR" = "Σφάλμα";
+"OK" = "Οκ";
+"SORT" = "Ταξινόμηση";
+"SORT_BY" = "Ταξινόμηση κατά";
+"SEARCH" = "Αναζήτηση";
+"VIDEO" = "Βίντεο";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Άλμπουμς";
+"ARTISTS" = "Καλλιτέχνες";
+"EPISODES" = "Επεισόδια";
+"GENRES" = "Είδη";
+"MOVIES" = "Ταινίες";
+"SONGS" = "Τραγούδια";
+"PLAYLISTS" = "Λίστες Αναπαραγωγής";
+"VIDEO_GROUPS" = "Ομάδες Βίντεο";
+
+"MODIFIED_DATE" = "Ημερομηνία τροποποίησης";
+"NAME" = "Όνομα";
+
+//EDIT
+
+"BUTTON_EDIT" = "Επεξεργασία";
+"BUTTON_EDIT_HINT" = "Λειτουργία Επεξεργασίας";
+
+"ADD_TO_PLAYLIST" = "Προσθήκη στη λίστα αναπαραγωγής";
+"ADD_TO_PLAYLIST_HINT" = "Open the add to playlist menu";
+
+"PLAYLIST_PLACEHOLDER" = "Τίτλος Λίστας Αναπαραγωγής";
+"PLAYLIST_DESCRIPTION" = "Επιλέξτε έναν τίτλο για την νέα λίστα αναπαραγωγής σας";
+"PLAYLIST_CREATION" = "Δημιουργία μιας νέας λίστας αναπαραγωγής";
+"PLAYLIST_CREATION_HINT" = "Show an interactive action to create a playlist";
+"ERROR_PLAYLIST_CREATION" = "Failed to create a playlist";
+"ERROR_PLAYLIST_TRACKS" = "Failed to retrieve tracks";
+
+"ERROR_RENAME_FAILED" = "Renaming failed";
+"ERROR_EMPTY_NAME" = "The title can't be empty";
+
+"SHARE_LABEL" = "Share";
+"SHARE_HINT" = "Κοινή χρήση επιλεγμένων αρχείων";
+"RENAME_HINT" = "Μετονομασία επιλεγμένων αρχείων";
+"DELETE_HINT" = "Διαγραφή επιλεγμένων αρχείων";
+
+// Sort
+
+"BUTTON_SORT" = "Sort";
+"BUTTON_SORT_HINT" = "Display sort action sheet";
+"HEADER_TITLE_SORT" = "Sort by";
+"DESCENDING_LABEL" = "Descending Order";
+"DESCENDING_SWITCH_LABEL" = "Ascending or descending order";
+"DESCENDING_SWITCH_HINT" = "Sort context in ascending or descending order";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alphanumerically";
+"DURATION" = "Διάρκεια";
+"INSERTION_DATE" = "Insertion date";
+"LAST_MODIFICATION_DATE" = "Last modification date";
+"RELEASE_DATE" = "Release date";
+"FILE_SIZE" = "Μέγεθος αρχείου";
+"ARTIST" = "Artist";
+"PLAY_COUNT" = "Play count";
+"ALBUM" = "Άλμπουμ";
+"FILENAME" = "Όνομα αρχείου";
+"TRACK_NUMBER" = "Αριθμός κομματιού";
+"NB_AUDIO" = "Number of audio";
+"NB_MEDIA" = "Αριθμός μέσων";
+"NB_VIDEO" = "Number of video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Nothing found";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Unknown Artist";
+"VARIOUS_ARTIST" = "Various Artists";
+"UNKNOWN_ALBUM" = "Άγνωστο Άλμπουμ";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Διεπαφή Κλειδώματος";
+"INTERFACE_LOCK_HINT" = "Disable interface controls";
+"MORE_OPTIONS_BUTTON" = "Περισσότερα";
+"MORE_OPTIONS_HINT" = "View more option controls";
+"REPEAT_MODE_HINT" = "Change repeat mode of current item";
+"VIDEO_ASPECT_RATIO_HINT" = "Change the aspect ratio of the current video";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Ισοσταθμιστής";
+"MORE_OPTIONS_HEADER_TITLE" = "Επιλογές Βίντεο";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Force media library rescan";
+"FORCE_RESCAN_MESSAGE" = "Do you want to force VLC to rescan your media library?\nIt could take some time.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";

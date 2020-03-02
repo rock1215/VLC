@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "VLC for iOS is a port of the free VLC media player to iPad, iPhone and iPod touch.\nIt can play all your movies, shows and music in most formats directly without conversion.\nIt allows file synchronization with Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, direct downloads and through WiFi sharing as well as streaming from SMB, FTP, UPnP/DLNA media servers and the web.\nVLC offers support for advanced subtitles including full SSA compatibility, multi-track audio, and playback speed control.\n\nVLC for iOS is completely free and open source.";
+
+"STORE_DESCRIPTION_TV" = "VLC media player is a free and open source cross-platform multimedia player.\nIt can play all your movies, shows and music in most formats directly without conversion.\nIt allows streaming from cloud services (Dropbox, OneDrive, Box), Remote Playback from your Mac or PC via a Web UI as well as streaming from SMB, FTP, UPnP/DLNA media servers and the web.\nVLC offers support for advanced subtitles including full SSA compatibility, multi-track audio, and playback speed control.\n\nVLC for iOS is completely free and open source.\n\nMetadata and artwork are provided by TMDb and Hatchet, which are community maintained movie and music databases.";
+
+"CHOOSE_AUDIO_TRACK" = "Odaberi Trag Zvuka";
+"CHOOSE_SUBTITLE_TRACK" = "Odaberi Trag Podtitla";
+"OPEN_TRACK_PANEL" = "Otvori izbor tragova";
+"CHOOSE_TITLE" = "Izaberi Naslov";
+"CHOOSE_CHAPTER" = "Izaberi Poglavlje";
+"CHAPTER_SELECTION_TITLE" = "Poglavlja";
+"TITLE" = "Naslov";
+"CHAPTER" = "Poglavlje";
+"MINIMIZE_PLAYBACK_VIEW" = "Minimiziraj reprodukciju";
+"TRACK_SELECTION" = "Izbor Traga";
+"AUDIO" = "Zvuk";
+"SUBTITLES" = "Podtitlovi";
+"LANGUAGE" = "Jezik";
+"MEDIA_INFO" = "Medijske Informacije";
+"VIDEO_DIMENSIONS" = "Dimenzije videa";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i piksel";
+"FORMAT_AUDIO_TRACKS" = "%i zvučnih tragova";
+"ONE_AUDIO_TRACK" = "Jedan zvučni trag";
+"FORMAT_SPU_TRACKS" = "%i tragova podtitlova";
+"ONE_SPU_TRACK" = "Jedan trag podtitla";
+"TRACKS" = "%i Tracks";
+"TRACK" = "%i Track";
+
+"PLAYING_EXTERNALLY_TITLE" = "TV Povezan";
+"PLAYING_EXTERNALLY_DESC" = "Ovaj video se producira na TV-u";
+"PLAYING_EXTERNALLY_ADDITION" = "\n Now playing on:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "Nijansa";
+"VFILTER_CONTRAST" = "Kontrast";
+"VFILTER_BRIGHTNESS" = "Osvjetljenost";
+"VFILTER_SATURATION" = "Zasićenje";
+"VFILTER_GAMMA" = "Gama";
+
+"PREAMP" = "Pojačivač";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Izaberi Profil Ekvalajzera";
+
+"PLAYBACK_FAILED" = "Reprodukcija neuspješna";
+"PLEASE_WAIT" = "Molimo sačekajte";
+"AR_CHANGED" = "Omjer: %@";
+"DEFAULT" = "Zadano";
+"FILL_TO_SCREEN" = "Izreži za popunjavanje ekrana";
+"PLAYBACK_SPEED" = "Brzina reproduciranja";
+"SPU_DELAY" = "Kašnjenje titlova";
+"AUDIO_DELAY" = "Kašnjenje zvuka";
+"BUTTON_SLEEP_TIMER" = "Brojač  Spavanja";
+"SLEEP_TIMER_UPDATED" = "Sleep Timer Updated";
+"CONTINUE_PLAYBACK" = "Nastavi reprodukciju?";
+"CONTINUE_PLAYBACK_LONG" = "Želite li nastaviti reprodukciju od \"%@\" gdje ste stali?";
+
+"BUTTON_ABOUT" = "About";
+"BUTTON_BACK" = "Nazad";
+"BUTTON_DONE" = "Gotovo";
+"BUTTON_CANCEL" = "Otkaži";
+"BUTTON_SAVE" = "Snimi";
+"BUTTON_DOWNLOAD" = "Preuzmi";
+"BUTTON_DELETE" = "Izbriši";
+"BUTTON_OK" = "UREDU";
+"BUTTON_CONTRIBUTE" = "Doprinesi";
+"BUTTON_CONNECT" = "Poveži";
+"BUTTON_RENAME" = "Preimenuj";
+"BUTTON_LEARN_MORE" = "Nauči više";
+"BUTTON_LOGOUT" = "Odjava";
+"BUTTON_CONTINUE" = "Nastavi";
+"BUTTON_SET" = "Set";
+"BUTTON_RESET" = "Reset";
+"BUTTON_RESCAN" = "Rescan";
+"PRIVATE_PLAYBACK_TOGGLE" = "Privatna Reprodukcija";
+"SCAN_SUBTITLE_TOGGLE" = "Skeniraj za Podtitlove (samo http)";
+
+"BUTTON_RENDERER" = "Casting devices";
+"BUTTON_RENDERER_HINT" = "Show a menu of available casting devices";
+
+"UPGRADING_LIBRARY" = "Nadograđivanje Medijske Bibiloteke";
+"UNKNOWN" = "Nepoznato";
+
+"OPEN_NETWORK" = "Otvori Mrežno Strujanje";
+"NETWORK_TITLE" = "Mrežno Strujanje";
+"OPEN_NETWORK_HELP" = "Unesite bilo koju HTTP, RTSP, RTMP, MMS, FTP ili UDP/RTP adresu za otvaranje strujanja direktno.";
+"HTTP_UPLOAD_SERVER_OFF" = "Neaktivan Server";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "Nema aktivne WiFi veze";
+"OPEN_STREAM_OR_DOWNLOAD" = "Želite li preuzeti ili producirati ovaj URL?";
+"SHARED_VLC_IOS_LIBRARY" = "Podijeljen VLC za iOS Biblioteku";
+"SMB_CIFS_FILE_SERVERS" = "Datotečni Serveri (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "Preuzimanje otkazano od korisnika";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "Unesite adresu za preuzimanje datoteke na vaš %@.";
+"DOWNLOAD_FROM_HTTP" = "Preuzimanja";
+"ERROR_NUMBER" = "Greška %i se dogodila";
+"DOWNLOAD_FAILED" = "Preuzimanje neuspješno";
+"FILE_NOT_SUPPORTED" = "Format datoteke nije podržan";
+"FILE_NOT_SUPPORTED_LONG" = "The file format used by %@ is not supported by this version of VLC for iOS.";
+"SCHEME_NOT_SUPPORTED" = "Šema adrese nije podržana";
+"SCHEME_NOT_SUPPORTED_LONG" = "Šema adrese (%@) nije podržana. Molimo koristite adresu koja počinje sa HTTP, HTTPS ili FTP.";
+"RENAME_MEDIA_TO" = "Unesi novi naziv za %@";
+
+"FOLDER_EMPTY" = "Empty folder";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Izaberite datoteku za otvoriti:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Otvori U...";
+"SHARING_ERROR_NO_FILES" = "Nisu pronađene datoteke za dijeljenje";
+"SHARING_ERROR_NO_APPLICATIONS" = "Nisu pronađene aplikacije za otvaranje ovakvog tipa datoteke";
+"SHARING_SUCCESS_CAMERA_ROLL" = "Datoteka je uspješno snimljena na Snimke Kamere";
+
+"STREAMVC_DETAILTEXT" = "Play streams directly without downloading";
+"DOWNLOADVC_DETAILTEXT" = "Download files directly to your device";
+"HEADER_TITLE_RENDERER" = "Select a casting device";
+
+"NETWORK" = "Network";
+"LOCAL_NETWORK" = "Lokalna Mreža";
+"CONNECT_TO_SERVER" = "Poveži na Server";
+"FILE_SERVER" = "File Servers";
+"USER_LABEL" = "Korisnik";
+"PASSWORD_LABEL" = "Šifra";
+"DISABLE_LABEL" = "Onemogući";
+"BUTTON_ANONYMOUS_LOGIN" = "Anonimna Prijava";
+
+"LOCAL_SERVER_REFRESH" = "Osvježi";
+"LOCAL_SERVER_LAST_UPDATE" = "Posljednja Izmjena na %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "POVEZIVANJE NA SERVER NEUSPJEŠNO";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "Molimo provjerite vašu adresu servera i akreditive";
+
+"CLOUD_SERVICES" = "Cloud Servisi";
+"LOGIN" = "Prijava";
+"LOGGED_IN" = "Prijavljen/a";
+"LOGGED_IN_SERVICES" = "%d logged in services";
+"LOGGED_IN_SERVICE" = "1 logged in service";
+
+"DROPBOX_DOWNLOAD" = "Preuzmi datoteku?";
+"DROPBOX_DL_LONG" = "Želite li preuzeti \"%@\" na vaš %@?";
+"DROPBOX_LOGIN" = "Prijava";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "Greška tokom privlačenja datoteka";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "Vaša datoteka je uspješno preuzeta";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "USPJEH";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "Dogodila se greška tokom preuzimanja";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "GREŠKA";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "The selected Media doesn't have a playable url";
+
+"DISK_FULL" = "Ograničenje prostora dosegnuto";
+"DISK_FULL_FORMAT" = "%@ se ne može snimiti na Vaš %@, zato što nemate dovoljno slobodnog prostora.";
+
+"NUM_OF_FILES" = "%i datoteke/a";
+"ONE_FILE" = "1 datoteka";
+"NO_FILES" = "Nema podržanih datoteka";
+"DOWNLOADING" = "Preuzimanje...";
+"REMAINING_TIME" = "Preostalo vrijeme: %@";
+"BIOMETRIC_UNLOCK" = "Unlock Media Library\nCancel to enter Passcode";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d Failed Passcode Attempts";
+"1 Failed Passcode Attempt" = "1 Failed Passcode Attempt";
+"Change Passcode" = "Change Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Enter a passcode" = "Enter a passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your passcode" = "Enter your passcode";
+"Next" = "Next";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Re-enter your new passcode" = "Re-enter your new passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Set Passcode" = "Set Passcode";
+
+"Settings" = "Postavke"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "Uključeno";
+"OFF" = "Isključeno";
+
+"EMPTY_LIBRARY" = "Isprazni Biblioteku Medija";
+"EMPTY_LIBRARY_LONG" = "Za reprodukciju, možete strujati medije sa servera na vašoj lokalnoj mreži, sa oblaka ili sihnorinizirati medije na vaš uređaj koristeći iTunes, WiFi Postavljanje ili servise Oblaka.";
+
+"EMPTY_PLAYLIST" = "Empty playlist";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Add media while editing in the respective categories.";
+
+"PLAYBACK_SCRUB_HELP" = "Kližite svojim prstom prema dole za podešavanje rate pročišćavanja.";
+"PLAYBACK_SCRUB_HIGH" = "Visoka-Brzina Pročišćavanja";
+"PLAYBACK_SCRUB_HALF" = "Polovična-Brzina Pročišćavanja";
+"PLAYBACK_SCRUB_QUARTER" = "Četvrtina-Brzine Pročišćavanja";
+"PLAYBACK_SCRUB_FINE" = "Fino Pročišćavanje";
+"PLAYBACK_POSITION" = "Pozicija Reprodukcije";
+"VIDEO_FILTER" = "Video Filteri";
+"VIDEO_FILTER_RESET_BUTTON" = "Resetuj Video Filtere";
+"VIDEO_ASPECT_RATIO_BUTTON" = "Zamijeni Omjer Videa";
+"PLAY_PAUSE_BUTTON" = "Produciraj ili Pauziraj trenutnu reprodukciju";
+"BWD_BUTTON" = "Skoči Nazad";
+"FWD_BUTTON" = "Skoči Naprijed";
+"PLAY_BUTTON" = "Produciraj";
+"NEXT_BUTTON" = "Next";
+"PREV_BUTTON" = "Previous";
+"PLAY_ALL_BUTTON" = "Produciraj sve";
+
+"VERSION_FORMAT" = "Verzija: %@";
+"BASED_ON_FORMAT" = "Bazirano na:<br />%@";
+
+"NEW" = "NOVO";
+
+"BUG_REPORT_TITLE" = "Prijavi grešku";
+"BUG_REPORT_MESSAGE" = "Želite li kreirati izvještaj grešaka?";
+"BUG_REPORT_BUTTON" = "Otvori Safari";
+
+"VO_VIDEOPLAYER_TITLE" = "Video Izvođač";
+"VO_VIDEOPLAYER_DOUBLETAP" = "Dvostruko dotaknite za prikaz ili sakrivanje kontrola reporoduciranja";
+
+"FIRST_STEPS_ITUNES" = "iTunes Sinhronizacija Datoteka";
+"FIRST_STEPS_ITUNES_TITLE" = "Sync With Your Computer";
+"FIRST_STEPS_ITUNES_DETAILS" = "Connect your device to iTunes and select your device. Select \"File Sharing\" on the left side menu of iTunes and look for VLC to transfer files";
+"FIRST_STEPS_WIFI_TITLE" = "Share via Wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Enter the generated URL in your favorite web browser while connected to the same network as your phone";
+"FIRST_STEPS_CLOUDS" = "Oblaci";
+"FIRST_STEPS_CLOUD_TITLE" = "Cloud";
+"FIRST_STEPS_CLOUD_DETAILS" = "Upload your media to a cloud service like Google Drive or Dropbox to remotely download or stream them.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Provjerite svoj Plex račun u postavkama";
+"PLEX_ERROR_ACCOUNT" = "Plex Greška prijave";
+
+"UNAUTHORIZED" = "Neautorizovano";
+
+"SERVER" = "Server";
+"SERVER_PORT" = "Port";
+"NO_SERVER_FOUND" = "Server nije pronađen";
+"NO_RECENT_STREAMS" = "Strujanje nije skorije reproducirano";
+
+"WEBINTF_TITLE" = "Dijeljenje putem WiFi";
+"WEBINTF_DROPFILES" = "Spusti Datoteke";
+"WEBINTF_DROPFILES_LONG" = "Spustite datoteke u prozor kako bi ih dodali na vaš %@.<br>Ili kliknite na \"+\" dugme kako bi koristili dijalog izabiranja.";
+"WEBINTF_DOWNLOADFILES" = "Preuzmi Datoteke";
+"WEBINTF_DOWNLOADFILES_LONG" = "Jednostavno kliknite ako želite preuzeti sa vašeg %@.";
+"WEBINTF_TITLE_ATV" = "Udaljena Reprodukcija";
+"WEBINTF_DROPFILES_LONG_ATV" = "Spustite datoteke u prozor kako bi ih dodali na vaš %@.<br>Ili kliknite na \"+\" dugme kako bi koristili dijalog izabiranja.";
+"WEBINTF_URL_SENT" = "URL poslat uspješno.";
+"WEBINTF_URL_EMPTY" = "URL ne može biti prazan.";
+"WEBINTF_URL_INVALID" = "Nije važeći URL.";
+
+
+
+"DURATION" = "Trajanje";
+"TITLE" = "Naslov";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Pritisnite duže za zaustavljanje reprodukcije.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Audio Info";
+"CLOUD_LOGIN_LONG" = "To access Cloud Services, sign-in to iCloud on both this Apple TV and an iOS device with the same Apple ID and enable Keychain Sharing in System Settings.\nAfterwards, login to the cloud provider of your choice using the VLC app on your iOS device. Finally, select it on this screen.";
+"ENTER_URL" = "Unesite URL za produkciju";
+"HTTP_SERVER_ON" = "Onemogući Udaljenu Reprodukciju";
+"HTTP_SERVER_OFF" = "Omogući Udaljenu Reprodukciju";
+"CACHED_MEDIA" = "Keširan Medij";
+"CACHED_MEDIA_LONG" = "Media shown here is stored locally on your Apple TV. Note that contents can be removed by the operating system without prior notice anytime when VLC is not running in case your device runs out of storage.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Preuzmi titlove sa OpenSubtitles.org";
+"FOUND_SUBS" = "Pronađeni podtitlovi";
+"USE_SPDIF" = "Koristi Prolaz (S/PDIF)";
+
+"PLAYBACK" = "Reroduciranje";
+"REPEAT_MODE" = "Ponovi";
+"REPEAT_DISABLED" = "Isključeno";
+"REPEAT_SINGLE" = "Jednu";
+"REPEAT_FOLDER" = "Mapa";
+
+// Local Network Service Names
+"UPNP_LONG" = "Univerzalni Plug'n'Play (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex Media Server (putem Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "Protokol Za Prijenos Datoteka (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR File Server";
+"DSM_WORKGROUP" = "Workgroup";
+
+"URL_NOT_SUPPORTED" = "The URL can't be opened";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Pritisnite %@ za Brisanje"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Confirm the deletion of the selection";
+"DELETE_MESSAGE_PLAYLIST" = "Are you sure to delete the selected playlist?\nAssociated media files won't be deleted.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Delete Selection";
+
+//Drag and Drop
+"THIS_FILE" = "This file";
+"NOT_SUPPORTED_FILETYPE" = "%@ is not a supported filetype by VLC";
+"FILE_EXISTS" = "%@ already exists";
+
+"PROTOCOL_NOT_SELECTED" = "Protocol not selected";
+"Settings" = "Postavke";
+
+"ERROR" = "Error";
+"OK" = "Ok";
+"SORT" = "Sort";
+"SORT_BY" = "Sort by";
+"SEARCH" = "Search";
+"VIDEO" = "Video";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Albums";
+"ARTISTS" = "Artists";
+"EPISODES" = "Episodes";
+"GENRES" = "Genres";
+"MOVIES" = "Movies";
+"SONGS" = "Songs";
+"PLAYLISTS" = "Playlists";
+"VIDEO_GROUPS" = "Video groups";
+
+"MODIFIED_DATE" = "Modified date";
+"NAME" = "Name";
+
+//EDIT
+
+"BUTTON_EDIT" = "Edit";
+"BUTTON_EDIT_HINT" = "Edit mode";
+
+"ADD_TO_PLAYLIST" = "Add to Playlist";
+"ADD_TO_PLAYLIST_HINT" = "Open the add to playlist menu";
+
+"PLAYLIST_PLACEHOLDER" = "Playlist title";
+"PLAYLIST_DESCRIPTION" = "Choose a title for your new playlist";
+"PLAYLIST_CREATION" = "Create a new playlist";
+"PLAYLIST_CREATION_HINT" = "Show an interactive action to create a playlist";
+"ERROR_PLAYLIST_CREATION" = "Failed to create a playlist";
+"ERROR_PLAYLIST_TRACKS" = "Failed to retrieve tracks";
+
+"ERROR_RENAME_FAILED" = "Renaming failed";
+"ERROR_EMPTY_NAME" = "The title can't be empty";
+
+"SHARE_LABEL" = "Share";
+"SHARE_HINT" = "Share selected files";
+"RENAME_HINT" = "Rename selected files";
+"DELETE_HINT" = "Delete selected files";
+
+// Sort
+
+"BUTTON_SORT" = "Sort";
+"BUTTON_SORT_HINT" = "Display sort action sheet";
+"HEADER_TITLE_SORT" = "Sort by";
+"DESCENDING_LABEL" = "Descending Order";
+"DESCENDING_SWITCH_LABEL" = "Ascending or descending order";
+"DESCENDING_SWITCH_HINT" = "Sort context in ascending or descending order";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alphanumerically";
+"DURATION" = "Trajanje";
+"INSERTION_DATE" = "Insertion date";
+"LAST_MODIFICATION_DATE" = "Last modification date";
+"RELEASE_DATE" = "Release date";
+"FILE_SIZE" = "File size";
+"ARTIST" = "Artist";
+"PLAY_COUNT" = "Play count";
+"ALBUM" = "Album";
+"FILENAME" = "Filename";
+"TRACK_NUMBER" = "Track number";
+"NB_AUDIO" = "Number of audio";
+"NB_MEDIA" = "Number of media";
+"NB_VIDEO" = "Number of video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Nothing found";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Unknown Artist";
+"VARIOUS_ARTIST" = "Various Artists";
+"UNKNOWN_ALBUM" = "Unknown Album";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Lock interface";
+"INTERFACE_LOCK_HINT" = "Disable interface controls";
+"MORE_OPTIONS_BUTTON" = "More";
+"MORE_OPTIONS_HINT" = "View more option controls";
+"REPEAT_MODE_HINT" = "Change repeat mode of current item";
+"VIDEO_ASPECT_RATIO_HINT" = "Change the aspect ratio of the current video";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Video Options";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Force media library rescan";
+"FORCE_RESCAN_MESSAGE" = "Do you want to force VLC to rescan your media library?\nIt could take some time.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";

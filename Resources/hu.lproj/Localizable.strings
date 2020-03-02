@@ -1,0 +1,412 @@
+"STORE_DESCRIPTION" = "A VLC for iOS a szabad VLC médialejátszó portja iPadre, iPhone-ra és iPod touchra.\nBármilyen filmet, műsort, és zenét le tud játszani a legtöbb formátumban, átalakítás nélkül.\nLehetővé teszi a fájlszinkronizációt Dropboxszal, GDrive-val, Boxszal, iCloud Drive-val, iTunes-szal; a közvetlen és a WiFi megosztáson keresztüli letöltéseket, valamint az élőközvetítést SMB, FTP és UPnP/DLNA médiakiszolgálókról és a webről.\nA VLC támogatja a fejlett feliratokat, köztük a teljes SSA kompatibilitást, a többsávos hangot, és a lejátszási sebesség vezérlését.\n\nVLC for iOS teljesen ingyenes, és nyílt forráskódú.";
+
+"STORE_DESCRIPTION_TV" = "A VLC médialejátszó egy szabad, nyílt forráskódú, keresztplatformos multimédia lejátszó. Bármilyen filmet, műsort, és zenét le tud játszani a legtöbb formátumban, átalakítás nélkül.\nLehetővé teszi a felhőszolgáltatásokból való streamelést (Dropbox, OneDrive, Box), távoli visszajátszást Mac-ről, vagy PC-ről webes felületen keresztül, továbbá az SMB, az FTP, az UPnP/DLNA médiakiszolgálóról, valamint a webről történő lejátszást.\nA VLC támogatja a fejlett feliratokat, köztük a teljes SSA kompatibilitást, a többsávos hangot, és a lejátszási sebesség vezérlését.\n\nA VLC for iOS teljesen ingyenes, és nyílt forráskódú.\n\nA metaadatokat és borítók a TMDb és a Hatchet szolgáltatásokból származnak, melyek közösség által karbantartott film, és zene adatbázisok.";
+
+"CHOOSE_AUDIO_TRACK" = "Hangsáv választása";
+"CHOOSE_SUBTITLE_TRACK" = "Felirat választása";
+"OPEN_TRACK_PANEL" = "Sáv választó megnyitása";
+"CHOOSE_TITLE" = "Cím választása";
+"CHOOSE_CHAPTER" = "Fejezet választása";
+"CHAPTER_SELECTION_TITLE" = "Fejezetek";
+"TITLE" = "Cím";
+"CHAPTER" = "Fejezet";
+"MINIMIZE_PLAYBACK_VIEW" = "Lejátszás minimalizálva";
+"TRACK_SELECTION" = "Sáv választása";
+"AUDIO" = "Hang";
+"SUBTITLES" = "Feliratok";
+"LANGUAGE" = "Nyelv";
+"MEDIA_INFO" = "Médiainformációk";
+"VIDEO_DIMENSIONS" = "Videó felbontása";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i pixel";
+"FORMAT_AUDIO_TRACKS" = "%i hangsáv";
+"ONE_AUDIO_TRACK" = "Egy hangsáv";
+"FORMAT_SPU_TRACKS" = "%i feliratsáv";
+"ONE_SPU_TRACK" = "Egy feliratsáv";
+"TRACKS" = "%i szám";
+"TRACK" = "%i szám";
+
+"PLAYING_EXTERNALLY_TITLE" = "Tévé csatlakoztatva";
+"PLAYING_EXTERNALLY_DESC" = "A videó a tévén látható.";
+"PLAYING_EXTERNALLY_ADDITION" = "\n Most játszott itt:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "Színárnyalat";
+"VFILTER_CONTRAST" = "Kontraszt";
+"VFILTER_BRIGHTNESS" = "Fényerő";
+"VFILTER_SATURATION" = "Telítettség";
+"VFILTER_GAMMA" = "Gamma";
+
+"PREAMP" = "Előerősítés";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Hangszín profil választása";
+
+"PLAYBACK_FAILED" = "A lejátszás nem sikerült";
+"PLEASE_WAIT" = "Kérem várjon";
+"AR_CHANGED" = "Méretarány: %@";
+"DEFAULT" = "Alapértelmezett";
+"FILL_TO_SCREEN" = "Képernyő kitöltése";
+"PLAYBACK_SPEED" = "Lejátszás sebessége";
+"SPU_DELAY" = "Felirat késleltetése";
+"AUDIO_DELAY" = "Hang késleltetése";
+"BUTTON_SLEEP_TIMER" = "Elalváskapcsoló";
+"SLEEP_TIMER_UPDATED" = "Elalváskapcsoló frissítve";
+"CONTINUE_PLAYBACK" = "Folytatja a lejátszást?";
+"CONTINUE_PLAYBACK_LONG" = "Szeretné ott folytatni a(z) „%@” lejátszását, ahol félbehagyta?";
+
+"BUTTON_ABOUT" = "Névjegy";
+"BUTTON_BACK" = "Vissza";
+"BUTTON_DONE" = "Kész";
+"BUTTON_CANCEL" = "Mégse";
+"BUTTON_SAVE" = "Mentés";
+"BUTTON_DOWNLOAD" = "Letöltés";
+"BUTTON_DELETE" = "Törlés";
+"BUTTON_OK" = "OK";
+"BUTTON_CONTRIBUTE" = "Közreműk.";
+"BUTTON_CONNECT" = "Csatlakozás";
+"BUTTON_RENAME" = "Átnevezés";
+"BUTTON_LEARN_MORE" = "További információ";
+"BUTTON_LOGOUT" = "Kijelentkezés";
+"BUTTON_CONTINUE" = "Folytatás";
+"BUTTON_SET" = "Beállítás";
+"BUTTON_RESET" = "Visszaállítás ";
+"BUTTON_RESCAN" = "Újra átvizsgálás";
+"PRIVATE_PLAYBACK_TOGGLE" = "Privát lejátszás";
+"SCAN_SUBTITLE_TOGGLE" = "Felirat keresése (HTTP)";
+
+"BUTTON_RENDERER" = "Vetítési eszközök";
+"BUTTON_RENDERER_HINT" = "Menü megjelenítése az elérhető vetítési eszközökkel";
+
+"UPGRADING_LIBRARY" = "Médiatár frissítése…";
+"UNKNOWN" = "Ismeretlen";
+
+"OPEN_NETWORK" = "Hálózati stream";
+"NETWORK_TITLE" = "Hálózati stream";
+"OPEN_NETWORK_HELP" = "Adjon meg egy HTTP, RTSP, RTMP, MMS, FTP vagy UDP/RTP címet a stream lejátszásához.";
+"HTTP_UPLOAD_SERVER_OFF" = "Kikapcsolva";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "Nincs Wi-Fi kapcsolat";
+"OPEN_STREAM_OR_DOWNLOAD" = "URL letöltése vagy lejátszása?";
+"SHARED_VLC_IOS_LIBRARY" = "Megosztott VLC for iOS könyvtár";
+"SMB_CIFS_FILE_SERVERS" = "Fájlkiszolgálók (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "A fájl letöltése meg lett szakítva.";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "Adja meg a letölteni kívánt fájl címét.";
+"DOWNLOAD_FROM_HTTP" = "Letöltések";
+"ERROR_NUMBER" = "Hiba történt. Kód: %i";
+"DOWNLOAD_FAILED" = "A letöltés nem sikerült";
+"FILE_NOT_SUPPORTED" = "Nem támogatott formátum";
+"FILE_NOT_SUPPORTED_LONG" = "A(z) %@ által használt fájlformátumot nem támogatja a VLC for iOS ezen verziója.";
+"SCHEME_NOT_SUPPORTED" = "Nem támogatott protokoll";
+"SCHEME_NOT_SUPPORTED_LONG" = "A(z) \"%@\" protokoll nem támogatott. Adjon meg egy HTTP-vel, HTTPS-sel vagy FTP-vel kezdődő címet.";
+"RENAME_MEDIA_TO" = "Adja meg a(z) \"%@\" új nevét";
+
+"FOLDER_EMPTY" = "Üres mappa";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Válasszon a fájlok közül.";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Megnyitás ezzel...";
+"SHARING_ERROR_NO_FILES" = "Nincs megnyitható fájl.";
+"SHARING_ERROR_NO_APPLICATIONS" = "Nincs olyan alkalmazás amely meg tudná nyitni ezt a fájlt.";
+"SHARING_SUCCESS_CAMERA_ROLL" = "A médiafájl elmentve a Filmtekercsbe.";
+
+"STREAMVC_DETAILTEXT" = "Folyamok lejátszása közvetlenül, letöltés nélkül";
+"DOWNLOADVC_DETAILTEXT" = "Fájlok közvetlen letöltése az eszközére";
+"HEADER_TITLE_RENDERER" = "Válasszon vetítési eszközt";
+
+"NETWORK" = "Hálózat";
+"LOCAL_NETWORK" = "Helyi hálózat";
+"CONNECT_TO_SERVER" = "Csatlakozás kiszolgálóhoz";
+"FILE_SERVER" = "Fájlkiszolgálók";
+"USER_LABEL" = "Felhasználó";
+"PASSWORD_LABEL" = "Jelszó";
+"DISABLE_LABEL" = "Letiltás";
+"BUTTON_ANONYMOUS_LOGIN" = "Névtelen bejelentkezés";
+
+"LOCAL_SERVER_REFRESH" = "Frissítés";
+"LOCAL_SERVER_LAST_UPDATE" = "Utolsó frissítés: %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "Sikertelen csatlakozás";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "Ellenőrizze a kiszolgáló címét, valamint felhasználónevét és jelszavát.";
+
+"CLOUD_SERVICES" = "Felhő Szolgáltatások";
+"LOGIN" = "Bejelentkezés";
+"LOGGED_IN" = "Bejelentkezve";
+"LOGGED_IN_SERVICES" = "%d bejelentkezett szolgáltatás";
+"LOGGED_IN_SERVICE" = "1 bejelentkezett szolgáltatás";
+
+"DROPBOX_DOWNLOAD" = "Letölti a fájlt?";
+"DROPBOX_DL_LONG" = "Le szeretné tölteni a(z) \"%@\" fájlt az %@ készülékére?";
+"DROPBOX_LOGIN" = "Belépés";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "Sikertelen betöltés";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "A fájl sikeresen letöltve.";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "Sikeres letöltés";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "A letöltés közben hiba történt.";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "Sikertelen letöltés";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "A kiválasztott médiának nincs lejátszható URL-e";
+
+"DISK_FULL" = "Tárhelykorlát elérve";
+"DISK_FULL_FORMAT" = "%@ nem tárolható itt: %@, mert nincs elég szabad terület.";
+
+"NUM_OF_FILES" = "%i fájl";
+"ONE_FILE" = "1 fájl";
+"NO_FILES" = "Nincs médiafájl";
+"DOWNLOADING" = "Letöltés…";
+"REMAINING_TIME" = "%@ van hátra";
+"BIOMETRIC_UNLOCK" = "Médiatár feloldása\nMégse a jelkód megadásához";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d sikertelen jelkódkísérlet";
+"1 Failed Passcode Attempt" = "1 sikertelen jelkódkísérlet";
+"Change Passcode" = "Jelkód módosítása";
+"Enter Passcode" = "Adja meg a jelkódot";
+"Enter a passcode" = "Adjon meg egy jelkódot";
+"Enter your new passcode" = "Adja meg az új jelkódját";
+"Enter your old passcode" = "Adja meg a régi jelkódját";
+"Enter your passcode" = "Adja meg a jelkódját";
+"Next" = "Következő";
+"Passcodes did not match. Try again." = "A jelkódok nem egyeznek. Próbálja újra.";
+"Re-enter your new passcode" = "Adja meg újból az új jelkódját";
+"Re-enter your passcode" = "Adja meg újból a jelkódját";
+"Set Passcode" = "Jelkód beállítása";
+
+"Settings" = "Beállítások"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "Be";
+"OFF" = "Ki";
+
+"EMPTY_LIBRARY" = "A médiatár üres";
+"EMPTY_LIBRARY_LONG" = "Lejátszhat streameket egy helyi hálózaton található kiszolgálóról, a felhőből, vagy átvihet médiafájlokat az eszközére az iTunes, a Wi-Fi feltöltés és a felhőszolgáltatások segítségével.";
+
+"EMPTY_PLAYLIST" = "Üres lejátszólista";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Média hozzáadása a megfelelő kategóriák szerkesztésekor";
+
+"PLAYBACK_SCRUB_HELP" = "A tekerési sebesség állításához csúsztassa lefelé az ujját.";
+"PLAYBACK_SCRUB_HIGH" = "Nagysebességű tekerés";
+"PLAYBACK_SCRUB_HALF" = "Félsebességű tekerés";
+"PLAYBACK_SCRUB_QUARTER" = "Negyedsebességű tekerés";
+"PLAYBACK_SCRUB_FINE" = "Finom tekerés";
+"PLAYBACK_POSITION" = "A lejátszás pozíciója";
+"VIDEO_FILTER" = "Videófilterek";
+"VIDEO_FILTER_RESET_BUTTON" = "Videófilterek visszaállítása";
+"VIDEO_ASPECT_RATIO_BUTTON" = "A videó méretarányának változtatása";
+"PLAY_PAUSE_BUTTON" = "Lejátszás, szüneteltetés";
+"BWD_BUTTON" = "Előző szám";
+"FWD_BUTTON" = "Következő szám";
+"PLAY_BUTTON" = "Lejátszás";
+"NEXT_BUTTON" = "Következő";
+"PREV_BUTTON" = "Előző";
+"PLAY_ALL_BUTTON" = "Összes lejátszása";
+
+"VERSION_FORMAT" = "Verzió: %@";
+"BASED_ON_FORMAT" = "A %@<br />alapján";
+
+"NEW" = "ÚJ";
+
+"BUG_REPORT_TITLE" = "Hibajelentés";
+"BUG_REPORT_MESSAGE" = "Szeretné jelenteni a hibát a VLC weboldalán?";
+"BUG_REPORT_BUTTON" = "Jelentés";
+
+"VO_VIDEOPLAYER_TITLE" = "Lejátszó";
+"VO_VIDEOPLAYER_DOUBLETAP" = "Koppintson duplán a vezérlők megjelenítéséhez és elrejtéséhez";
+
+"FIRST_STEPS_ITUNES" = "iTunes fájlátvitel";
+"FIRST_STEPS_ITUNES_TITLE" = "Szinkronizálás a számítógépével";
+"FIRST_STEPS_ITUNES_DETAILS" = "Kapcsolódjon az eszközével az iTuneshoz és válassza ki az eszközét. Válassza a „Fájlmegosztást” az iTunes bal oldali menüjében, és keresse ki a VLC-t a fájlok átküldéséhez";
+"FIRST_STEPS_WIFI_TITLE" = "Megosztás Wifin keresztül";
+"FIRST_STEPS_WIFI_DETAILS" = "Írja be az előállított URL-t a kedvenc webböngészőjébe miközben ugyanahhoz a hálózathoz kapcsolódik, mint a telefonja";
+"FIRST_STEPS_CLOUDS" = "Felhő";
+"FIRST_STEPS_CLOUD_TITLE" = "Felh";
+"FIRST_STEPS_CLOUD_DETAILS" = "Töltse fel a médiát egy felhőszolgáltatásba, mint a Google Drive vagy a Dropbox, hogy távolról letöltse vagy onnan közvetítse.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Ellenőrízze a PLEX fókját a beállításokban";
+"PLEX_ERROR_ACCOUNT" = "PLEX bejelentkezési hiba";
+
+"UNAUTHORIZED" = "Nem engedélyezett";
+
+"SERVER" = "Kiszolgáló";
+"SERVER_PORT" = "Port";
+"NO_SERVER_FOUND" = "Kiszolgáló nem található";
+"NO_RECENT_STREAMS" = "Nem volt a közelmúlt játszott adatfolyam";
+
+"WEBINTF_TITLE" = "Wi-Fi megosztás";
+"WEBINTF_DROPFILES" = "Húzza ide a fájlokat";
+"WEBINTF_DROPFILES_LONG" = "Húzzon fájlokat az ablakba a %@ készülékére való másoláshoz,<br>vagy kattintson a \"+\" gombra a fájlok kiválasztásához.";
+"WEBINTF_DOWNLOADFILES" = "Fájlok letöltése";
+"WEBINTF_DOWNLOADFILES_LONG" = "Kattintson arra a fájlra amelyiket le szeretné tölteni az %@ készülékéről.";
+"WEBINTF_TITLE_ATV" = "Távoli lejátszás";
+"WEBINTF_DROPFILES_LONG_ATV" = "Húzza ebbe az ablakba a fájlokat hogy lejátssza őket a(z) %@ eszközén.<br>Vagy kattintson a „+” gombra a fájlválasztó párbeszédablak használatához.";
+"WEBINTF_URL_SENT" = "URL sikeresen elküldve.";
+"WEBINTF_URL_EMPTY" = "Az URL nem lehet üres.";
+"WEBINTF_URL_INVALID" = "Nem érvényes URL";
+"WEBINTF_AUTH_REQUIRED" = "Adja meg a VLC-ben beállított jelkódot:";
+"WEBINTF_AUTH_WRONG_PASSCODE" = "Hibás jelszó.<br>Hátralévő próbálkozások:";
+"WEBINTF_AUTH_BANNED" = "Túl sok hibás jelkódot adott meg.<br>Indítsa újra a VLC-t, és próbálja újra.";
+
+
+
+"DURATION" = "Hossz";
+"TITLE" = "Cím";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Hosszú érintés a lejátszás leállításához.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Hanginformációk";
+"CLOUD_LOGIN_LONG" = "A felhőszolgáltatások eléréséhez jelentkezzen be az iCloudba ezen az Apple TV-n és egy iOS eszközökön, ugyanazzal az Apple ID-val, és engedélyezze a kulcstartó megosztást a rendszerbeállításokban.\nEzután, jelentkezzen be a választott felhőszolgáltatásba a VLC app használatával, az iOS eszközén. Végül válassza ki ezen a képernyőn.";
+"ENTER_URL" = "Adja meg a lejátszandó URL-t";
+"HTTP_SERVER_ON" = "Távoli lejátszás letiltása";
+"HTTP_SERVER_OFF" = "Távoli lejátszás engedélyezése";
+"CACHED_MEDIA" = "Gyorsítótárazott média";
+"CACHED_MEDIA_LONG" = "Az itt megjelenített média helyileg tárolt az Apple TV-jén. Vegye figyelembe, hogy a tartalmat előzetes figyelmeztetés nélkül törölheti az operációs rendszer, amikor a VLC nem fut, ha az eszköz kifogy a háttértárból.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Feliratok letöltése az OpenSubtltles.org-ról…";
+"FOUND_SUBS" = "Talált feliratok";
+"USE_SPDIF" = "Áteresztés használata (S/PDIF)";
+
+"PLAYBACK" = "Visszajátszás";
+"REPEAT_MODE" = "Ismétlés";
+"REPEAT_DISABLED" = "Kikapcsolva";
+"REPEAT_SINGLE" = "Egy szám";
+"REPEAT_FOLDER" = "Mappa";
+
+// Local Network Service Names
+"UPNP_LONG" = "Univerzális Plug'n'Play (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex médiakiszolgáló (Bonjouron keresztül)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "Fájl átviteli protokoll (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR fájlkiszolgáló";
+"DSM_WORKGROUP" = "Munkacsoport";
+
+"URL_NOT_SUPPORTED" = "Az URL nem nyitható meg";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Kattintson a(z) %@ gombra a törléshez"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "A kiválasztás törlésének megerősítése";
+"DELETE_MESSAGE_PLAYLIST" = "Biztos, hogy törli a kiválasztott lejátszólistát?\nA kapcsolódó médiafájlok nem lesznek törölve.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Biztos, hogy eltávolítja a kiválasztott médiafájlt a lejátszólistáról?\nEzek nem lesznek törölve a lemezről.";
+"DELETE_TITLE" = "Kiválasztás törlése";
+
+//Drag and Drop
+"THIS_FILE" = "Ez a fájl";
+"NOT_SUPPORTED_FILETYPE" = "a(z) %@ fájltípust nem támogatja a VLC";
+"FILE_EXISTS" = "a(z) %@ már létezik";
+
+"PROTOCOL_NOT_SELECTED" = "Nincs kiválasztva protokoll";
+"Settings" = "Beállítások";
+
+"ERROR" = "Hiba";
+"OK" = "Ok";
+"SORT" = "Rendezés";
+"SORT_BY" = "Rendezés";
+"SEARCH" = "Keresés";
+"VIDEO" = "Videó";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Albumok";
+"ARTISTS" = "Előadók";
+"EPISODES" = "Epizódok";
+"GENRES" = "Műfajok";
+"MOVIES" = "Filmek";
+"SONGS" = "Számok";
+"PLAYLISTS" = "Lejátszólisták";
+"VIDEO_GROUPS" = "Videócsoportok";
+
+"MODIFIED_DATE" = "Módosítás dátuma";
+"NAME" = "Név";
+
+//EDIT
+
+"BUTTON_EDIT" = "Szerkesztés";
+"BUTTON_EDIT_HINT" = "Szerkesztési mód";
+
+"ADD_TO_PLAYLIST" = "Hozzáadás a lejátszólistához";
+"ADD_TO_PLAYLIST_HINT" = "A hozzáadás a lejátszólistához menü megnytiása";
+
+"PLAYLIST_PLACEHOLDER" = "Lejátszólista címe";
+"PLAYLIST_DESCRIPTION" = "Válasszon címet az új lejátszólistához";
+"PLAYLIST_CREATION" = "Új lejátszólista létrehozása";
+"PLAYLIST_CREATION_HINT" = "Interaktív művelet megjelenítése a lejátszólista létrehozásakor";
+"ERROR_PLAYLIST_CREATION" = "Nem sikerült létrehozni a lejátszólistát";
+"ERROR_PLAYLIST_TRACKS" = "Nem sikerült lekérni a számokat";
+
+"ERROR_RENAME_FAILED" = "Átnevezés sikertelen";
+"ERROR_EMPTY_NAME" = "A cím nem lehet üres";
+
+"SHARE_LABEL" = "Megosztás";
+"SHARE_HINT" = "A kiválasztott fájlok megosztása";
+"RENAME_HINT" = "A kiválasztott fájlok átnevezése";
+"DELETE_HINT" = "A kiválasztott fájlok törlése";
+
+// Sort
+
+"BUTTON_SORT" = "Rendezés";
+"BUTTON_SORT_HINT" = "Rendezési műveletlap megjelenítése";
+"HEADER_TITLE_SORT" = "Rendezés";
+"DESCENDING_LABEL" = "Csökkenő sorrend";
+"DESCENDING_SWITCH_LABEL" = "Növekvő vagy csökkenő sorrend";
+"DESCENDING_SWITCH_HINT" = "Helyi menü rendezése növekvő vagy csökkenő sorrendben";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alfanumerikusan";
+"DURATION" = "Hossz";
+"INSERTION_DATE" = "Beszúrás dátuma";
+"LAST_MODIFICATION_DATE" = "Utolsó módosítás dátuma";
+"RELEASE_DATE" = "Kiadás dátuma";
+"FILE_SIZE" = "Fájlméret";
+"ARTIST" = "Előadó";
+"PLAY_COUNT" = "Lejátszásszám";
+"ALBUM" = "Album";
+"FILENAME" = "Fájlnév";
+"TRACK_NUMBER" = "Szám sorszáma";
+"NB_AUDIO" = "Hangok száma";
+"NB_MEDIA" = "Médiák száma";
+"NB_VIDEO" = "Videók száma";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Semmi sem található";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Ismeretlen előadó";
+"VARIOUS_ARTIST" = "Különböző előadók";
+"UNKNOWN_ALBUM" = "Ismeretlen album";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Felület zárolása";
+"INTERFACE_LOCK_HINT" = "Felületi vezérlők letiltása";
+"MORE_OPTIONS_BUTTON" = "Több";
+"MORE_OPTIONS_HINT" = "További beállításvezérlők megjelenítése";
+"REPEAT_MODE_HINT" = "A jelenlegi elem ismétlési módjának módosítása";
+"VIDEO_ASPECT_RATIO_HINT" = "A jelenlegi videó képarányának módosítása";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Hangszínszabályzó";
+"MORE_OPTIONS_HEADER_TITLE" = "Videobeállítások";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Médiatár átvizsgálásának kényszerítése";
+"FORCE_RESCAN_MESSAGE" = "Biztos, hogy arra kényszeríti a VLC-t, hogy újra átvizsgálja a médiatárat?\nEz eltarthat egy ideig.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 kapcsolati figyelmeztetés";
+"SMBV1_WARN_DESCRIPTION" = "Egy régi protokollt (SMBv1) észleltünk.\nBiztos, hogy folytatja az SMBv1-el?\nA kiszolgáló frissítését vagy a beállítások módosítását javasoljuk.";
+"SMBV1_CONTINUE" = "Folytatás az SMBv1-el";
+"SMBV1_NEXT_PROTOCOL" = "SMBv2/v3 kipróbálása";
+
+/* Preview labels */
+
+"ENCODING" = "Kódolás";

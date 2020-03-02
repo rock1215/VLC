@@ -1,0 +1,405 @@
+"STORE_DESCRIPTION" = "VLC for iOS is a port of the free VLC media player to iPad, iPhone and iPod touch.\nIt can play all your movies, shows and music in most formats directly without conversion.\nIt allows file synchronization with Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, direct downloads and through WiFi sharing as well as streaming from SMB, FTP, UPnP/DLNA media servers and the web.\nVLC offers support for advanced subtitles including full SSA compatibility, multi-track audio, and playback speed control.\n\nVLC for iOS is completely free and open source.";
+
+"STORE_DESCRIPTION_TV" = "VLC media player is a free and open source cross-platform multimedia player.\nIt can play all your movies, shows and music in most formats directly without conversion.\nIt allows streaming from cloud services (Dropbox, OneDrive, Box), Remote Playback from your Mac or PC via a Web UI as well as streaming from SMB, FTP, UPnP/DLNA media servers and the web.\nVLC offers support for advanced subtitles including full SSA compatibility, multi-track audio, and playback speed control.\n\nVLC for iOS is completely free and open source.\n\nMetadata and artwork are provided by TMDb and Hatchet, which are community maintained movie and music databases.";
+
+"CHOOSE_AUDIO_TRACK" = "ශ්‍රව්‍ය පථය තෝරාගන්න";
+"CHOOSE_SUBTITLE_TRACK" = "උපසිරැසි පථය තෝරාගන්න";
+"OPEN_TRACK_PANEL" = "Open track selection";
+"CHOOSE_TITLE" = "Choose Title";
+"CHOOSE_CHAPTER" = "Choose Chapter";
+"CHAPTER_SELECTION_TITLE" = "Chapters";
+"TITLE" = "Title";
+"CHAPTER" = "Chapter";
+"MINIMIZE_PLAYBACK_VIEW" = "Minimize playback";
+"TRACK_SELECTION" = "Track Selection";
+"AUDIO" = "Audio";
+"SUBTITLES" = "උපසිරැසි";
+"LANGUAGE" = "භාෂාව";
+"MEDIA_INFO" = "මාධ්‍ය තොරතුරු";
+"VIDEO_DIMENSIONS" = "Video dimensions";
+"FORMAT_VIDEO_DIMENSIONS" = "%ix%i pixel";
+"FORMAT_AUDIO_TRACKS" = "%i audio tracks";
+"ONE_AUDIO_TRACK" = "One audio track";
+"FORMAT_SPU_TRACKS" = "%i subtitles tracks";
+"ONE_SPU_TRACK" = "One subtitles track";
+"TRACKS" = "%i Tracks";
+"TRACK" = "%i Track";
+
+"PLAYING_EXTERNALLY_TITLE" = "රුපවාහිනිය සම්බන්ධ කෙරුණි";
+"PLAYING_EXTERNALLY_DESC" = "මෙම වීඩියෝව රුපවාහිනිය මත වාදනය වේ";
+"PLAYING_EXTERNALLY_ADDITION" = "\n Now playing on:"; /* \n should stay in every translation */
+
+"VFILTER_HUE" = "පැහැය";
+"VFILTER_CONTRAST" = "අසමතාවය";
+"VFILTER_BRIGHTNESS" = "දීප්තිය";
+"VFILTER_SATURATION" = "සන්තෘප්තිය";
+"VFILTER_GAMMA" = "ගැමා";
+
+"PREAMP" = "Preamp";
+"DB_FORMAT" = "%i dB";
+"CHOOSE_EQUALIZER_PROFILES" = "Choose Equalizer Profile";
+
+"PLAYBACK_FAILED" = "පිළිවැයිම අසාර්ථකයි";
+"PLEASE_WAIT" = "Please wait";
+"AR_CHANGED" = "දර්ශන අනුපාතය: %@";
+"DEFAULT" = "පෙරනිමි ";
+"FILL_TO_SCREEN" = "තිරය පිරවීමට කප්පාදු කරන්න";
+"PLAYBACK_SPEED" = "පිළිවැයිම් වේගය";
+"SPU_DELAY" = "උපසිරැසි ප්‍රමාදය";
+"AUDIO_DELAY" = "Audio delay";
+"BUTTON_SLEEP_TIMER" = "Sleep Timer";
+"SLEEP_TIMER_UPDATED" = "Sleep Timer Updated";
+"CONTINUE_PLAYBACK" = "Continue playback?";
+"CONTINUE_PLAYBACK_LONG" = "Would you like to continue playback of \"%@\" where you left off?";
+
+"BUTTON_ABOUT" = "About";
+"BUTTON_BACK" = "ආපසු";
+"BUTTON_DONE" = "ඉවරයි";
+"BUTTON_CANCEL" = "අත් හරින්න";
+"BUTTON_SAVE" = "සුරකින්න";
+"BUTTON_DOWNLOAD" = "බාගන්න";
+"BUTTON_DELETE" = "මකන්න";
+"BUTTON_OK" = "හරි";
+"BUTTON_CONTRIBUTE" = "දායකවන්න";
+"BUTTON_CONNECT" = "සම්බන්ධ කරන්න";
+"BUTTON_RENAME" = "ප්‍රතිනම් කරන්න";
+"BUTTON_LEARN_MORE" = "තවත් දැනගන්න";
+"BUTTON_LOGOUT" = "Logout";
+"BUTTON_CONTINUE" = "Continue";
+"BUTTON_SET" = "Set";
+"BUTTON_RESET" = "Reset";
+"BUTTON_RESCAN" = "Rescan";
+"PRIVATE_PLAYBACK_TOGGLE" = "පුද්ගලික පිළිවැයීම";
+"SCAN_SUBTITLE_TOGGLE" = "Scan for Subtitles (http-only)";
+
+"BUTTON_RENDERER" = "Casting devices";
+"BUTTON_RENDERER_HINT" = "Show a menu of available casting devices";
+
+"UPGRADING_LIBRARY" = "මාධ්‍ය පුස්තකාලය උසස් කරමින්";
+"UNKNOWN" = "නොදන්නා";
+
+"OPEN_NETWORK" = "ජාල දහරාව විවෘත කරන්න";
+"NETWORK_TITLE" = "ජාල දහරාව";
+"OPEN_NETWORK_HELP" = "දහරාවක් කෙලින්ම විවෘත කිරීමට ඕනෑම HTTP, RTSP, RTMP, MMS, FTP හෝ UDP/RTP ලිපිනයක් යොදන්න.";
+"HTTP_UPLOAD_SERVER_OFF" = "අකර්මණ්‍ය සර්වරය";
+"HTTP_UPLOAD_NO_CONNECTIVITY" = "සක්‍රිය වයිෆයි සම්බන්ධතාවයක් නොමැත";
+"OPEN_STREAM_OR_DOWNLOAD" = "ඔබට මෙම URL වාදනය හෝ භාගත කිරීමට අවශ්‍ය ද?";
+"SHARED_VLC_IOS_LIBRARY" = "Shared VLC for iOS Library";
+"SMB_CIFS_FILE_SERVERS" = "File Servers (SMB)";
+
+"SMB_CIFS_FILE_SERVERS_SHORT" = "SMB";
+
+
+"HTTP_DOWNLOAD_CANCELLED" = "බාගැනීම පරිශීලක විසින් අවලංගු කරන ලදී";
+
+"DOWNLOAD_FROM_HTTP_HELP" = "ඔබේ %@ වෙත ගොනුව බාගැනීමට ලිපිනයක් යොදන්න.";
+"DOWNLOAD_FROM_HTTP" = "බාගැනීම්";
+"ERROR_NUMBER" = "%i දෝෂය හටගැණුනි";
+"DOWNLOAD_FAILED" = "බාගැනීම අසාර්ථකයි";
+"FILE_NOT_SUPPORTED" = "ගොනු ආකෘතිය සහය නොදක්වයි";
+"FILE_NOT_SUPPORTED_LONG" = "The file format used by %@ is not supported by this version of VLC for iOS.";
+"SCHEME_NOT_SUPPORTED" = "ලිපින පරිපාටිය සහය නොදක්වයි";
+"SCHEME_NOT_SUPPORTED_LONG" = "(%@) ලිපින පරිපාටිය සහය නොදක්වයි. කරුණාකර HTTP, HTTPS හෝ FTP සමඟ ඇරඹෙන ලිපිනයක් පාවිච්චි කරන්න.";
+"RENAME_MEDIA_TO" = "%@ සඳහා නව නමක් යොදන්න";
+
+"FOLDER_EMPTY" = "Empty folder";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE" = "Choose a file to open:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE" = "Open In...";
+"SHARING_ERROR_NO_FILES" = "Could not find any files to share";
+"SHARING_ERROR_NO_APPLICATIONS" = "Could not find any applications to open this type of file";
+"SHARING_SUCCESS_CAMERA_ROLL" = "File was successfully saved to the Camera Roll";
+
+"STREAMVC_DETAILTEXT" = "Play streams directly without downloading";
+"DOWNLOADVC_DETAILTEXT" = "Download files directly to your device";
+"HEADER_TITLE_RENDERER" = "Select a casting device";
+
+"NETWORK" = "Network";
+"LOCAL_NETWORK" = "පෙදෙසි ජාලය";
+"CONNECT_TO_SERVER" = "සර්වරය වෙත සම්බන්ධ වන්න";
+"FILE_SERVER" = "File Servers";
+"USER_LABEL" = "පරිශීලක";
+"PASSWORD_LABEL" = "මුරපදය";
+"DISABLE_LABEL" = "Disable";
+"BUTTON_ANONYMOUS_LOGIN" = "Anonymous Login";
+
+"LOCAL_SERVER_REFRESH" = "යළි ප්‍රාණවත් කරන්න";
+"LOCAL_SERVER_LAST_UPDATE" = "අවසන් වරට යාවත්කාලීන කලේ %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE" = "සර්වර් සබඳතාවය අසාර්ථකයි";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE" = "කරුණාකර ඔබේ සර්වරයේ ලිපිනය සහ අක්ත පත්‍ර පරික්ෂා කරන්න";
+
+"CLOUD_SERVICES" = "Cloud Services";
+"LOGIN" = "Login";
+"LOGGED_IN" = "Logged in";
+"LOGGED_IN_SERVICES" = "%d logged in services";
+"LOGGED_IN_SERVICE" = "1 logged in service";
+
+"DROPBOX_DOWNLOAD" = "ගොනුව බාගන්නවද?";
+"DROPBOX_DL_LONG" = "\"%@\" ඔබේ %@ වෙත බාගැනීමට කැමතිද?";
+"DROPBOX_LOGIN" = "පිවිසුම";
+
+"GDRIVE_ERROR_FETCHING_FILES" = "ගොනු පමුණුවීමේදී දෝෂයක් ඇති විය";
+"GDRIVE_DOWNLOAD_SUCCESSFUL" = "ඔබේ ගොනුව සාර්ථකව බාගන්නා ලදී";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE" = "සාර්ථකයි";
+"GDRIVE_ERROR_DOWNLOADING_FILE" = "බාගැනීමේදී දෝෂයක් හට ගැනුණි";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE" = "දෝෂය";
+
+"ONEDRIVE_MEDIA_WITHOUT_URL" = "The selected Media doesn't have a playable url";
+
+"DISK_FULL" = "Storage limit reached";
+"DISK_FULL_FORMAT" = "%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES" = "%i ගොනු";
+"ONE_FILE" = "1 ගොනුව";
+"NO_FILES" = "සහාය දක්වන ගොනු නොමැත";
+"DOWNLOADING" = "බාගනිමින්...";
+"REMAINING_TIME" = "ඉතිරි කාලය: %@";
+"BIOMETRIC_UNLOCK" = "Unlock Media Library\nCancel to enter Passcode";
+
+//PAPasscode Strings that we need to localize for them
+"%d Failed Passcode Attempts" = "%d Failed Passcode Attempts";
+"1 Failed Passcode Attempt" = "1 Failed Passcode Attempt";
+"Change Passcode" = "Change Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Enter a passcode" = "Enter a passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your passcode" = "Enter your passcode";
+"Next" = "Next";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Re-enter your new passcode" = "Re-enter your new passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Set Passcode" = "Set Passcode";
+
+"Settings" = "සැකසුම්"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+"ON" = "On";
+"OFF" = "Off";
+
+"EMPTY_LIBRARY" = "හිස් මාධ්‍ය පුස්තකාලය";
+"EMPTY_LIBRARY_LONG" = "පිළිවැයීම සඳහා, ඔබට ඔබේ ස්ථානීය ජාලය තුල සර්වරයකින් මාධ්‍ය ප්‍රවාහ කිරීම, වළාවෙන් හෝ අයිටියුන්ස්, වයිෆයි උඩුගත කිරීම හෝ වළාකුළු සේවාවන් භාවිතා කරමින් ඔබේ උපංගය වෙත මාධ්‍ය සම්මුහුර්ත කරන්න.";
+
+"EMPTY_PLAYLIST" = "Empty playlist";
+"EMPTY_PLAYLIST_DESCRIPTION" = "Add media while editing in the respective categories.";
+
+"PLAYBACK_SCRUB_HELP" = "ඇතිල්ලීම් අනුපාතය සීරුමාරු කිරීමට ඔබේ ඇඟිල්ල පහලට ලුහුටන්න.";
+"PLAYBACK_SCRUB_HIGH" = "උච්ච-වේග ඇතිල්ලීම";
+"PLAYBACK_SCRUB_HALF" = "අර්ධ-වේග ඇතිල්ලීම";
+"PLAYBACK_SCRUB_QUARTER" = "කාර්තු-වේග ඇතිල්ලීම";
+"PLAYBACK_SCRUB_FINE" = "සියුම් ඇතිල්ලීම";
+"PLAYBACK_POSITION" = "පිළිවැයීම් ස්ථානය";
+"VIDEO_FILTER" = "විදෘශ්‍ය පෙරහන්";
+"VIDEO_FILTER_RESET_BUTTON" = "විදෘශ්‍ය පෙරහන් යළිසකසන්න";
+"VIDEO_ASPECT_RATIO_BUTTON" = "වීඩියෝවේ දර්ශන අනුපාතය මාරු කරන්න";
+"PLAY_PAUSE_BUTTON" = "වත්මන් පිළිවැයීම වයන්න හෝ විරාමගත කරන්න";
+"BWD_BUTTON" = "පසුපසට පනින්න";
+"FWD_BUTTON" = "ඉදිරියට පනින්න";
+"PLAY_BUTTON" = "Play";
+"NEXT_BUTTON" = "Next";
+"PREV_BUTTON" = "Previous";
+"PLAY_ALL_BUTTON" = "Play all";
+
+"VERSION_FORMAT" = "අනුවාදය: %@";
+"BASED_ON_FORMAT" = "පදනම් වේ:<br />%@";
+
+"NEW" = "නව";
+
+"BUG_REPORT_TITLE" = "දෝෂයක් වාර්තා කරන්න";
+"BUG_REPORT_MESSAGE" = "දෝෂ වාර්තාවක් තැනීමට ඔබ කැමතිද?";
+"BUG_REPORT_BUTTON" = "සෆාරි විවෘත කරන්න";
+
+"VO_VIDEOPLAYER_TITLE" = "විදෘශ්‍ය වාදකය";
+"VO_VIDEOPLAYER_DOUBLETAP" = "පිළිවැයීම් පාලක පෙන්වීමට හෝ සැඟවීමට දෙවරක් තට්ටු කරන්න";
+
+"FIRST_STEPS_ITUNES" = "අයිටියුන්ස් ගොනු සම්මුහුර්තය";
+"FIRST_STEPS_ITUNES_TITLE" = "Sync With Your Computer";
+"FIRST_STEPS_ITUNES_DETAILS" = "Connect your device to iTunes and select your device. Select \"File Sharing\" on the left side menu of iTunes and look for VLC to transfer files";
+"FIRST_STEPS_WIFI_TITLE" = "Share via Wifi";
+"FIRST_STEPS_WIFI_DETAILS" = "Enter the generated URL in your favorite web browser while connected to the same network as your phone";
+"FIRST_STEPS_CLOUDS" = "වළාකුළු";
+"FIRST_STEPS_CLOUD_TITLE" = "Cloud";
+"FIRST_STEPS_CLOUD_DETAILS" = "Upload your media to a cloud service like Google Drive or Dropbox to remotely download or stream them.";
+
+
+"PLEX_CHECK_ACCOUNT" = "Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT" = "Plex login Error";
+
+"UNAUTHORIZED" = "Unauthorized";
+
+"SERVER" = "Server";
+"SERVER_PORT" = "Port";
+"NO_SERVER_FOUND" = "No server found";
+"NO_RECENT_STREAMS" = "No stream was played recently";
+
+"WEBINTF_TITLE" = "Sharing via WiFi";
+"WEBINTF_DROPFILES" = "Drop Files";
+"WEBINTF_DROPFILES_LONG" = "Drop files in the window to add them to your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_DOWNLOADFILES" = "Download Files";
+"WEBINTF_DOWNLOADFILES_LONG" = "Just click the file you want to download from your %@.";
+"WEBINTF_TITLE_ATV" = "Remote Playback";
+"WEBINTF_DROPFILES_LONG_ATV" = "Drop files in the window to play them on your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_URL_SENT" = "URL sent successfully.";
+"WEBINTF_URL_EMPTY" = "URL cannot be empty.";
+"WEBINTF_URL_INVALID" = "Not a valid URL.";
+
+
+
+"DURATION" = "Duration";
+"TITLE" = "Title";
+
+// strings from VLCKit
+
+// accessibility labels for the playlist
+
+
+"LONGPRESS_TO_STOP" = "Long-press to stop playback.";
+
+// ATV specific
+"AUDIO_INFO_VC_TITLE" = "Audio Info";
+"CLOUD_LOGIN_LONG" = "To access Cloud Services, sign-in to iCloud on both this Apple TV and an iOS device with the same Apple ID and enable Keychain Sharing in System Settings.\nAfterwards, login to the cloud provider of your choice using the VLC app on your iOS device. Finally, select it on this screen.";
+"ENTER_URL" = "Enter URL to play";
+"HTTP_SERVER_ON" = "Disable Remote Playback";
+"HTTP_SERVER_OFF" = "Enable Remote Playback";
+"CACHED_MEDIA" = "Cached Media";
+"CACHED_MEDIA_LONG" = "Media shown here is stored locally on your Apple TV. Note that contents can be removed by the operating system without prior notice anytime when VLC is not running in case your device runs out of storage.";
+"DOWNLOAD_SUBS_FROM_OSO" = "Download subtitles from OpenSubtitles.org...";
+"FOUND_SUBS" = "Found subtitles";
+"USE_SPDIF" = "Use Pass-through (S/PDIF)";
+
+"PLAYBACK" = "Playback";
+"REPEAT_MODE" = "Repeat";
+"REPEAT_DISABLED" = "Disabled";
+"REPEAT_SINGLE" = "Single";
+"REPEAT_FOLDER" = "Folder";
+
+// Local Network Service Names
+"UPNP_LONG" = "Universal Plug'n'Play (UPnP)";
+"UPNP_SHORT" = "UPnP";
+
+"PLEX_LONG" = "Plex Media Server (via Bonjour)";
+"PLEX_SHORT" = "Plex";
+
+"FTP_LONG" = "File Transfer Protocol (FTP)";
+"FTP_SHORT" = "FTP";
+
+"BONJOUR_FILE_SERVERS" = "BONJOUR File Server";
+"DSM_WORKGROUP" = "Workgroup";
+
+"URL_NOT_SUPPORTED" = "The URL can't be opened";
+
+// Insert %@ where play-pause-glyph should be placed
+"DELETE_ITEM_HINT" = "Press %@ to Delete"; /* Insert %@ where play-pause-glyph should be placed */
+
+"DELETE_MESSAGE" = "Confirm the deletion of the selection";
+"DELETE_MESSAGE_PLAYLIST" = "Are you sure to delete the selected playlist?\nAssociated media files won't be deleted.";
+"DELETE_MESSAGE_PLAYLIST_CONTENT" = "Are you sure to remove the selected media from the playlist?\nThey won't be deleted from the disk.";
+"DELETE_TITLE" = "Delete Selection";
+
+//Drag and Drop
+"THIS_FILE" = "This file";
+"NOT_SUPPORTED_FILETYPE" = "%@ is not a supported filetype by VLC";
+"FILE_EXISTS" = "%@ already exists";
+
+"PROTOCOL_NOT_SELECTED" = "Protocol not selected";
+"Settings" = "සැකසුම්";
+
+"ERROR" = "Error";
+"OK" = "Ok";
+"SORT" = "Sort";
+"SORT_BY" = "Sort by";
+"SEARCH" = "Search";
+"VIDEO" = "Video";
+
+// MediaViewController Swipable Header
+"ALBUMS" = "Albums";
+"ARTISTS" = "Artists";
+"EPISODES" = "Episodes";
+"GENRES" = "Genres";
+"MOVIES" = "Movies";
+"SONGS" = "Songs";
+"PLAYLISTS" = "Playlists";
+"VIDEO_GROUPS" = "Video groups";
+
+"MODIFIED_DATE" = "Modified date";
+"NAME" = "Name";
+
+//EDIT
+
+"BUTTON_EDIT" = "Edit";
+"BUTTON_EDIT_HINT" = "Edit mode";
+
+"ADD_TO_PLAYLIST" = "Add to Playlist";
+"ADD_TO_PLAYLIST_HINT" = "Open the add to playlist menu";
+
+"PLAYLIST_PLACEHOLDER" = "Playlist title";
+"PLAYLIST_DESCRIPTION" = "Choose a title for your new playlist";
+"PLAYLIST_CREATION" = "Create a new playlist";
+"PLAYLIST_CREATION_HINT" = "Show an interactive action to create a playlist";
+"ERROR_PLAYLIST_CREATION" = "Failed to create a playlist";
+"ERROR_PLAYLIST_TRACKS" = "Failed to retrieve tracks";
+
+"ERROR_RENAME_FAILED" = "Renaming failed";
+"ERROR_EMPTY_NAME" = "The title can't be empty";
+
+"SHARE_LABEL" = "Share";
+"SHARE_HINT" = "Share selected files";
+"RENAME_HINT" = "Rename selected files";
+"DELETE_HINT" = "Delete selected files";
+
+// Sort
+
+"BUTTON_SORT" = "Sort";
+"BUTTON_SORT_HINT" = "Display sort action sheet";
+"HEADER_TITLE_SORT" = "Sort by";
+"DESCENDING_LABEL" = "Descending Order";
+"DESCENDING_SWITCH_LABEL" = "Ascending or descending order";
+"DESCENDING_SWITCH_HINT" = "Sort context in ascending or descending order";
+
+// VLCMediaLibraryKit - Sorting Criteria
+
+"ALPHA" = "Alphanumerically";
+"DURATION" = "Duration";
+"INSERTION_DATE" = "Insertion date";
+"LAST_MODIFICATION_DATE" = "Last modification date";
+"RELEASE_DATE" = "Release date";
+"FILE_SIZE" = "File size";
+"ARTIST" = "Artist";
+"PLAY_COUNT" = "Play count";
+"ALBUM" = "Album";
+"FILENAME" = "Filename";
+"TRACK_NUMBER" = "Track number";
+"NB_AUDIO" = "Number of audio";
+"NB_MEDIA" = "Number of media";
+"NB_VIDEO" = "Number of video";
+
+// VLCNetworkLoginTVViewController
+
+"NO_SAVING_DATA" = "Nothing found";
+
+// MediaCollectionViewCell
+
+"UNKNOWN_ARTIST" = "Unknown Artist";
+"VARIOUS_ARTIST" = "Various Artists";
+"UNKNOWN_ALBUM" = "Unknown Album";
+
+/* VideoOptionsControlBar */
+"INTERFACE_LOCK_BUTTON" = "Lock interface";
+"INTERFACE_LOCK_HINT" = "Disable interface controls";
+"MORE_OPTIONS_BUTTON" = "More";
+"MORE_OPTIONS_HINT" = "View more option controls";
+"REPEAT_MODE_HINT" = "Change repeat mode of current item";
+"VIDEO_ASPECT_RATIO_HINT" = "Change the aspect ratio of the current video";
+
+/* MediaMoreOptionsActionSheet */
+"EQUALIZER_CELL_TITLE" = "Equalizer";
+"MORE_OPTIONS_HEADER_TITLE" = "Video Options";
+
+/* Settings - Force rescan alert */
+"FORCE_RESCAN_TITLE" = "Force media library rescan";
+"FORCE_RESCAN_MESSAGE" = "Do you want to force VLC to rescan your media library?\nIt could take some time.";
+
+// Local Network
+
+"SMBV1_WARN_TITLE" = "SMBv1 Connection Warning";
+"SMBV1_WARN_DESCRIPTION" = "We detected an old protocol (SMBv1).\nAre you really sure to continue with SMBv1?\nWe advise upgrading or changing your server settings.";
+"SMBV1_CONTINUE" = "Continue with SMBv1";
+"SMBV1_NEXT_PROTOCOL" = "Try SMBv2/v3";
